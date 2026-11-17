@@ -1,0 +1,9 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2, "at": -1, "says": { "text": "هذه *بطاقة* اختبار" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "name": "fade", "duration": 0.3 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.5, 2.2, 3.4]
+}

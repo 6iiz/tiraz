@@ -1,0 +1,13 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2, "at": -1, "says": { "text": "هذه *بطاقة* اختبار" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.5, "says": { "value": 42, "label": "قياس" }, "sfx": [ { "kind": "tick", "t": 0.4 } ] } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "name": "fade", "duration": 0.3 },
+  "transitions": [ null, { "joint": "/brand/look/joint.js", "duration": 0.3 } ],
+  "over": { "scene": "/brand/look/mark.js" },
+  "cover": 0.8,
+  "bed": -30,
+  "sfx": [ { "kind": "pop", "t": 0.05, "gain": -10 } ]
+}

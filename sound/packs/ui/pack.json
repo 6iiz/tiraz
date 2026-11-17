@@ -1,0 +1,427 @@
+{
+ "badge_glass.wav": {
+  "anchor": "start",
+  "kind": "ding",
+  "source": "uisfx glass/badge",
+  "tags": [
+   "bright",
+   "glass",
+   "short"
+  ]
+ },
+ "badge_organic.wav": {
+  "anchor": "start",
+  "kind": "ding",
+  "source": "uisfx organic/badge",
+  "tags": [
+   "mid-tone",
+   "organic",
+   "short"
+  ]
+ },
+ "blocked_glass.wav": {
+  "anchor": "start",
+  "kind": "error",
+  "source": "uisfx glass/blocked",
+  "tags": [
+   "glass",
+   "mid-tone",
+   "short"
+  ]
+ },
+ "bonus_organic.wav": {
+  "anchor": "start",
+  "kind": "sparkle",
+  "source": "uisfx organic/bonus",
+  "tags": [
+   "mid-tone",
+   "organic",
+   "short"
+  ]
+ },
+ "complete_cinematic.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "uisfx cinematic/complete",
+  "tags": [
+   "cinematic",
+   "long",
+   "mid-tone",
+   "resolve"
+  ]
+ },
+ "complete_dreamy.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "uisfx dreamy/complete",
+  "tags": [
+   "dark",
+   "dreamy",
+   "long",
+   "resolve"
+  ]
+ },
+ "error_mechanical.wav": {
+  "anchor": "start",
+  "kind": "error",
+  "source": "uisfx mechanical/error",
+  "tags": [
+   "mechanical",
+   "mid-tone",
+   "short"
+  ]
+ },
+ "error_scifi.wav": {
+  "anchor": "start",
+  "kind": "error",
+  "source": "uisfx scifi/error",
+  "tags": [
+   "mid-tone",
+   "scifi",
+   "short"
+  ]
+ },
+ "error_soft.wav": {
+  "anchor": "start",
+  "kind": "error",
+  "source": "uisfx soft/error",
+  "tags": [
+   "mid-tone",
+   "short",
+   "soft"
+  ]
+ },
+ "hover_glass.wav": {
+  "anchor": "start",
+  "kind": "tick",
+  "source": "uisfx glass/hover",
+  "tags": [
+   "glass",
+   "mid-tone"
+  ]
+ },
+ "hover_mechanical.wav": {
+  "anchor": "start",
+  "kind": "tick",
+  "source": "uisfx mechanical/hover",
+  "tags": [
+   "mechanical",
+   "mid-tone"
+  ]
+ },
+ "hover_minimal.wav": {
+  "anchor": "start",
+  "kind": "tick",
+  "source": "uisfx minimal/hover",
+  "tags": [
+   "mid-tone",
+   "minimal"
+  ]
+ },
+ "mention_dreamy.wav": {
+  "anchor": "start",
+  "kind": "notify",
+  "source": "uisfx dreamy/mention",
+  "tags": [
+   "bright",
+   "dreamy",
+   "mid-tone",
+   "short"
+  ]
+ },
+ "notification_glass.wav": {
+  "anchor": "start",
+  "kind": "notify",
+  "source": "uisfx glass/notification",
+  "tags": [
+   "glass",
+   "mid-tone",
+   "short"
+  ]
+ },
+ "notification_soft.wav": {
+  "anchor": "start",
+  "kind": "notify",
+  "source": "uisfx soft/notification",
+  "tags": [
+   "mid-tone",
+   "short",
+   "soft"
+  ]
+ },
+ "notification_studio.wav": {
+  "anchor": "start",
+  "kind": "notify",
+  "source": "uisfx studio/notification",
+  "tags": [
+   "mid-tone",
+   "short",
+   "studio"
+  ]
+ },
+ "press_mechanical.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "uisfx mechanical/press",
+  "tags": [
+   "mechanical",
+   "mid-tone"
+  ]
+ },
+ "press_minimal.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "uisfx minimal/press",
+  "tags": [
+   "mid-tone",
+   "minimal"
+  ]
+ },
+ "press_soft.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "uisfx soft/press",
+  "tags": [
+   "mid-tone",
+   "soft"
+  ]
+ },
+ "progress-step_scifi.wav": {
+  "anchor": "start",
+  "kind": "tick",
+  "source": "uisfx scifi/progress-step",
+  "tags": [
+   "mid-tone",
+   "scifi",
+   "step"
+  ]
+ },
+ "progress-step_zen.wav": {
+  "anchor": "start",
+  "kind": "tick",
+  "source": "uisfx zen/progress-step",
+  "tags": [
+   "dark",
+   "step",
+   "zen"
+  ]
+ },
+ "reaction_glass.wav": {
+  "anchor": "start",
+  "kind": "pop",
+  "source": "uisfx glass/reaction",
+  "tags": [
+   "glass",
+   "high"
+  ]
+ },
+ "reaction_rubber.wav": {
+  "anchor": "start",
+  "kind": "pop",
+  "source": "uisfx rubber/reaction",
+  "tags": [
+   "high",
+   "rubber"
+  ]
+ },
+ "reaction_soft.wav": {
+  "anchor": "start",
+  "kind": "pop",
+  "source": "uisfx soft/reaction",
+  "tags": [
+   "high",
+   "soft"
+  ]
+ },
+ "reward_dreamy.wav": {
+  "anchor": "start",
+  "kind": "sparkle",
+  "source": "uisfx dreamy/reward",
+  "tags": [
+   "dreamy",
+   "mid-tone",
+   "short"
+  ]
+ },
+ "reward_glass.wav": {
+  "anchor": "start",
+  "kind": "sparkle",
+  "source": "uisfx glass/reward",
+  "tags": [
+   "glass",
+   "mid-tone",
+   "short"
+  ]
+ },
+ "snap_minimal.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "uisfx minimal/snap",
+  "tags": [
+   "mid-tone",
+   "minimal",
+   "snap"
+  ]
+ },
+ "snap_organic.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "uisfx organic/snap",
+  "tags": [
+   "bright",
+   "organic",
+   "snap"
+  ]
+ },
+ "success_glass.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "uisfx glass/success",
+  "tags": [
+   "glass",
+   "mid-tone",
+   "short"
+  ]
+ },
+ "success_soft.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "uisfx soft/success",
+  "tags": [
+   "mid-tone",
+   "short",
+   "soft"
+  ]
+ },
+ "success_studio.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "uisfx studio/success",
+  "tags": [
+   "mid-tone",
+   "short",
+   "studio"
+  ]
+ },
+ "swipe_glass.wav": {
+  "anchor": "start",
+  "kind": "swish",
+  "source": "uisfx glass/swipe",
+  "tags": [
+   "glass",
+   "mid-tone"
+  ]
+ },
+ "swipe_minimal.wav": {
+  "anchor": "start",
+  "kind": "swish",
+  "source": "uisfx minimal/swipe",
+  "tags": [
+   "mid-tone",
+   "minimal"
+  ]
+ },
+ "swipe_soft.wav": {
+  "anchor": "start",
+  "kind": "swish",
+  "source": "uisfx soft/swipe",
+  "tags": [
+   "mid-tone",
+   "soft"
+  ]
+ },
+ "toggle-off_minimal.wav": {
+  "anchor": "start",
+  "kind": "toggle",
+  "source": "uisfx minimal/toggle-off",
+  "tags": [
+   "mid-tone",
+   "minimal",
+   "off"
+  ]
+ },
+ "toggle-off_soft.wav": {
+  "anchor": "start",
+  "kind": "toggle",
+  "source": "uisfx soft/toggle-off",
+  "tags": [
+   "mid-tone",
+   "off",
+   "soft"
+  ]
+ },
+ "toggle-on_minimal.wav": {
+  "anchor": "start",
+  "kind": "toggle",
+  "source": "uisfx minimal/toggle-on",
+  "tags": [
+   "mid-tone",
+   "minimal",
+   "on"
+  ]
+ },
+ "toggle-on_soft.wav": {
+  "anchor": "start",
+  "kind": "toggle",
+  "source": "uisfx soft/toggle-on",
+  "tags": [
+   "mid-tone",
+   "on",
+   "soft"
+  ]
+ },
+ "typing_mechanical.wav": {
+  "anchor": "start",
+  "kind": "type",
+  "source": "uisfx mechanical/typing",
+  "tags": [
+   "bright",
+   "mechanical"
+  ]
+ },
+ "typing_minimal.wav": {
+  "anchor": "start",
+  "kind": "type",
+  "source": "uisfx minimal/typing",
+  "tags": [
+   "mid-tone",
+   "minimal"
+  ]
+ },
+ "typing_organic.wav": {
+  "anchor": "start",
+  "kind": "type",
+  "source": "uisfx organic/typing",
+  "tags": [
+   "mid-tone",
+   "organic"
+  ]
+ },
+ "typing_scifi.wav": {
+  "anchor": "start",
+  "kind": "type",
+  "source": "uisfx scifi/typing",
+  "tags": [
+   "mid-tone",
+   "scifi"
+  ]
+ },
+ "typing_soft.wav": {
+  "anchor": "start",
+  "kind": "type",
+  "source": "uisfx soft/typing",
+  "tags": [
+   "mid-tone",
+   "soft"
+  ]
+ },
+ "typing_studio.wav": {
+  "anchor": "start",
+  "kind": "type",
+  "source": "uisfx studio/typing",
+  "tags": [
+   "mid-tone",
+   "studio"
+  ]
+ }
+}

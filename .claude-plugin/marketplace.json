@@ -1,0 +1,12 @@
+{
+  "name": "tiraz",
+  "owner": { "name": "xTalal", "url": "https://xtalal.com" },
+  "description": "Tiraz: a director for Claude Code. It designs a look for your brand from scratch, makes your Arabic reels and your site in it, and checks every result before you see it, on your own machine.",
+  "plugins": [
+    {
+      "name": "tiraz",
+      "source": "./",
+      "description": "Designs a look for your brand from scratch, then makes Arabic reels and a one-page site in it, each checked before you see it: Arabic text, facts, sound, contrast, motion. Ships mechanics, guides and checks, and no templates."
+    }
+  ]
+}

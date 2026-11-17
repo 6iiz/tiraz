@@ -1,0 +1,6 @@
+[
+ {
+  "name": "CylinderRoll",
+  "reason": "broke the test: pair 1 progress 0: mean 53.56, 40.0% of pixels off"
+ }
+]

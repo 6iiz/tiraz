@@ -1,0 +1,8 @@
+# Files are stored exactly as they are, with no line-ending conversion: vendored files stay byte for byte.
+* -text
+
+# Third-party files are not counted as this repository's own code.
+vendor/** linguist-vendored
+assets/icons/** linguist-vendored
+assets/fonts/** linguist-vendored
+sound/packs/** linguist-vendored

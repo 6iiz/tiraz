@@ -1,0 +1,14 @@
+{
+  "name": "بطاقة اختبار",
+  "shortName": "اختبار",
+  "handle": "@test.card",
+  "platform": "instagram",
+  "dir": "rtl",
+  "colors": { "bg": "#1B1B1B", "text": "#F2F2F2", "accent": "#FFD400" },
+  "fonts": {
+    "display": { "family": "Noto Sans Arabic", "file": "/assets/fonts/Noto Sans Arabic/NotoSansArabic[wdth,wght].ttf", "weight": "100 900" },
+    "mono": { "family": "JetBrains Mono", "file": "/assets/fonts/JetBrains Mono/JetBrainsMono[wght].ttf", "weight": "100 800" }
+  },
+  "logo": { "path": "M32 32H224V224H32ZM88 88V168H168V88Z", "box": 256, "rule": "evenodd" },
+  "look": "/brand/look/"
+}

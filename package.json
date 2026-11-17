@@ -1,0 +1,10 @@
+{
+  "name": "tiraz",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Renderer dependencies of Tiraz. Run `npm install` here once.",
+  "dependencies": {
+    "playwright": "1.56.1"
+  }
+}

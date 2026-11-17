@@ -1,0 +1,854 @@
+{
+ "access-denied_s0.wav": {
+  "anchor": "start",
+  "kind": "error",
+  "source": "plinkfx access-denied (Keycard rejected: low double buzz with a crackle) seed 0",
+  "tags": [
+   "digital",
+   "plink",
+   "scifi"
+  ]
+ },
+ "access-granted_s0.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "plinkfx access-granted (Keycard accepted: two bright beeps) seed 0",
+  "tags": [
+   "digital",
+   "plink",
+   "scifi"
+  ]
+ },
+ "achievement_s0.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "plinkfx achievement (Achievement unlocked) seed 0",
+  "tags": [
+   "jingle",
+   "plink",
+   "resolve"
+  ]
+ },
+ "alarm_s0.wav": {
+  "anchor": "start",
+  "kind": "error",
+  "source": "plinkfx alarm (Two-tone alarm, loops cleanly if repeated) seed 0",
+  "tags": [
+   "alert",
+   "long",
+   "plink"
+  ]
+ },
+ "bonk_s0.wav": {
+  "anchor": "start",
+  "kind": "thump",
+  "source": "plinkfx bonk (Cartoon bonk on the head) seed 0",
+  "tags": [
+   "hit",
+   "plink"
+  ]
+ },
+ "boost_s0.wav": {
+  "anchor": "start",
+  "kind": "whoosh",
+  "source": "plinkfx boost (Nitro / turbo boost: whoosh with a rising jet whine) seed 0",
+  "tags": [
+   "long",
+   "plink",
+   "vehicle"
+  ]
+ },
+ "bubble_s0.wav": {
+  "anchor": "start",
+  "kind": "pop",
+  "source": "plinkfx bubble (Bubbles rising) seed 0",
+  "tags": [
+   "mid",
+   "plink",
+   "world"
+  ]
+ },
+ "button_s0.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "plinkfx button (Press a mechanical floor button) seed 0",
+  "tags": [
+   "mechanic",
+   "plink"
+  ]
+ },
+ "buzzer-wrong_s0.wav": {
+  "anchor": "start",
+  "kind": "error",
+  "source": "plinkfx buzzer-wrong (Quiz-show wrong-answer buzzer) seed 0",
+  "tags": [
+   "alert",
+   "plink"
+  ]
+ },
+ "card-deal_s0.wav": {
+  "anchor": "start",
+  "kind": "rustle",
+  "source": "plinkfx card-deal (Deal a card across the table: swish and slap) seed 0",
+  "tags": [
+   "card",
+   "plink",
+   "short"
+  ]
+ },
+ "card-shuffle_s0.wav": {
+  "anchor": "start",
+  "kind": "rustle",
+  "source": "plinkfx card-shuffle (Riffle shuffle: a fast burst of card ticks) seed 0",
+  "tags": [
+   "card",
+   "plink"
+  ]
+ },
+ "charge-up_s0.wav": {
+  "anchor": "end",
+  "kind": "riser",
+  "source": "plinkfx charge-up (Charging a shot, rising tension) seed 0",
+  "tags": [
+   "1s",
+   "plink",
+   "powerup"
+  ]
+ },
+ "click-hard_s0.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "plinkfx click-hard (Firm mechanical click) seed 0",
+  "tags": [
+   "hard",
+   "plink",
+   "ui"
+  ]
+ },
+ "click-soft_s0.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "plinkfx click-soft (Rounded, quiet click for lists and tabs) seed 0",
+  "tags": [
+   "plink",
+   "soft",
+   "ui"
+  ]
+ },
+ "click_s0.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "plinkfx click (Neutral button click) seed 0",
+  "tags": [
+   "plink",
+   "ui"
+  ]
+ },
+ "coin-double_s0.wav": {
+  "anchor": "start",
+  "kind": "ding",
+  "source": "plinkfx coin-double (Two coins in quick succession) seed 0",
+  "tags": [
+   "pickup",
+   "plink"
+  ]
+ },
+ "coin-soft_s0.wav": {
+  "anchor": "start",
+  "kind": "ding",
+  "source": "plinkfx coin-soft (Rounder coin for cosy games) seed 0",
+  "tags": [
+   "pickup",
+   "plink",
+   "soft"
+  ]
+ },
+ "coin_s0.wav": {
+  "anchor": "start",
+  "kind": "ding",
+  "source": "plinkfx coin (The classic two-note coin, with a little shimmer) seed 0",
+  "tags": [
+   "pickup",
+   "plink"
+  ]
+ },
+ "combo-chain_s0.wav": {
+  "anchor": "start",
+  "kind": "sparkle",
+  "source": "plinkfx combo-chain (Cascade combo: each step a little higher (pitch it per chain)) seed 0",
+  "tags": [
+   "plink",
+   "puzzle"
+  ]
+ },
+ "confirm_s0.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "plinkfx confirm (Bright major arpeggio, 'OK') seed 0",
+  "tags": [
+   "plink",
+   "ui"
+  ]
+ },
+ "countdown_s0.wav": {
+  "anchor": "start",
+  "kind": "tick",
+  "source": "plinkfx countdown (Countdown tick: 3, 2, 1) seed 0",
+  "tags": [
+   "alert",
+   "plink"
+  ]
+ },
+ "dash_s0.wav": {
+  "anchor": "start",
+  "kind": "swish",
+  "source": "plinkfx dash (Quick dash with a burst) seed 0",
+  "tags": [
+   "fast",
+   "plink",
+   "world"
+  ]
+ },
+ "deny_s0.wav": {
+  "anchor": "start",
+  "kind": "error",
+  "source": "plinkfx deny (Short dull thunk for disabled buttons) seed 0",
+  "tags": [
+   "plink",
+   "ui"
+  ]
+ },
+ "dig_s0.wav": {
+  "anchor": "start",
+  "kind": "rustle",
+  "source": "plinkfx dig (Shovel into soil) seed 0",
+  "tags": [
+   "farm",
+   "grit",
+   "plink"
+  ]
+ },
+ "dispel_s0.wav": {
+  "anchor": "start",
+  "kind": "shimmer",
+  "source": "plinkfx dispel (Dispel: shimmer that falls away) seed 0",
+  "tags": [
+   "magic",
+   "plink"
+  ]
+ },
+ "enchant_s0.wav": {
+  "anchor": "start",
+  "kind": "shimmer",
+  "source": "plinkfx enchant (Enchant an item: bells in a row) seed 0",
+  "tags": [
+   "magic",
+   "plink"
+  ]
+ },
+ "error_s0.wav": {
+  "anchor": "start",
+  "kind": "error",
+  "source": "plinkfx error (Two low buzzes, 'not allowed') seed 0",
+  "tags": [
+   "plink",
+   "ui"
+  ]
+ },
+ "explosion-big_s0.wav": {
+  "anchor": "start",
+  "kind": "impact",
+  "source": "plinkfx explosion-big (Huge blast with a long rolling tail) seed 0",
+  "tags": [
+   "big",
+   "explosion",
+   "long",
+   "plink"
+  ]
+ },
+ "explosion-small_s0.wav": {
+  "anchor": "start",
+  "kind": "impact",
+  "source": "plinkfx explosion-small (Small pop of an explosion, grenades, barrels) seed 0",
+  "tags": [
+   "explosion",
+   "plink",
+   "small"
+  ]
+ },
+ "explosion_s0.wav": {
+  "anchor": "start",
+  "kind": "impact",
+  "source": "plinkfx explosion (Mid-size explosion: crack, rumble, tail) seed 0",
+  "tags": [
+   "big",
+   "explosion",
+   "plink"
+  ]
+ },
+ "fall-whistle_s0.wav": {
+  "anchor": "start",
+  "kind": "drop",
+  "source": "plinkfx fall-whistle (Cartoon falling whistle) seed 0",
+  "tags": [
+   "jump",
+   "long",
+   "plink"
+  ]
+ },
+ "force-field_s0.wav": {
+  "anchor": "start",
+  "kind": "bed",
+  "source": "plinkfx force-field (Force field or reactor hum, seamless loop) seed 0",
+  "tags": [
+   "loop",
+   "plink",
+   "tech",
+   "world"
+  ]
+ },
+ "game-over_s0.wav": {
+  "anchor": "start",
+  "kind": "error",
+  "source": "plinkfx game-over (Game over: slow sad descent) seed 0",
+  "tags": [
+   "jingle",
+   "long",
+   "plink"
+  ]
+ },
+ "gem_s0.wav": {
+  "anchor": "start",
+  "kind": "sparkle",
+  "source": "plinkfx gem (Glassy bell for gems and crystals) seed 0",
+  "tags": [
+   "pickup",
+   "plink"
+  ]
+ },
+ "glitch_s0.wav": {
+  "anchor": "start",
+  "kind": "glitch",
+  "source": "plinkfx glitch (Digital glitch: stuttering crushed burst) seed 0",
+  "tags": [
+   "plink",
+   "scifi"
+  ]
+ },
+ "heal_s0.wav": {
+  "anchor": "start",
+  "kind": "shimmer",
+  "source": "plinkfx heal (Healing: soft rising chime with shimmer) seed 0",
+  "tags": [
+   "long",
+   "plink",
+   "powerup"
+  ]
+ },
+ "hit-heavy_s0.wav": {
+  "anchor": "start",
+  "kind": "impact",
+  "source": "plinkfx hit-heavy (Heavy blow with crunch and low end) seed 0",
+  "tags": [
+   "big",
+   "hit",
+   "plink"
+  ]
+ },
+ "hit-light_s0.wav": {
+  "anchor": "start",
+  "kind": "thump",
+  "source": "plinkfx hit-light (Light jab or tap) seed 0",
+  "tags": [
+   "hit",
+   "plink",
+   "soft"
+  ]
+ },
+ "hit_s0.wav": {
+  "anchor": "start",
+  "kind": "impact",
+  "source": "plinkfx hit (Solid all-round hit: click, body, thump) seed 0",
+  "tags": [
+   "hit",
+   "plink"
+  ]
+ },
+ "hover_s0.wav": {
+  "anchor": "start",
+  "kind": "tick",
+  "source": "plinkfx hover (Faint tick when the cursor enters a button) seed 0",
+  "tags": [
+   "plink",
+   "soft",
+   "ui"
+  ]
+ },
+ "implosion_s0.wav": {
+  "anchor": "start",
+  "kind": "drop",
+  "source": "plinkfx implosion (Reverse-feel suck-in then thump) seed 0",
+  "tags": [
+   "explosion",
+   "long",
+   "plink"
+  ]
+ },
+ "ka-ching_s0.wav": {
+  "anchor": "start",
+  "kind": "ding",
+  "source": "plinkfx ka-ching (Cash register for shops and purchases) seed 0",
+  "tags": [
+   "pickup",
+   "plink"
+  ]
+ },
+ "kick_s0.wav": {
+  "anchor": "start",
+  "kind": "thump",
+  "source": "plinkfx kick (Kick: low thump with a cloth snap) seed 0",
+  "tags": [
+   "hit",
+   "plink"
+  ]
+ },
+ "land-heavy_s0.wav": {
+  "anchor": "start",
+  "kind": "thump",
+  "source": "plinkfx land-heavy (Heavy landing with a thud) seed 0",
+  "tags": [
+   "jump",
+   "plink"
+  ]
+ },
+ "leaf-rustle_s0.wav": {
+  "anchor": "start",
+  "kind": "rustle",
+  "source": "plinkfx leaf-rustle (Leaves rustling in a bush) seed 0",
+  "tags": [
+   "nature",
+   "plink"
+  ]
+ },
+ "level-up_s0.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "plinkfx level-up (Level up: chord, sparkle and hold) seed 0",
+  "tags": [
+   "long",
+   "plink",
+   "powerup"
+  ]
+ },
+ "magic-missile_s0.wav": {
+  "anchor": "start",
+  "kind": "swish",
+  "source": "plinkfx magic-missile (Homing magic bolt) seed 0",
+  "tags": [
+   "bright",
+   "magic",
+   "plink"
+  ]
+ },
+ "match_s0.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "plinkfx match (Three in a row: bright glassy pop) seed 0",
+  "tags": [
+   "plink",
+   "puzzle"
+  ]
+ },
+ "message_s0.wav": {
+  "anchor": "start",
+  "kind": "notify",
+  "source": "plinkfx message (Chat message arrives) seed 0",
+  "tags": [
+   "plink",
+   "ui"
+  ]
+ },
+ "notify_s0.wav": {
+  "anchor": "start",
+  "kind": "notify",
+  "source": "plinkfx notify (Two-tone bell notification) seed 0",
+  "tags": [
+   "plink",
+   "ui"
+  ]
+ },
+ "page-turn_s0.wav": {
+  "anchor": "start",
+  "kind": "rustle",
+  "source": "plinkfx page-turn (Turn a book or tutorial page) seed 0",
+  "tags": [
+   "plink",
+   "ui"
+  ]
+ },
+ "pickup-item_s0.wav": {
+  "anchor": "start",
+  "kind": "pop",
+  "source": "plinkfx pickup-item (Grab an item: a short slide up) seed 0",
+  "tags": [
+   "high",
+   "pickup",
+   "plink"
+  ]
+ },
+ "plink_s0.wav": {
+  "anchor": "start",
+  "kind": "ding",
+  "source": "plinkfx plink (The plinkfx signature: one drop of sound) seed 0",
+  "tags": [
+   "plink",
+   "ui"
+  ]
+ },
+ "pop-down_s0.wav": {
+  "anchor": "start",
+  "kind": "pop",
+  "source": "plinkfx pop-down (Downward pop, for things disappearing) seed 0",
+  "tags": [
+   "low",
+   "plink",
+   "ui"
+  ]
+ },
+ "pop_s0.wav": {
+  "anchor": "start",
+  "kind": "pop",
+  "source": "plinkfx pop (Upward pop, for things appearing) seed 0",
+  "tags": [
+   "mid",
+   "plink",
+   "ui"
+  ]
+ },
+ "power-down_s0.wav": {
+  "anchor": "start",
+  "kind": "drop",
+  "source": "plinkfx power-down (Lose a power: arpeggio falling) seed 0",
+  "tags": [
+   "plink",
+   "powerup",
+   "short"
+  ]
+ },
+ "powerup_s0.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "plinkfx powerup (Classic power-up: fast arpeggio climbing two octaves) seed 0",
+  "tags": [
+   "plink",
+   "powerup"
+  ]
+ },
+ "punch_s0.wav": {
+  "anchor": "start",
+  "kind": "impact",
+  "source": "plinkfx punch (Cartoon punch, meaty) seed 0",
+  "tags": [
+   "hit",
+   "plink"
+  ]
+ },
+ "puzzle-solved_s0.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "plinkfx puzzle-solved (Puzzle solved: clear 'ta-da') seed 0",
+  "tags": [
+   "jingle",
+   "plink",
+   "resolve"
+  ]
+ },
+ "quest-new_s0.wav": {
+  "anchor": "start",
+  "kind": "notify",
+  "source": "plinkfx quest-new (New quest or objective) seed 0",
+  "tags": [
+   "alert",
+   "long",
+   "plink"
+  ]
+ },
+ "radar-ping_s0.wav": {
+  "anchor": "start",
+  "kind": "notify",
+  "source": "plinkfx radar-ping (Sonar ping) seed 0",
+  "tags": [
+   "alert",
+   "long",
+   "plink"
+  ]
+ },
+ "rain-loop_s0.wav": {
+  "anchor": "start",
+  "kind": "bed",
+  "source": "plinkfx rain-loop (Steady rain, seamless loop) seed 0",
+  "tags": [
+   "air",
+   "loop",
+   "nature",
+   "plink"
+  ]
+ },
+ "robot-chatter_s0.wav": {
+  "anchor": "start",
+  "kind": "glitch",
+  "source": "plinkfx robot-chatter (Cute robot beeps and boops) seed 0",
+  "tags": [
+   "plink",
+   "scifi"
+  ]
+ },
+ "select_s0.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "plinkfx select (Retro menu cursor move) seed 0",
+  "tags": [
+   "plink",
+   "ui"
+  ]
+ },
+ "shield-off_s0.wav": {
+  "anchor": "start",
+  "kind": "drop",
+  "source": "plinkfx shield-off (Shield drops or breaks down) seed 0",
+  "tags": [
+   "plink",
+   "powerup",
+   "short"
+  ]
+ },
+ "shield-on_s0.wav": {
+  "anchor": "start",
+  "kind": "shimmer",
+  "source": "plinkfx shield-on (Energy shield raises) seed 0",
+  "tags": [
+   "plink",
+   "powerup"
+  ]
+ },
+ "shutdown_s0.wav": {
+  "anchor": "start",
+  "kind": "drop",
+  "source": "plinkfx shutdown (System shutdown: whine falls and cuts) seed 0",
+  "tags": [
+   "long",
+   "plink",
+   "scifi"
+  ]
+ },
+ "slide_s0.wav": {
+  "anchor": "start",
+  "kind": "rustle",
+  "source": "plinkfx slide (Slide along the ground) seed 0",
+  "tags": [
+   "ground",
+   "jump",
+   "plink"
+  ]
+ },
+ "sparkle_s0.wav": {
+  "anchor": "start",
+  "kind": "sparkle",
+  "source": "plinkfx sparkle (Twinkling sparkle) seed 0",
+  "tags": [
+   "magic",
+   "plink"
+  ]
+ },
+ "speed-up_s0.wav": {
+  "anchor": "start",
+  "kind": "whoosh",
+  "source": "plinkfx speed-up (Speed boost: fast whirring rise) seed 0",
+  "tags": [
+   "plink",
+   "powerup",
+   "short"
+  ]
+ },
+ "spell-cast_s0.wav": {
+  "anchor": "start",
+  "kind": "shimmer",
+  "source": "plinkfx spell-cast (Generic spell: swell and release) seed 0",
+  "tags": [
+   "long",
+   "magic",
+   "plink"
+  ]
+ },
+ "star_s0.wav": {
+  "anchor": "start",
+  "kind": "sparkle",
+  "source": "plinkfx star (Collect a star: sparkling run upward) seed 0",
+  "tags": [
+   "pickup",
+   "plink"
+  ]
+ },
+ "static-burst_s0.wav": {
+  "anchor": "start",
+  "kind": "glitch",
+  "source": "plinkfx static-burst (TV / radio static burst, for haunted screens) seed 0",
+  "tags": [
+   "horror",
+   "plink"
+  ]
+ },
+ "stomp_s0.wav": {
+  "anchor": "start",
+  "kind": "thump",
+  "source": "plinkfx stomp (Stomp on an enemy: squashy thump that springs up) seed 0",
+  "tags": [
+   "hit",
+   "plink"
+  ]
+ },
+ "success_s0.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "plinkfx success (Task done: clean rising check-mark chime) seed 0",
+  "tags": [
+   "plink",
+   "ui"
+  ]
+ },
+ "swing_s0.wav": {
+  "anchor": "start",
+  "kind": "swish",
+  "source": "plinkfx swing (Sword or stick swing) seed 0",
+  "tags": [
+   "plink",
+   "world"
+  ]
+ },
+ "swipe_s0.wav": {
+  "anchor": "start",
+  "kind": "swish",
+  "source": "plinkfx swipe (Quick airy swipe between pages) seed 0",
+  "tags": [
+   "plink",
+   "ui"
+  ]
+ },
+ "teleport_s0.wav": {
+  "anchor": "start",
+  "kind": "whoosh",
+  "source": "plinkfx teleport (Teleport: fast warble upward) seed 0",
+  "tags": [
+   "long",
+   "magic",
+   "plink"
+  ]
+ },
+ "thud_s0.wav": {
+  "anchor": "start",
+  "kind": "thump",
+  "source": "plinkfx thud (Generic body or crate falling) seed 0",
+  "tags": [
+   "plink",
+   "world"
+  ]
+ },
+ "tick_s0.wav": {
+  "anchor": "start",
+  "kind": "tick",
+  "source": "plinkfx tick (Tiny tick for sliders and scroll steps) seed 0",
+  "tags": [
+   "plink",
+   "ui"
+  ]
+ },
+ "timer-done_s0.wav": {
+  "anchor": "start",
+  "kind": "notify",
+  "source": "plinkfx timer-done (Kitchen timer done: rapid bell trill) seed 0",
+  "tags": [
+   "alert",
+   "plink"
+  ]
+ },
+ "toggle-off_s0.wav": {
+  "anchor": "start",
+  "kind": "toggle",
+  "source": "plinkfx toggle-off (Switch off: two falling notes) seed 0",
+  "tags": [
+   "off",
+   "plink",
+   "ui"
+  ]
+ },
+ "toggle-on_s0.wav": {
+  "anchor": "start",
+  "kind": "toggle",
+  "source": "plinkfx toggle-on (Switch on: two rising notes) seed 0",
+  "tags": [
+   "on",
+   "plink",
+   "ui"
+  ]
+ },
+ "toss_s0.wav": {
+  "anchor": "start",
+  "kind": "rustle",
+  "source": "plinkfx toss (Throw something) seed 0",
+  "tags": [
+   "air",
+   "plink",
+   "world"
+  ]
+ },
+ "type_s0.wav": {
+  "anchor": "start",
+  "kind": "type",
+  "source": "plinkfx type (Keyboard tick for text that types itself) seed 0",
+  "tags": [
+   "plink",
+   "ui"
+  ]
+ },
+ "victory_s0.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "plinkfx victory (Victory fanfare) seed 0",
+  "tags": [
+   "jingle",
+   "long",
+   "plink",
+   "resolve"
+  ]
+ },
+ "whoosh_s0.wav": {
+  "anchor": "start",
+  "kind": "whoosh",
+  "source": "plinkfx whoosh (Medium whoosh for dashes and swings) seed 0",
+  "tags": [
+   "plink",
+   "short",
+   "world"
+  ]
+ },
+ "wind-loop_s0.wav": {
+  "anchor": "start",
+  "kind": "bed",
+  "source": "plinkfx wind-loop (Wind blowing with slow gusts, seamless loop) seed 0",
+  "tags": [
+   "air",
+   "loop",
+   "nature",
+   "plink"
+  ]
+ },
+ "xp-orb_s0.wav": {
+  "anchor": "start",
+  "kind": "sparkle",
+  "source": "plinkfx xp-orb (Experience orb, small and bright) seed 0",
+  "tags": [
+   "pickup",
+   "plink"
+  ]
+ }
+}

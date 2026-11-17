@@ -1,0 +1,422 @@
+{
+ "bong-001_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "ding",
+  "source": "soundcn/assets/kenney_interface-sounds/bong_001.ogg",
+  "tags": [
+   "dark",
+   "kenney",
+   "short"
+  ]
+ },
+ "click-001_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "soundcn/assets/kenney_interface-sounds/click_001.ogg",
+  "tags": [
+   "bright",
+   "kenney"
+  ]
+ },
+ "click-003_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "soundcn/assets/kenney_interface-sounds/click_003.ogg",
+  "tags": [
+   "kenney",
+   "mid-tone"
+  ]
+ },
+ "click-005_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "soundcn/assets/kenney_interface-sounds/click_005.ogg",
+  "tags": [
+   "kenney",
+   "mid-tone"
+  ]
+ },
+ "confirmation-001_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "soundcn/assets/kenney_interface-sounds/confirmation_001.ogg",
+  "tags": [
+   "dark",
+   "kenney",
+   "short"
+  ]
+ },
+ "confirmation-003_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "soundcn/assets/kenney_interface-sounds/confirmation_003.ogg",
+  "tags": [
+   "bright",
+   "kenney",
+   "short"
+  ]
+ },
+ "confirmation-004_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "soundcn/assets/kenney_interface-sounds/confirmation_004.ogg",
+  "tags": [
+   "kenney",
+   "mid-tone",
+   "short"
+  ]
+ },
+ "drop-001_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "pop",
+  "source": "soundcn/assets/kenney_interface-sounds/drop_001.ogg",
+  "tags": [
+   "kenney",
+   "low"
+  ]
+ },
+ "drop-004_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "pop",
+  "source": "soundcn/assets/kenney_interface-sounds/drop_004.ogg",
+  "tags": [
+   "kenney",
+   "low"
+  ]
+ },
+ "error-001_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "error",
+  "source": "soundcn/assets/kenney_interface-sounds/error_001.ogg",
+  "tags": [
+   "bright",
+   "kenney",
+   "short"
+  ]
+ },
+ "error-005_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "error",
+  "source": "soundcn/assets/kenney_interface-sounds/error_005.ogg",
+  "tags": [
+   "kenney",
+   "mid-tone",
+   "short"
+  ]
+ },
+ "error-008_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "error",
+  "source": "soundcn/assets/kenney_interface-sounds/error_008.ogg",
+  "tags": [
+   "kenney",
+   "mid-tone",
+   "short"
+  ]
+ },
+ "glass-001_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "ding",
+  "source": "soundcn/assets/kenney_interface-sounds/glass_001.ogg",
+  "tags": [
+   "glass",
+   "kenney",
+   "mid-tone",
+   "short"
+  ]
+ },
+ "glass-003_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "ding",
+  "source": "soundcn/assets/kenney_interface-sounds/glass_003.ogg",
+  "tags": [
+   "glass",
+   "kenney",
+   "mid-tone",
+   "short"
+  ]
+ },
+ "glass-006_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "ding",
+  "source": "soundcn/assets/kenney_interface-sounds/glass_006.ogg",
+  "tags": [
+   "glass",
+   "kenney",
+   "mid-tone",
+   "short"
+  ]
+ },
+ "glitch-001_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "glitch",
+  "source": "soundcn/assets/kenney_interface-sounds/glitch_001.ogg",
+  "tags": [
+   "kenney",
+   "mid-tone"
+  ]
+ },
+ "glitch-003_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "glitch",
+  "source": "soundcn/assets/kenney_interface-sounds/glitch_003.ogg",
+  "tags": [
+   "bright",
+   "kenney"
+  ]
+ },
+ "glitch-004_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "glitch",
+  "source": "soundcn/assets/kenney_interface-sounds/glitch_004.ogg",
+  "tags": [
+   "bright",
+   "kenney"
+  ]
+ },
+ "highdown_kenney-digit.wav": {
+  "anchor": "start",
+  "kind": "drop",
+  "source": "soundcn/assets/kenney_digital-audio/highDown.ogg",
+  "tags": [
+   "dark",
+   "kenney",
+   "retro",
+   "short"
+  ]
+ },
+ "pepsound1_kenney-digit.wav": {
+  "anchor": "start",
+  "kind": "pop",
+  "source": "soundcn/assets/kenney_digital-audio/pepSound1.ogg",
+  "tags": [
+   "kenney",
+   "mid",
+   "retro"
+  ]
+ },
+ "pepsound5_kenney-digit.wav": {
+  "anchor": "start",
+  "kind": "pop",
+  "source": "soundcn/assets/kenney_digital-audio/pepSound5.ogg",
+  "tags": [
+   "kenney",
+   "mid",
+   "retro"
+  ]
+ },
+ "phaserup1_kenney-digit.wav": {
+  "anchor": "start",
+  "kind": "swish",
+  "source": "soundcn/assets/kenney_digital-audio/phaserUp1.ogg",
+  "tags": [
+   "dark",
+   "kenney",
+   "retro"
+  ]
+ },
+ "phaserup7_kenney-digit.wav": {
+  "anchor": "start",
+  "kind": "swish",
+  "source": "soundcn/assets/kenney_digital-audio/phaserUp7.ogg",
+  "tags": [
+   "kenney",
+   "mid-tone",
+   "retro"
+  ]
+ },
+ "pluck-001_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "pop",
+  "source": "soundcn/assets/kenney_interface-sounds/pluck_001.ogg",
+  "tags": [
+   "high",
+   "kenney"
+  ]
+ },
+ "pluck-002_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "pop",
+  "source": "soundcn/assets/kenney_interface-sounds/pluck_002.ogg",
+  "tags": [
+   "high",
+   "kenney"
+  ]
+ },
+ "powerup1_kenney-digit.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "soundcn/assets/kenney_digital-audio/powerUp1.ogg",
+  "tags": [
+   "kenney",
+   "long",
+   "mid-tone",
+   "retro"
+  ]
+ },
+ "powerup9_kenney-digit.wav": {
+  "anchor": "start",
+  "kind": "success",
+  "source": "soundcn/assets/kenney_digital-audio/powerUp9.ogg",
+  "tags": [
+   "bright",
+   "kenney",
+   "retro",
+   "short"
+  ]
+ },
+ "question-001_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "notify",
+  "source": "soundcn/assets/kenney_interface-sounds/question_001.ogg",
+  "tags": [
+   "kenney",
+   "mid-tone",
+   "short"
+  ]
+ },
+ "question-004_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "notify",
+  "source": "soundcn/assets/kenney_interface-sounds/question_004.ogg",
+  "tags": [
+   "dark",
+   "kenney",
+   "short"
+  ]
+ },
+ "scratch-001_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "scratch",
+  "source": "soundcn/assets/kenney_interface-sounds/scratch_001.ogg",
+  "tags": [
+   "bright",
+   "kenney"
+  ]
+ },
+ "scratch-002_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "scratch",
+  "source": "soundcn/assets/kenney_interface-sounds/scratch_002.ogg",
+  "tags": [
+   "bright",
+   "kenney"
+  ]
+ },
+ "scratch-003_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "scratch",
+  "source": "soundcn/assets/kenney_interface-sounds/scratch_003.ogg",
+  "tags": [
+   "bright",
+   "kenney"
+  ]
+ },
+ "scratch-004_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "scratch",
+  "source": "soundcn/assets/kenney_interface-sounds/scratch_004.ogg",
+  "tags": [
+   "bright",
+   "kenney"
+  ]
+ },
+ "scratch-005_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "scratch",
+  "source": "soundcn/assets/kenney_interface-sounds/scratch_005.ogg",
+  "tags": [
+   "bright",
+   "kenney"
+  ]
+ },
+ "spacetrash1_kenney-digit.wav": {
+  "anchor": "start",
+  "kind": "glitch",
+  "source": "soundcn/assets/kenney_digital-audio/spaceTrash1.ogg",
+  "tags": [
+   "bright",
+   "kenney",
+   "retro"
+  ]
+ },
+ "spacetrash5_kenney-digit.wav": {
+  "anchor": "start",
+  "kind": "glitch",
+  "source": "soundcn/assets/kenney_digital-audio/spaceTrash5.ogg",
+  "tags": [
+   "bright",
+   "kenney",
+   "retro"
+  ]
+ },
+ "threetone1_kenney-digit.wav": {
+  "anchor": "start",
+  "kind": "notify",
+  "source": "soundcn/assets/kenney_digital-audio/threeTone1.ogg",
+  "tags": [
+   "dark",
+   "kenney",
+   "retro",
+   "short"
+  ]
+ },
+ "threetone2_kenney-digit.wav": {
+  "anchor": "start",
+  "kind": "notify",
+  "source": "soundcn/assets/kenney_digital-audio/threeTone2.ogg",
+  "tags": [
+   "kenney",
+   "mid-tone",
+   "retro",
+   "short"
+  ]
+ },
+ "tick-001_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "tick",
+  "source": "soundcn/assets/kenney_interface-sounds/tick_001.ogg",
+  "tags": [
+   "bright",
+   "kenney"
+  ]
+ },
+ "tick-004_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "tick",
+  "source": "soundcn/assets/kenney_interface-sounds/tick_004.ogg",
+  "tags": [
+   "bright",
+   "kenney"
+  ]
+ },
+ "toggle-001_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "toggle",
+  "source": "soundcn/assets/kenney_interface-sounds/toggle_001.ogg",
+  "tags": [
+   "bright",
+   "kenney"
+  ]
+ },
+ "toggle-004_kenney-inter.wav": {
+  "anchor": "start",
+  "kind": "toggle",
+  "source": "soundcn/assets/kenney_interface-sounds/toggle_004.ogg",
+  "tags": [
+   "bright",
+   "kenney"
+  ]
+ },
+ "zapthreetonedown_kenney-digit.wav": {
+  "anchor": "start",
+  "kind": "drop",
+  "source": "soundcn/assets/kenney_digital-audio/zapThreeToneDown.ogg",
+  "tags": [
+   "kenney",
+   "mid-tone",
+   "retro",
+   "short"
+  ]
+ }
+}

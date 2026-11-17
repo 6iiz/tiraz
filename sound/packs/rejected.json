@@ -1,0 +1,30 @@
+[
+ {
+  "file": "sonic-pi-samples/etc/samples\\drum_cymbal_closed.flac",
+  "why": "duration 0.20 s outside the rule"
+ },
+ {
+  "file": "sonic-pi-samples/etc/samples\\drum_cymbal_pedal.flac",
+  "why": "duration 0.26 s outside the rule"
+ },
+ {
+  "file": "sonic-pi-samples/etc/samples/ambi_haunted_hum.flac",
+  "why": "the level moves 36 dB inside the file: not steady enough to loop"
+ },
+ {
+  "file": "sonic-pi-samples/etc/samples/ambi_soft_buzz.flac",
+  "why": "too short to loop"
+ },
+ {
+  "file": "sonic-pi-samples/etc/samples/ambi_lunar_land.flac",
+  "why": "the level moves 25 dB inside the file: not steady enough to loop"
+ },
+ {
+  "file": "sonic-pi-samples/etc/samples/tbd_fxbed_loop.flac",
+  "why": "the level moves 13 dB inside the file: not steady enough to loop"
+ },
+ {
+  "file": "sonic-pi-samples/etc/samples\\tbd_pad_1.flac",
+  "why": "too short to loop"
+ }
+]

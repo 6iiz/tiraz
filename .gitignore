@@ -1,0 +1,20 @@
+# installed, never committed
+node_modules/
+__pycache__/
+*.pyc
+
+# what the tools write
+out/
+sound/audition.html
+sound/audit.png
+tools/fixtures/testcard/reel/frames/
+tools/fixtures/testcard/reel/stills/
+tools/fixtures/testcard/reel/.cover/
+tools/fixtures/testcard/reel/check.json
+tools/fixtures/testcard/reel/sheet.jpg
+tools/fixtures/testcard/reel/publish/reel.mp4
+tools/fixtures/testcard/reel/publish/cover.jpg
+tools/fixtures/testcard/brand/preview.jpg
+
+# a customer's brand and reels live in the customer's own project, never in the kit
+tiraz/

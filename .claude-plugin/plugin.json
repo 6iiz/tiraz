@@ -1,0 +1,12 @@
+{
+  "name": "tiraz",
+  "displayName": "Tiraz",
+  "version": "1.0.0",
+  "icon": "./.claude-plugin/icon.png",
+  "description": "A director for Arabic reels and one-page sites. Claude designs a look for your brand from scratch, builds it as code in your project, makes every reel and the site in it, and checks each one (file, sound, Arabic text, facts, contrast, motion) before you see it. No templates; everything runs on your own machine.",
+  "author": { "name": "xTalal", "url": "https://xtalal.com" },
+  "homepage": "https://github.com/6iiz/tiraz",
+  "repository": "https://github.com/6iiz/tiraz",
+  "license": "MIT",
+  "keywords": ["arabic", "rtl", "reels", "motion-graphics", "video", "landing-page", "website", "branding", "art-direction", "design-qa"]
+}

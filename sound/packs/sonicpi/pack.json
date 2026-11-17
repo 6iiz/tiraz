@@ -1,0 +1,398 @@
+{
+ "ambi-dark-woosh_samples.wav": {
+  "anchor": "start",
+  "kind": "whoosh",
+  "source": "sonic-pi-samples/etc/samples/ambi_dark_woosh.flac",
+  "tags": [
+   "dark",
+   "long",
+   "sonicpi"
+  ]
+ },
+ "ambi-glass-hum_samples.wav": {
+  "anchor": "start",
+  "kind": "shimmer",
+  "source": "sonic-pi-samples/etc/samples/ambi_glass_hum.flac",
+  "tags": [
+   "dark",
+   "glass",
+   "long",
+   "sonicpi"
+  ]
+ },
+ "ambi-glass-rub_samples.wav": {
+  "anchor": "start",
+  "kind": "shimmer",
+  "source": "sonic-pi-samples/etc/samples/ambi_glass_rub.flac",
+  "tags": [
+   "glass",
+   "long",
+   "mid-tone",
+   "sonicpi"
+  ]
+ },
+ "ambi-swoosh_samples.wav": {
+  "anchor": "start",
+  "kind": "whoosh",
+  "source": "sonic-pi-samples/etc/samples/ambi_swoosh.flac",
+  "tags": [
+   "dark",
+   "long",
+   "sonicpi"
+  ]
+ },
+ "bass-drop-c_samples.wav": {
+  "anchor": "start",
+  "kind": "drop",
+  "source": "sonic-pi-samples/etc/samples/bass_drop_c.flac",
+  "tags": [
+   "long",
+   "mid-tone",
+   "sonicpi",
+   "sub"
+  ]
+ },
+ "elec-bell_samples.wav": {
+  "anchor": "start",
+  "kind": "ding",
+  "source": "sonic-pi-samples/etc/samples/elec_bell.flac",
+  "tags": [
+   "mid-tone",
+   "short",
+   "sonicpi"
+  ]
+ },
+ "elec-blip_samples.wav": {
+  "anchor": "start",
+  "kind": "pop",
+  "source": "sonic-pi-samples/etc/samples/elec_blip.flac",
+  "tags": [
+   "mid",
+   "sonicpi"
+  ]
+ },
+ "elec-blup_samples.wav": {
+  "anchor": "start",
+  "kind": "pop",
+  "source": "sonic-pi-samples/etc/samples/elec_blup.flac",
+  "tags": [
+   "mid",
+   "sonicpi"
+  ]
+ },
+ "elec-chime_samples.wav": {
+  "anchor": "start",
+  "kind": "ding",
+  "source": "sonic-pi-samples/etc/samples/elec_chime.flac",
+  "tags": [
+   "bright",
+   "long",
+   "sonicpi"
+  ]
+ },
+ "elec-plip_samples.wav": {
+  "anchor": "start",
+  "kind": "pop",
+  "source": "sonic-pi-samples/etc/samples/elec_plip.flac",
+  "tags": [
+   "high",
+   "sonicpi"
+  ]
+ },
+ "elec-pop_samples.wav": {
+  "anchor": "start",
+  "kind": "pop",
+  "source": "sonic-pi-samples/etc/samples/elec_pop.flac",
+  "tags": [
+   "mid",
+   "sonicpi"
+  ]
+ },
+ "elec-soft-kick_samples.wav": {
+  "anchor": "start",
+  "kind": "thump",
+  "source": "sonic-pi-samples/etc/samples/elec_soft_kick.flac",
+  "tags": [
+   "dark",
+   "soft",
+   "sonicpi"
+  ]
+ },
+ "elec-tick_samples.wav": {
+  "anchor": "start",
+  "kind": "tick",
+  "source": "sonic-pi-samples/etc/samples/elec_tick.flac",
+  "tags": [
+   "dark",
+   "sonicpi"
+  ]
+ },
+ "glitch-perc1_samples.wav": {
+  "anchor": "start",
+  "kind": "glitch",
+  "source": "sonic-pi-samples/etc/samples/glitch_perc1.flac",
+  "tags": [
+   "mid-tone",
+   "sonicpi"
+  ]
+ },
+ "glitch-perc3_samples.wav": {
+  "anchor": "start",
+  "kind": "glitch",
+  "source": "sonic-pi-samples/etc/samples/glitch_perc3.flac",
+  "tags": [
+   "mid-tone",
+   "sonicpi"
+  ]
+ },
+ "glitch-perc5_samples.wav": {
+  "anchor": "start",
+  "kind": "glitch",
+  "source": "sonic-pi-samples/etc/samples/glitch_perc5.flac",
+  "tags": [
+   "bright",
+   "sonicpi"
+  ]
+ },
+ "glitch-robot1_samples.wav": {
+  "anchor": "start",
+  "kind": "glitch",
+  "source": "sonic-pi-samples/etc/samples/glitch_robot1.flac",
+  "tags": [
+   "bright",
+   "robot",
+   "sonicpi"
+  ]
+ },
+ "glitch-robot2_samples.wav": {
+  "anchor": "start",
+  "kind": "glitch",
+  "source": "sonic-pi-samples/etc/samples/glitch_robot2.flac",
+  "tags": [
+   "bright",
+   "robot",
+   "sonicpi"
+  ]
+ },
+ "loop-ambi-drone_samples.wav": {
+  "anchor": "start",
+  "kind": "bed",
+  "source": "sonic-pi-samples/etc/samples/ambi_drone.flac (looped with a 0.5 s crossfade)",
+  "tags": [
+   "dark",
+   "loop",
+   "low",
+   "sonicpi"
+  ]
+ },
+ "loop-tbd-pad-2_samples.wav": {
+  "anchor": "start",
+  "kind": "bed",
+  "source": "sonic-pi-samples/etc/samples/tbd_pad_2.flac (looped with a 0.5 s crossfade)",
+  "tags": [
+   "dark",
+   "loop",
+   "pad",
+   "sonicpi"
+  ]
+ },
+ "loop-tbd-pad-4_samples.wav": {
+  "anchor": "start",
+  "kind": "bed",
+  "source": "sonic-pi-samples/etc/samples/tbd_pad_4.flac (looped with a 0.5 s crossfade)",
+  "tags": [
+   "dark",
+   "loop",
+   "pad",
+   "sonicpi"
+  ]
+ },
+ "misc-cineboom_samples.wav": {
+  "anchor": "start",
+  "kind": "impact",
+  "source": "sonic-pi-samples/etc/samples/misc_cineboom.flac",
+  "tags": [
+   "big",
+   "mid-tone",
+   "sonicpi"
+  ]
+ },
+ "perc-bell2_samples.wav": {
+  "anchor": "start",
+  "kind": "ding",
+  "source": "sonic-pi-samples/etc/samples/perc_bell2.flac",
+  "tags": [
+   "bright",
+   "long",
+   "sonicpi"
+  ]
+ },
+ "perc-bell_samples.wav": {
+  "anchor": "start",
+  "kind": "ding",
+  "source": "sonic-pi-samples/etc/samples/perc_bell.flac",
+  "tags": [
+   "bright",
+   "long",
+   "sonicpi"
+  ]
+ },
+ "perc-impact1_samples.wav": {
+  "anchor": "start",
+  "kind": "impact",
+  "source": "sonic-pi-samples/etc/samples/perc_impact1.flac",
+  "tags": [
+   "mid-tone",
+   "short",
+   "sonicpi"
+  ]
+ },
+ "perc-impact2_samples.wav": {
+  "anchor": "start",
+  "kind": "impact",
+  "source": "sonic-pi-samples/etc/samples/perc_impact2.flac",
+  "tags": [
+   "mid-tone",
+   "short",
+   "sonicpi"
+  ]
+ },
+ "perc-snap_samples.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "sonic-pi-samples/etc/samples/perc_snap.flac",
+  "tags": [
+   "bright",
+   "snap",
+   "sonicpi"
+  ]
+ },
+ "perc-swash_samples.wav": {
+  "anchor": "start",
+  "kind": "whoosh",
+  "source": "sonic-pi-samples/etc/samples/perc_swash.flac",
+  "tags": [
+   "mid-tone",
+   "short",
+   "sonicpi"
+  ]
+ },
+ "perc-swoosh_samples.wav": {
+  "anchor": "start",
+  "kind": "whoosh",
+  "source": "sonic-pi-samples/etc/samples/perc_swoosh.flac",
+  "tags": [
+   "bright",
+   "short",
+   "sonicpi"
+  ]
+ },
+ "reversed-drum-cymbal-hard_samples.wav": {
+  "anchor": "end",
+  "kind": "swell",
+  "source": "sonic-pi-samples/etc/samples/drum_cymbal_hard.flac (played backwards)",
+  "tags": [
+   "2s",
+   "bright",
+   "cymbal",
+   "long",
+   "reversed",
+   "sonicpi"
+  ]
+ },
+ "reversed-drum-cymbal-open_samples.wav": {
+  "anchor": "end",
+  "kind": "swell",
+  "source": "sonic-pi-samples/etc/samples/drum_cymbal_open.flac (played backwards)",
+  "tags": [
+   "2s",
+   "bright",
+   "cymbal",
+   "long",
+   "reversed",
+   "sonicpi"
+  ]
+ },
+ "reversed-drum-cymbal-soft_samples.wav": {
+  "anchor": "end",
+  "kind": "swell",
+  "source": "sonic-pi-samples/etc/samples/drum_cymbal_soft.flac (played backwards)",
+  "tags": [
+   "1s",
+   "bright",
+   "cymbal",
+   "reversed",
+   "short",
+   "sonicpi"
+  ]
+ },
+ "reversed-drum-splash-hard_samples.wav": {
+  "anchor": "end",
+  "kind": "swell",
+  "source": "sonic-pi-samples/etc/samples/drum_splash_hard.flac (played backwards)",
+  "tags": [
+   "2s",
+   "bright",
+   "cymbal",
+   "long",
+   "reversed",
+   "sonicpi"
+  ]
+ },
+ "reversed-drum-splash-soft_samples.wav": {
+  "anchor": "end",
+  "kind": "swell",
+  "source": "sonic-pi-samples/etc/samples/drum_splash_soft.flac (played backwards)",
+  "tags": [
+   "2s",
+   "bright",
+   "cymbal",
+   "long",
+   "reversed",
+   "sonicpi"
+  ]
+ },
+ "reversed-elec-cymbal_samples.wav": {
+  "anchor": "end",
+  "kind": "swell",
+  "source": "sonic-pi-samples/etc/samples/elec_cymbal.flac (played backwards)",
+  "tags": [
+   "1s",
+   "bright",
+   "cymbal",
+   "reversed",
+   "short",
+   "sonicpi"
+  ]
+ },
+ "vinyl-backspin_samples.wav": {
+  "anchor": "start",
+  "kind": "scratch",
+  "source": "sonic-pi-samples/etc/samples/vinyl_backspin.flac",
+  "tags": [
+   "bright",
+   "sonicpi",
+   "vinyl"
+  ]
+ },
+ "vinyl-rewind_samples.wav": {
+  "anchor": "start",
+  "kind": "scratch",
+  "source": "sonic-pi-samples/etc/samples/vinyl_rewind.flac",
+  "tags": [
+   "bright",
+   "sonicpi",
+   "vinyl"
+  ]
+ },
+ "vinyl-scratch_samples.wav": {
+  "anchor": "start",
+  "kind": "scratch",
+  "source": "sonic-pi-samples/etc/samples/vinyl_scratch.flac",
+  "tags": [
+   "mid-tone",
+   "sonicpi",
+   "vinyl"
+  ]
+ }
+}

@@ -1,0 +1,742 @@
+[
+ {
+  "name": "tap",
+  "reason": "no fitting kind for a reel (category ui)"
+ },
+ {
+  "name": "cancel",
+  "reason": "no fitting kind for a reel (category ui)"
+ },
+ {
+  "name": "menu-open",
+  "reason": "no fitting kind for a reel (category ui)"
+ },
+ {
+  "name": "menu-close",
+  "reason": "no fitting kind for a reel (category ui)"
+ },
+ {
+  "name": "select-soft",
+  "reason": "no fitting kind for a reel (category ui)"
+ },
+ {
+  "name": "drag-start",
+  "reason": "no fitting kind for a reel (category ui)"
+ },
+ {
+  "name": "drop",
+  "reason": "no fitting kind for a reel (category ui)"
+ },
+ {
+  "name": "maximize",
+  "reason": "no fitting kind for a reel (category ui)"
+ },
+ {
+  "name": "minimize",
+  "reason": "no fitting kind for a reel (category ui)"
+ },
+ {
+  "name": "question",
+  "reason": "no fitting kind for a reel (category ui)"
+ },
+ {
+  "name": "message-send",
+  "reason": "no fitting kind for a reel (category ui)"
+ },
+ {
+  "name": "trash",
+  "reason": "no fitting kind for a reel (category ui)"
+ },
+ {
+  "name": "coin-bag",
+  "reason": "no fitting kind for a reel (category pickup)"
+ },
+ {
+  "name": "pickup",
+  "reason": "no fitting kind for a reel (category pickup)"
+ },
+ {
+  "name": "pickup-soft",
+  "reason": "no fitting kind for a reel (category pickup)"
+ },
+ {
+  "name": "key",
+  "reason": "no fitting kind for a reel (category pickup)"
+ },
+ {
+  "name": "heart",
+  "reason": "no fitting kind for a reel (category pickup)"
+ },
+ {
+  "name": "ammo",
+  "reason": "no fitting kind for a reel (category pickup)"
+ },
+ {
+  "name": "ring",
+  "reason": "no fitting kind for a reel (category pickup)"
+ },
+ {
+  "name": "potion-drink",
+  "reason": "no fitting kind for a reel (category pickup)"
+ },
+ {
+  "name": "eat",
+  "reason": "no fitting kind for a reel (category pickup)"
+ },
+ {
+  "name": "loot-rare",
+  "reason": "no fitting kind for a reel (category pickup)"
+ },
+ {
+  "name": "equip",
+  "reason": "no fitting kind for a reel (category pickup)"
+ },
+ {
+  "name": "jump",
+  "reason": "no fitting kind for a reel (category jump)"
+ },
+ {
+  "name": "jump-soft",
+  "reason": "no fitting kind for a reel (category jump)"
+ },
+ {
+  "name": "jump-high",
+  "reason": "no fitting kind for a reel (category jump)"
+ },
+ {
+  "name": "jump-double",
+  "reason": "no fitting kind for a reel (category jump)"
+ },
+ {
+  "name": "jump-cartoon",
+  "reason": "no fitting kind for a reel (category jump)"
+ },
+ {
+  "name": "hop",
+  "reason": "no fitting kind for a reel (category jump)"
+ },
+ {
+  "name": "land",
+  "reason": "no fitting kind for a reel (category jump)"
+ },
+ {
+  "name": "spring",
+  "reason": "no fitting kind for a reel (category jump)"
+ },
+ {
+  "name": "wall-jump",
+  "reason": "no fitting kind for a reel (category jump)"
+ },
+ {
+  "name": "slap",
+  "reason": "no fitting kind for a reel (category hit)"
+ },
+ {
+  "name": "hurt",
+  "reason": "no fitting kind for a reel (category hit)"
+ },
+ {
+  "name": "enemy-hit",
+  "reason": "no fitting kind for a reel (category hit)"
+ },
+ {
+  "name": "enemy-die",
+  "reason": "no fitting kind for a reel (category hit)"
+ },
+ {
+  "name": "sword-hit",
+  "reason": "no fitting kind for a reel (category hit)"
+ },
+ {
+  "name": "block",
+  "reason": "no fitting kind for a reel (category hit)"
+ },
+ {
+  "name": "crit",
+  "reason": "no fitting kind for a reel (category hit)"
+ },
+ {
+  "name": "squish",
+  "reason": "no fitting kind for a reel (category hit)"
+ },
+ {
+  "name": "arrow-hit",
+  "reason": "no fitting kind for a reel (category hit)"
+ },
+ {
+  "name": "stab",
+  "reason": "no fitting kind for a reel (category hit)"
+ },
+ {
+  "name": "sword-clash",
+  "reason": "no fitting kind for a reel (category hit)"
+ },
+ {
+  "name": "sword-draw",
+  "reason": "no fitting kind for a reel (category hit)"
+ },
+ {
+  "name": "body-fall",
+  "reason": "no fitting kind for a reel (category hit)"
+ },
+ {
+  "name": "explosion-retro",
+  "reason": "no fitting kind for a reel (category explosion)"
+ },
+ {
+  "name": "explosion-distant",
+  "reason": "no fitting kind for a reel (category explosion)"
+ },
+ {
+  "name": "firework",
+  "reason": "no fitting kind for a reel (category explosion)"
+ },
+ {
+  "name": "debris",
+  "reason": "no fitting kind for a reel (category explosion)"
+ },
+ {
+  "name": "shockwave",
+  "reason": "no fitting kind for a reel (category explosion)"
+ },
+ {
+  "name": "bomb-fuse",
+  "reason": "no fitting kind for a reel (category explosion)"
+ },
+ {
+  "name": "powerup-retro",
+  "reason": "no fitting kind for a reel (category powerup)"
+ },
+ {
+  "name": "extra-life",
+  "reason": "no fitting kind for a reel (category powerup)"
+ },
+ {
+  "name": "unlock",
+  "reason": "no fitting kind for a reel (category powerup)"
+ },
+ {
+  "name": "invincible",
+  "reason": "no fitting kind for a reel (category powerup)"
+ },
+ {
+  "name": "laser",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "laser-soft",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "laser-heavy",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "blaster",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "zap",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "pew",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "gunshot",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "shotgun",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "shoot-retro",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "railgun",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "ray",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "plasma",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "missile",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "ricochet",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "dry-fire",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "reload",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "bow-twang",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "machine-gun",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "shell-casing",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "flamethrower",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "grenade-launch",
+  "reason": "weapons and lasers; no matching kind"
+ },
+ {
+  "name": "step-grass",
+  "reason": "footsteps do not belong in a reel kit; no matching kind"
+ },
+ {
+  "name": "step-stone",
+  "reason": "footsteps do not belong in a reel kit; no matching kind"
+ },
+ {
+  "name": "step-wood",
+  "reason": "footsteps do not belong in a reel kit; no matching kind"
+ },
+ {
+  "name": "step-metal",
+  "reason": "footsteps do not belong in a reel kit; no matching kind"
+ },
+ {
+  "name": "step-snow",
+  "reason": "footsteps do not belong in a reel kit; no matching kind"
+ },
+ {
+  "name": "step-gravel",
+  "reason": "footsteps do not belong in a reel kit; no matching kind"
+ },
+ {
+  "name": "step-water",
+  "reason": "footsteps do not belong in a reel kit; no matching kind"
+ },
+ {
+  "name": "step-sand",
+  "reason": "footsteps do not belong in a reel kit; no matching kind"
+ },
+ {
+  "name": "step-retro",
+  "reason": "footsteps do not belong in a reel kit; no matching kind"
+ },
+ {
+  "name": "step-heavy",
+  "reason": "footsteps do not belong in a reel kit; no matching kind"
+ },
+ {
+  "name": "step-carpet",
+  "reason": "footsteps do not belong in a reel kit; no matching kind"
+ },
+ {
+  "name": "step-mud",
+  "reason": "footsteps do not belong in a reel kit; no matching kind"
+ },
+ {
+  "name": "fireball",
+  "reason": "no fitting kind for a reel (category magic)"
+ },
+ {
+  "name": "ice",
+  "reason": "no fitting kind for a reel (category magic)"
+ },
+ {
+  "name": "portal",
+  "reason": "no fitting kind for a reel (category magic)"
+ },
+ {
+  "name": "lightning",
+  "reason": "no fitting kind for a reel (category magic)"
+ },
+ {
+  "name": "curse",
+  "reason": "no fitting kind for a reel (category magic)"
+ },
+ {
+  "name": "summon",
+  "reason": "no fitting kind for a reel (category magic)"
+ },
+ {
+  "name": "harp",
+  "reason": "no fitting kind for a reel (category magic)"
+ },
+ {
+  "name": "beep",
+  "reason": "no fitting kind for a reel (category alert)"
+ },
+ {
+  "name": "warning",
+  "reason": "no fitting kind for a reel (category alert)"
+ },
+ {
+  "name": "low-health",
+  "reason": "no fitting kind for a reel (category alert)"
+ },
+ {
+  "name": "heartbeat",
+  "reason": "no fitting kind for a reel (category alert)"
+ },
+ {
+  "name": "countdown-go",
+  "reason": "no fitting kind for a reel (category alert)"
+ },
+ {
+  "name": "siren",
+  "reason": "no fitting kind for a reel (category alert)"
+ },
+ {
+  "name": "ding-correct",
+  "reason": "no fitting kind for a reel (category alert)"
+ },
+ {
+  "name": "level-complete",
+  "reason": "no fitting kind for a reel (category jingle)"
+ },
+ {
+  "name": "lose",
+  "reason": "no fitting kind for a reel (category jingle)"
+ },
+ {
+  "name": "secret-found",
+  "reason": "no fitting kind for a reel (category jingle)"
+ },
+ {
+  "name": "checkpoint",
+  "reason": "no fitting kind for a reel (category jingle)"
+ },
+ {
+  "name": "round-start",
+  "reason": "no fitting kind for a reel (category jingle)"
+ },
+ {
+  "name": "highscore",
+  "reason": "no fitting kind for a reel (category jingle)"
+ },
+ {
+  "name": "boss-intro",
+  "reason": "no fitting kind for a reel (category jingle)"
+ },
+ {
+  "name": "door-open",
+  "reason": "no fitting kind for a reel (category mechanic)"
+ },
+ {
+  "name": "door-close",
+  "reason": "no fitting kind for a reel (category mechanic)"
+ },
+ {
+  "name": "door-heavy",
+  "reason": "no fitting kind for a reel (category mechanic)"
+ },
+ {
+  "name": "lock-open",
+  "reason": "no fitting kind for a reel (category mechanic)"
+ },
+ {
+  "name": "locked",
+  "reason": "no fitting kind for a reel (category mechanic)"
+ },
+ {
+  "name": "chest-open",
+  "reason": "no fitting kind for a reel (category mechanic)"
+ },
+ {
+  "name": "lever",
+  "reason": "no fitting kind for a reel (category mechanic)"
+ },
+ {
+  "name": "ratchet",
+  "reason": "no fitting kind for a reel (category mechanic)"
+ },
+ {
+  "name": "machine",
+  "reason": "no fitting kind for a reel (category mechanic)"
+ },
+ {
+  "name": "engine-idle",
+  "reason": "no fitting kind for a reel (category world)"
+ },
+ {
+  "name": "splash",
+  "reason": "no fitting kind for a reel (category world)"
+ },
+ {
+  "name": "water-drop",
+  "reason": "no fitting kind for a reel (category world)"
+ },
+ {
+  "name": "wind",
+  "reason": "no fitting kind for a reel (category world)"
+ },
+ {
+  "name": "glass-break",
+  "reason": "no fitting kind for a reel (category world)"
+ },
+ {
+  "name": "fire-crackle",
+  "reason": "no fitting kind for a reel (category world)"
+ },
+ {
+  "name": "crate-break",
+  "reason": "no fitting kind for a reel (category world)"
+ },
+ {
+  "name": "pot-break",
+  "reason": "no fitting kind for a reel (category world)"
+ },
+ {
+  "name": "metal-clang",
+  "reason": "no fitting kind for a reel (category world)"
+ },
+ {
+  "name": "rock-crumble",
+  "reason": "no fitting kind for a reel (category world)"
+ },
+ {
+  "name": "ignite",
+  "reason": "no fitting kind for a reel (category world)"
+ },
+ {
+  "name": "bat-flap",
+  "reason": "animal and monster voices; no matching kind"
+ },
+ {
+  "name": "slime-blob",
+  "reason": "animal and monster voices; no matching kind"
+ },
+ {
+  "name": "chirp",
+  "reason": "animal and monster voices; no matching kind"
+ },
+ {
+  "name": "growl-small",
+  "reason": "animal and monster voices; no matching kind"
+ },
+ {
+  "name": "ghost-moan",
+  "reason": "animal and monster voices; no matching kind"
+ },
+ {
+  "name": "bee-buzz",
+  "reason": "animal and monster voices; no matching kind"
+ },
+ {
+  "name": "creature-hurt",
+  "reason": "animal and monster voices; no matching kind"
+ },
+ {
+  "name": "creature-die",
+  "reason": "animal and monster voices; no matching kind"
+ },
+ {
+  "name": "voice-babble",
+  "reason": "animal and monster voices; no matching kind"
+ },
+ {
+  "name": "zombie-groan",
+  "reason": "animal and monster voices; no matching kind"
+ },
+ {
+  "name": "roar",
+  "reason": "animal and monster voices; no matching kind"
+ },
+ {
+  "name": "dog-bark",
+  "reason": "animal and monster voices; no matching kind"
+ },
+ {
+  "name": "cat-meow",
+  "reason": "animal and monster voices; no matching kind"
+ },
+ {
+  "name": "thunder-far",
+  "reason": "no fitting kind for a reel (category nature)"
+ },
+ {
+  "name": "rain-drop",
+  "reason": "no fitting kind for a reel (category nature)"
+ },
+ {
+  "name": "bird-chirp",
+  "reason": "no fitting kind for a reel (category nature)"
+ },
+ {
+  "name": "frog-croak",
+  "reason": "no fitting kind for a reel (category nature)"
+ },
+ {
+  "name": "stone-drop",
+  "reason": "no fitting kind for a reel (category nature)"
+ },
+ {
+  "name": "thunder-crack",
+  "reason": "no fitting kind for a reel (category nature)"
+ },
+ {
+  "name": "ocean-wave",
+  "reason": "no fitting kind for a reel (category nature)"
+ },
+ {
+  "name": "rain-burst",
+  "reason": "no fitting kind for a reel (category nature)"
+ },
+ {
+  "name": "dive-splash",
+  "reason": "no fitting kind for a reel (category nature)"
+ },
+ {
+  "name": "card-flip",
+  "reason": "no fitting kind for a reel (category card)"
+ },
+ {
+  "name": "card-place",
+  "reason": "no fitting kind for a reel (category card)"
+ },
+ {
+  "name": "chip-stack",
+  "reason": "no fitting kind for a reel (category card)"
+ },
+ {
+  "name": "dice-roll",
+  "reason": "no fitting kind for a reel (category card)"
+ },
+ {
+  "name": "slot-spin",
+  "reason": "no fitting kind for a reel (category card)"
+ },
+ {
+  "name": "slot-stop",
+  "reason": "no fitting kind for a reel (category card)"
+ },
+ {
+  "name": "jackpot",
+  "reason": "no fitting kind for a reel (category card)"
+ },
+ {
+  "name": "engine-start",
+  "reason": "vehicle sounds; no matching kind"
+ },
+ {
+  "name": "engine-rev",
+  "reason": "vehicle sounds; no matching kind"
+ },
+ {
+  "name": "tire-screech",
+  "reason": "vehicle sounds; no matching kind"
+ },
+ {
+  "name": "car-crash",
+  "reason": "vehicle sounds; no matching kind"
+ },
+ {
+  "name": "car-horn",
+  "reason": "vehicle sounds; no matching kind"
+ },
+ {
+  "name": "race-light",
+  "reason": "vehicle sounds; no matching kind"
+ },
+ {
+  "name": "jumpscare",
+  "reason": "no fitting kind for a reel (category horror)"
+ },
+ {
+  "name": "dread-drone",
+  "reason": "no fitting kind for a reel (category horror)"
+ },
+ {
+  "name": "whisper",
+  "reason": "no fitting kind for a reel (category horror)"
+ },
+ {
+  "name": "horror-sting",
+  "reason": "no fitting kind for a reel (category horror)"
+ },
+ {
+  "name": "chains-rattle",
+  "reason": "no fitting kind for a reel (category horror)"
+ },
+ {
+  "name": "music-box",
+  "reason": "no fitting kind for a reel (category horror)"
+ },
+ {
+  "name": "axe-chop",
+  "reason": "game-world actions; no matching kind"
+ },
+ {
+  "name": "tree-fall",
+  "reason": "game-world actions; no matching kind"
+ },
+ {
+  "name": "pickaxe-mine",
+  "reason": "game-world actions; no matching kind"
+ },
+ {
+  "name": "plant-seed",
+  "reason": "game-world actions; no matching kind"
+ },
+ {
+  "name": "watering-can",
+  "reason": "game-world actions; no matching kind"
+ },
+ {
+  "name": "harvest",
+  "reason": "game-world actions; no matching kind"
+ },
+ {
+  "name": "fishing-cast",
+  "reason": "game-world actions; no matching kind"
+ },
+ {
+  "name": "fish-bite",
+  "reason": "game-world actions; no matching kind"
+ },
+ {
+  "name": "computer-beep",
+  "reason": "no fitting kind for a reel (category scifi)"
+ },
+ {
+  "name": "scan",
+  "reason": "no fitting kind for a reel (category scifi)"
+ },
+ {
+  "name": "door-slide",
+  "reason": "no fitting kind for a reel (category scifi)"
+ },
+ {
+  "name": "swap",
+  "reason": "no fitting kind for a reel (category puzzle)"
+ },
+ {
+  "name": "line-clear",
+  "reason": "no fitting kind for a reel (category puzzle)"
+ },
+ {
+  "name": "piece-lock",
+  "reason": "no fitting kind for a reel (category puzzle)"
+ },
+ {
+  "name": "merge",
+  "reason": "no fitting kind for a reel (category puzzle)"
+ }
+]

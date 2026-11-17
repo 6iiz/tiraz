@@ -1,0 +1,286 @@
+{
+ "asmr-crack-1-teaboi_others.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "the-libre-sample-pack/fx/others/asmr crack 1 @TeaBoi.wav",
+  "tags": [
+   "asmr",
+   "libre",
+   "mid-tone"
+  ]
+ },
+ "asmr-crack-4-teaboi_others.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "the-libre-sample-pack/fx/others/asmr crack 4 @TeaBoi.wav",
+  "tags": [
+   "asmr",
+   "bright",
+   "libre"
+  ]
+ },
+ "asmr-transient-1-teaboi_others.wav": {
+  "anchor": "start",
+  "kind": "tick",
+  "source": "the-libre-sample-pack/fx/others/asmr transient 1 @TeaBoi.wav",
+  "tags": [
+   "asmr",
+   "dark",
+   "libre"
+  ]
+ },
+ "asmr-transient-3-teaboi_others.wav": {
+  "anchor": "start",
+  "kind": "tick",
+  "source": "the-libre-sample-pack/fx/others/asmr transient 3 @TeaBoi.wav",
+  "tags": [
+   "asmr",
+   "dark",
+   "libre"
+  ]
+ },
+ "asmr-transient-9-teaboi_others.wav": {
+  "anchor": "start",
+  "kind": "tick",
+  "source": "the-libre-sample-pack/fx/others/asmr transient 9 @TeaBoi.wav",
+  "tags": [
+   "asmr",
+   "libre",
+   "mid-tone"
+  ]
+ },
+ "ch-1-teaboi_hi-hats.wav": {
+  "anchor": "start",
+  "kind": "tick",
+  "source": "the-libre-sample-pack/drums/one shot/hi hats/ch 1 @TeaBoi.wav",
+  "tags": [
+   "bright",
+   "hat",
+   "libre"
+  ]
+ },
+ "ch-4-teaboi_hi-hats.wav": {
+  "anchor": "start",
+  "kind": "tick",
+  "source": "the-libre-sample-pack/drums/one shot/hi hats/ch 4 @TeaBoi.wav",
+  "tags": [
+   "bright",
+   "hat",
+   "libre"
+  ]
+ },
+ "ch-9-teaboi_hi-hats.wav": {
+  "anchor": "start",
+  "kind": "tick",
+  "source": "the-libre-sample-pack/drums/one shot/hi hats/ch 9 @TeaBoi.wav",
+  "tags": [
+   "bright",
+   "hat",
+   "libre"
+  ]
+ },
+ "impact-1-teaboi_downlifters.wav": {
+  "anchor": "start",
+  "kind": "impact",
+  "source": "the-libre-sample-pack/fx/downlifters/impact 1 @TeaBoi.wav",
+  "tags": [
+   "libre",
+   "long",
+   "mid-tone"
+  ]
+ },
+ "impact-2-teaboi_downlifters.wav": {
+  "anchor": "start",
+  "kind": "impact",
+  "source": "the-libre-sample-pack/fx/downlifters/impact 2 @TeaBoi.wav",
+  "tags": [
+   "libre",
+   "long",
+   "mid-tone"
+  ]
+ },
+ "impact-4-teaboi_downlifters.wav": {
+  "anchor": "start",
+  "kind": "impact",
+  "source": "the-libre-sample-pack/fx/downlifters/impact 4 @TeaBoi.wav",
+  "tags": [
+   "libre",
+   "long",
+   "mid-tone"
+  ]
+ },
+ "impact-5-teaboi_downlifters.wav": {
+  "anchor": "start",
+  "kind": "impact",
+  "source": "the-libre-sample-pack/fx/downlifters/impact 5 @TeaBoi.wav",
+  "tags": [
+   "libre",
+   "long",
+   "mid-tone"
+  ]
+ },
+ "long-sweep-1-teaboi_uplifters.wav": {
+  "anchor": "end",
+  "kind": "riser",
+  "source": "the-libre-sample-pack/fx/uplifters/long sweep 1 @TeaBoi.wav",
+  "tags": [
+   "4s",
+   "bright",
+   "libre",
+   "long"
+  ]
+ },
+ "long-sweep-3-teaboi_uplifters.wav": {
+  "anchor": "end",
+  "kind": "riser",
+  "source": "the-libre-sample-pack/fx/uplifters/long sweep 3 @TeaBoi.wav",
+  "tags": [
+   "3s",
+   "bright",
+   "libre",
+   "long"
+  ]
+ },
+ "long-sweep-6-teaboi_uplifters.wav": {
+  "anchor": "end",
+  "kind": "riser",
+  "source": "the-libre-sample-pack/fx/uplifters/long sweep 6 @TeaBoi.wav",
+  "tags": [
+   "4s",
+   "bright",
+   "libre",
+   "long"
+  ]
+ },
+ "long-sweep-8-teaboi_uplifters.wav": {
+  "anchor": "end",
+  "kind": "riser",
+  "source": "the-libre-sample-pack/fx/uplifters/long sweep 8 @TeaBoi.wav",
+  "tags": [
+   "4s",
+   "dark",
+   "libre",
+   "long"
+  ]
+ },
+ "metal-crash-pixus_downlifters.wav": {
+  "anchor": "start",
+  "kind": "impact",
+  "source": "the-libre-sample-pack/fx/downlifters/Metal-Crash@Pixus.wav",
+  "tags": [
+   "bright",
+   "libre",
+   "long",
+   "metal"
+  ]
+ },
+ "rim-1-teaboi_rimshots.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "the-libre-sample-pack/drums/one shot/rimshots/rim 1 @TeaBoi.wav",
+  "tags": [
+   "libre",
+   "mid-tone",
+   "rim"
+  ]
+ },
+ "rim-3-teaboi_rimshots.wav": {
+  "anchor": "start",
+  "kind": "click",
+  "source": "the-libre-sample-pack/drums/one shot/rimshots/rim 3 @TeaBoi.wav",
+  "tags": [
+   "bright",
+   "libre",
+   "rim"
+  ]
+ },
+ "short-sweep-1-teaboi_uplifters.wav": {
+  "anchor": "end",
+  "kind": "riser",
+  "source": "the-libre-sample-pack/fx/uplifters/short sweep 1 @TeaBoi.wav",
+  "tags": [
+   "2s",
+   "bright",
+   "libre",
+   "long"
+  ]
+ },
+ "short-sweep-3-teaboi_uplifters.wav": {
+  "anchor": "end",
+  "kind": "riser",
+  "source": "the-libre-sample-pack/fx/uplifters/short sweep 3 @TeaBoi.wav",
+  "tags": [
+   "4s",
+   "bright",
+   "libre",
+   "long"
+  ]
+ },
+ "short-sweep-4-teaboi_uplifters.wav": {
+  "anchor": "end",
+  "kind": "riser",
+  "source": "the-libre-sample-pack/fx/uplifters/short sweep 4 @TeaBoi.wav",
+  "tags": [
+   "4s",
+   "libre",
+   "long",
+   "mid-tone"
+  ]
+ },
+ "sub-drop-a-teaboi_downlifters.wav": {
+  "anchor": "start",
+  "kind": "drop",
+  "source": "the-libre-sample-pack/fx/downlifters/sub drop a @TeaBoi.wav",
+  "tags": [
+   "dark",
+   "libre",
+   "long",
+   "sub"
+  ]
+ },
+ "sub-drop-c-teaboi_downlifters.wav": {
+  "anchor": "start",
+  "kind": "drop",
+  "source": "the-libre-sample-pack/fx/downlifters/sub drop c @TeaBoi.wav",
+  "tags": [
+   "dark",
+   "libre",
+   "long",
+   "sub"
+  ]
+ },
+ "sub-drop-d-teaboi_downlifters.wav": {
+  "anchor": "start",
+  "kind": "drop",
+  "source": "the-libre-sample-pack/fx/downlifters/sub drop d @TeaBoi.wav",
+  "tags": [
+   "dark",
+   "libre",
+   "long",
+   "sub"
+  ]
+ },
+ "sweepup-8bit-unikub_uplifters.wav": {
+  "anchor": "end",
+  "kind": "riser",
+  "source": "the-libre-sample-pack/fx/uplifters/sweepup 8bit @unikub.wav",
+  "tags": [
+   "4s",
+   "dark",
+   "libre",
+   "long",
+   "retro"
+  ]
+ },
+ "tonalimpact-b-unikub_downlifters.wav": {
+  "anchor": "start",
+  "kind": "impact",
+  "source": "the-libre-sample-pack/fx/downlifters/tonalimpact - B @unikub.wav",
+  "tags": [
+   "bright",
+   "libre",
+   "long",
+   "tonal"
+  ]
+ }
+}

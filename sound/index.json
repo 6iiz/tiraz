@@ -1,0 +1,4349 @@
+[
+ {
+  "id": "kenney/bong-001_kenney-inter",
+  "kind": "ding",
+  "file": "packs/kenney/bong-001_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.12,
+  "peak_db": -3.0,
+  "tags": [
+   "dark",
+   "kenney",
+   "short",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 252,
+  "hi_share": 0.004,
+  "source": "soundcn/assets/kenney_interface-sounds/bong_001.ogg"
+ },
+ {
+  "id": "kenney/click-001_kenney-inter",
+  "kind": "click",
+  "file": "packs/kenney/click-001_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.097,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "kenney",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3842,
+  "hi_share": 0.009,
+  "source": "soundcn/assets/kenney_interface-sounds/click_001.ogg"
+ },
+ {
+  "id": "kenney/click-003_kenney-inter",
+  "kind": "click",
+  "file": "packs/kenney/click-003_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.007,
+  "peak_db": -3.0,
+  "tags": [
+   "kenney",
+   "mid-tone"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1908,
+  "hi_share": 0.601,
+  "source": "soundcn/assets/kenney_interface-sounds/click_003.ogg"
+ },
+ {
+  "id": "kenney/click-005_kenney-inter",
+  "kind": "click",
+  "file": "packs/kenney/click-005_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.007,
+  "peak_db": -3.0,
+  "tags": [
+   "kenney",
+   "mid-tone",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2963,
+  "hi_share": 0.225,
+  "source": "soundcn/assets/kenney_interface-sounds/click_005.ogg"
+ },
+ {
+  "id": "kenney/confirmation-001_kenney-inter",
+  "kind": "success",
+  "file": "packs/kenney/confirmation-001_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.29,
+  "peak_db": -3.0,
+  "tags": [
+   "dark",
+   "kenney",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 712,
+  "hi_share": 1.0,
+  "source": "soundcn/assets/kenney_interface-sounds/confirmation_001.ogg"
+ },
+ {
+  "id": "kenney/confirmation-003_kenney-inter",
+  "kind": "success",
+  "file": "packs/kenney/confirmation-003_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.32,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "kenney",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 4175,
+  "hi_share": 1.0,
+  "source": "soundcn/assets/kenney_interface-sounds/confirmation_003.ogg"
+ },
+ {
+  "id": "kenney/confirmation-004_kenney-inter",
+  "kind": "success",
+  "file": "packs/kenney/confirmation-004_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.488,
+  "peak_db": -3.0,
+  "tags": [
+   "kenney",
+   "mid-tone",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1533,
+  "hi_share": 1.0,
+  "source": "soundcn/assets/kenney_interface-sounds/confirmation_004.ogg"
+ },
+ {
+  "id": "kenney/drop-001_kenney-inter",
+  "kind": "pop",
+  "file": "packs/kenney/drop-001_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.113,
+  "peak_db": -3.0,
+  "tags": [
+   "kenney",
+   "low",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 4258,
+  "hi_share": 0.229,
+  "source": "soundcn/assets/kenney_interface-sounds/drop_001.ogg"
+ },
+ {
+  "id": "kenney/drop-004_kenney-inter",
+  "kind": "pop",
+  "file": "packs/kenney/drop-004_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.284,
+  "peak_db": -3.0,
+  "tags": [
+   "kenney",
+   "low"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1507,
+  "hi_share": 0.308,
+  "source": "soundcn/assets/kenney_interface-sounds/drop_004.ogg"
+ },
+ {
+  "id": "kenney/error-001_kenney-inter",
+  "kind": "error",
+  "file": "packs/kenney/error-001_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.162,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "kenney",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 7241,
+  "hi_share": 1.0,
+  "source": "soundcn/assets/kenney_interface-sounds/error_001.ogg"
+ },
+ {
+  "id": "kenney/error-005_kenney-inter",
+  "kind": "error",
+  "file": "packs/kenney/error-005_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.196,
+  "peak_db": -3.0,
+  "tags": [
+   "kenney",
+   "mid-tone",
+   "short",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1359,
+  "hi_share": 0.046,
+  "source": "soundcn/assets/kenney_interface-sounds/error_005.ogg"
+ },
+ {
+  "id": "kenney/error-008_kenney-inter",
+  "kind": "error",
+  "file": "packs/kenney/error-008_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.139,
+  "peak_db": -3.0,
+  "tags": [
+   "kenney",
+   "mid-tone",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2286,
+  "hi_share": 0.515,
+  "source": "soundcn/assets/kenney_interface-sounds/error_008.ogg"
+ },
+ {
+  "id": "kenney/glass-001_kenney-inter",
+  "kind": "ding",
+  "file": "packs/kenney/glass-001_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.276,
+  "peak_db": -3.0,
+  "tags": [
+   "glass",
+   "kenney",
+   "mid-tone",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2006,
+  "hi_share": 0.979,
+  "source": "soundcn/assets/kenney_interface-sounds/glass_001.ogg"
+ },
+ {
+  "id": "kenney/glass-003_kenney-inter",
+  "kind": "ding",
+  "file": "packs/kenney/glass-003_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.121,
+  "peak_db": -3.0,
+  "tags": [
+   "glass",
+   "kenney",
+   "mid-tone",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2037,
+  "hi_share": 0.95,
+  "source": "soundcn/assets/kenney_interface-sounds/glass_003.ogg"
+ },
+ {
+  "id": "kenney/glass-006_kenney-inter",
+  "kind": "ding",
+  "file": "packs/kenney/glass-006_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.105,
+  "peak_db": -3.0,
+  "tags": [
+   "glass",
+   "kenney",
+   "mid-tone",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2037,
+  "hi_share": 0.963,
+  "source": "soundcn/assets/kenney_interface-sounds/glass_006.ogg"
+ },
+ {
+  "id": "kenney/glitch-001_kenney-inter",
+  "kind": "glitch",
+  "file": "packs/kenney/glitch-001_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.017,
+  "peak_db": -3.0,
+  "tags": [
+   "kenney",
+   "mid-tone",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2396,
+  "hi_share": 0.048,
+  "source": "soundcn/assets/kenney_interface-sounds/glitch_001.ogg"
+ },
+ {
+  "id": "kenney/glitch-003_kenney-inter",
+  "kind": "glitch",
+  "file": "packs/kenney/glitch-003_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.012,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "kenney"
+  ],
+  "anchor": "start",
+  "centroid_hz": 7083,
+  "hi_share": 0.596,
+  "source": "soundcn/assets/kenney_interface-sounds/glitch_003.ogg"
+ },
+ {
+  "id": "kenney/glitch-004_kenney-inter",
+  "kind": "glitch",
+  "file": "packs/kenney/glitch-004_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.02,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "kenney"
+  ],
+  "anchor": "start",
+  "centroid_hz": 4537,
+  "hi_share": 0.975,
+  "source": "soundcn/assets/kenney_interface-sounds/glitch_004.ogg"
+ },
+ {
+  "id": "kenney/highdown_kenney-digit",
+  "kind": "drop",
+  "file": "packs/kenney/highdown_kenney-digit.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.411,
+  "peak_db": -3.0,
+  "tags": [
+   "dark",
+   "kenney",
+   "retro",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1188,
+  "hi_share": 1.0,
+  "source": "soundcn/assets/kenney_digital-audio/highDown.ogg"
+ },
+ {
+  "id": "kenney/pepsound1_kenney-digit",
+  "kind": "pop",
+  "file": "packs/kenney/pepsound1_kenney-digit.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.403,
+  "peak_db": -3.0,
+  "tags": [
+   "kenney",
+   "mid",
+   "retro",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 454,
+  "hi_share": 0.12,
+  "source": "soundcn/assets/kenney_digital-audio/pepSound1.ogg"
+ },
+ {
+  "id": "kenney/pepsound5_kenney-digit",
+  "kind": "pop",
+  "file": "packs/kenney/pepsound5_kenney-digit.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.522,
+  "peak_db": -3.0,
+  "tags": [
+   "kenney",
+   "mid",
+   "retro"
+  ],
+  "anchor": "start",
+  "centroid_hz": 867,
+  "hi_share": 1.0,
+  "source": "soundcn/assets/kenney_digital-audio/pepSound5.ogg"
+ },
+ {
+  "id": "kenney/phaserup1_kenney-digit",
+  "kind": "swish",
+  "file": "packs/kenney/phaserup1_kenney-digit.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.433,
+  "peak_db": -3.0,
+  "tags": [
+   "dark",
+   "kenney",
+   "retro"
+  ],
+  "anchor": "start",
+  "centroid_hz": 958,
+  "hi_share": 0.382,
+  "source": "soundcn/assets/kenney_digital-audio/phaserUp1.ogg"
+ },
+ {
+  "id": "kenney/phaserup7_kenney-digit",
+  "kind": "swish",
+  "file": "packs/kenney/phaserup7_kenney-digit.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.311,
+  "peak_db": -3.0,
+  "tags": [
+   "kenney",
+   "mid-tone",
+   "retro"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1336,
+  "hi_share": 1.0,
+  "source": "soundcn/assets/kenney_digital-audio/phaserUp7.ogg"
+ },
+ {
+  "id": "kenney/pluck-001_kenney-inter",
+  "kind": "pop",
+  "file": "packs/kenney/pluck-001_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.1,
+  "peak_db": -3.0,
+  "tags": [
+   "high",
+   "kenney"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3877,
+  "hi_share": 0.999,
+  "source": "soundcn/assets/kenney_interface-sounds/pluck_001.ogg"
+ },
+ {
+  "id": "kenney/pluck-002_kenney-inter",
+  "kind": "pop",
+  "file": "packs/kenney/pluck-002_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.149,
+  "peak_db": -3.0,
+  "tags": [
+   "high",
+   "kenney"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3453,
+  "hi_share": 0.999,
+  "source": "soundcn/assets/kenney_interface-sounds/pluck_002.ogg"
+ },
+ {
+  "id": "kenney/powerup1_kenney-digit",
+  "kind": "success",
+  "file": "packs/kenney/powerup1_kenney-digit.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 1.072,
+  "peak_db": -3.0,
+  "tags": [
+   "kenney",
+   "long",
+   "mid-tone",
+   "retro"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3021,
+  "hi_share": 1.0,
+  "source": "soundcn/assets/kenney_digital-audio/powerUp1.ogg"
+ },
+ {
+  "id": "kenney/powerup9_kenney-digit",
+  "kind": "success",
+  "file": "packs/kenney/powerup9_kenney-digit.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.38,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "kenney",
+   "retro",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 6360,
+  "hi_share": 1.0,
+  "source": "soundcn/assets/kenney_digital-audio/powerUp9.ogg"
+ },
+ {
+  "id": "kenney/question-001_kenney-inter",
+  "kind": "notify",
+  "file": "packs/kenney/question-001_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.487,
+  "peak_db": -3.0,
+  "tags": [
+   "kenney",
+   "mid-tone",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1384,
+  "hi_share": 1.0,
+  "source": "soundcn/assets/kenney_interface-sounds/question_001.ogg"
+ },
+ {
+  "id": "kenney/question-004_kenney-inter",
+  "kind": "notify",
+  "file": "packs/kenney/question-004_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.33,
+  "peak_db": -3.0,
+  "tags": [
+   "dark",
+   "kenney",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 487,
+  "hi_share": 0.998,
+  "source": "soundcn/assets/kenney_interface-sounds/question_004.ogg"
+ },
+ {
+  "id": "kenney/scratch-001_kenney-inter",
+  "kind": "scratch",
+  "file": "packs/kenney/scratch-001_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.123,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "kenney"
+  ],
+  "anchor": "start",
+  "centroid_hz": 8086,
+  "hi_share": 1.0,
+  "source": "soundcn/assets/kenney_interface-sounds/scratch_001.ogg"
+ },
+ {
+  "id": "kenney/scratch-002_kenney-inter",
+  "kind": "scratch",
+  "file": "packs/kenney/scratch-002_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.123,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "kenney"
+  ],
+  "anchor": "start",
+  "centroid_hz": 7904,
+  "hi_share": 1.0,
+  "source": "soundcn/assets/kenney_interface-sounds/scratch_002.ogg"
+ },
+ {
+  "id": "kenney/scratch-003_kenney-inter",
+  "kind": "scratch",
+  "file": "packs/kenney/scratch-003_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.123,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "kenney"
+  ],
+  "anchor": "start",
+  "centroid_hz": 12093,
+  "hi_share": 0.841,
+  "source": "soundcn/assets/kenney_interface-sounds/scratch_003.ogg"
+ },
+ {
+  "id": "kenney/scratch-004_kenney-inter",
+  "kind": "scratch",
+  "file": "packs/kenney/scratch-004_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.298,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "kenney"
+  ],
+  "anchor": "start",
+  "centroid_hz": 6824,
+  "hi_share": 0.999,
+  "source": "soundcn/assets/kenney_interface-sounds/scratch_004.ogg"
+ },
+ {
+  "id": "kenney/scratch-005_kenney-inter",
+  "kind": "scratch",
+  "file": "packs/kenney/scratch-005_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.314,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "kenney"
+  ],
+  "anchor": "start",
+  "centroid_hz": 6516,
+  "hi_share": 1.0,
+  "source": "soundcn/assets/kenney_interface-sounds/scratch_005.ogg"
+ },
+ {
+  "id": "kenney/spacetrash1_kenney-digit",
+  "kind": "glitch",
+  "file": "packs/kenney/spacetrash1_kenney-digit.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 1.349,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "kenney",
+   "retro"
+  ],
+  "anchor": "start",
+  "centroid_hz": 6360,
+  "hi_share": 0.998,
+  "source": "soundcn/assets/kenney_digital-audio/spaceTrash1.ogg"
+ },
+ {
+  "id": "kenney/spacetrash5_kenney-digit",
+  "kind": "glitch",
+  "file": "packs/kenney/spacetrash5_kenney-digit.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 1.272,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "kenney",
+   "retro"
+  ],
+  "anchor": "start",
+  "centroid_hz": 5971,
+  "hi_share": 0.993,
+  "source": "soundcn/assets/kenney_digital-audio/spaceTrash5.ogg"
+ },
+ {
+  "id": "kenney/threetone1_kenney-digit",
+  "kind": "notify",
+  "file": "packs/kenney/threetone1_kenney-digit.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.509,
+  "peak_db": -3.0,
+  "tags": [
+   "dark",
+   "kenney",
+   "retro",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 807,
+  "hi_share": 0.99,
+  "source": "soundcn/assets/kenney_digital-audio/threeTone1.ogg"
+ },
+ {
+  "id": "kenney/threetone2_kenney-digit",
+  "kind": "notify",
+  "file": "packs/kenney/threetone2_kenney-digit.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.736,
+  "peak_db": -3.0,
+  "tags": [
+   "kenney",
+   "mid-tone",
+   "retro",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1651,
+  "hi_share": 0.998,
+  "source": "soundcn/assets/kenney_digital-audio/threeTone2.ogg"
+ },
+ {
+  "id": "kenney/tick-001_kenney-inter",
+  "kind": "tick",
+  "file": "packs/kenney/tick-001_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.013,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "kenney"
+  ],
+  "anchor": "start",
+  "centroid_hz": 8175,
+  "hi_share": 0.999,
+  "source": "soundcn/assets/kenney_interface-sounds/tick_001.ogg"
+ },
+ {
+  "id": "kenney/tick-004_kenney-inter",
+  "kind": "tick",
+  "file": "packs/kenney/tick-004_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.055,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "kenney"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3785,
+  "hi_share": 0.962,
+  "source": "soundcn/assets/kenney_interface-sounds/tick_004.ogg"
+ },
+ {
+  "id": "kenney/toggle-001_kenney-inter",
+  "kind": "toggle",
+  "file": "packs/kenney/toggle-001_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.103,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "kenney"
+  ],
+  "anchor": "start",
+  "centroid_hz": 5438,
+  "hi_share": 1.0,
+  "source": "soundcn/assets/kenney_interface-sounds/toggle_001.ogg"
+ },
+ {
+  "id": "kenney/toggle-004_kenney-inter",
+  "kind": "toggle",
+  "file": "packs/kenney/toggle-004_kenney-inter.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 0.06,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "kenney"
+  ],
+  "anchor": "start",
+  "centroid_hz": 6349,
+  "hi_share": 1.0,
+  "source": "soundcn/assets/kenney_interface-sounds/toggle_004.ogg"
+ },
+ {
+  "id": "kenney/zapthreetonedown_kenney-digit",
+  "kind": "drop",
+  "file": "packs/kenney/zapthreetonedown_kenney-digit.wav",
+  "pack": "kenney",
+  "licence": "CC0",
+  "seconds": 1.235,
+  "peak_db": -3.0,
+  "tags": [
+   "kenney",
+   "mid-tone",
+   "retro",
+   "short",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1447,
+  "hi_share": 0.067,
+  "source": "soundcn/assets/kenney_digital-audio/zapThreeToneDown.ogg"
+ },
+ {
+  "id": "libre/asmr-crack-1-teaboi_others",
+  "kind": "click",
+  "file": "packs/libre/asmr-crack-1-teaboi_others.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 0.6,
+  "peak_db": -3.0,
+  "tags": [
+   "asmr",
+   "libre",
+   "mid-tone",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2535,
+  "hi_share": 0.014,
+  "source": "the-libre-sample-pack/fx/others/asmr crack 1 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/asmr-crack-4-teaboi_others",
+  "kind": "click",
+  "file": "packs/libre/asmr-crack-4-teaboi_others.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 0.6,
+  "peak_db": -3.0,
+  "tags": [
+   "asmr",
+   "bright",
+   "libre",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 4810,
+  "hi_share": 0.047,
+  "source": "the-libre-sample-pack/fx/others/asmr crack 4 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/asmr-transient-1-teaboi_others",
+  "kind": "tick",
+  "file": "packs/libre/asmr-transient-1-teaboi_others.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 0.303,
+  "peak_db": -3.0,
+  "tags": [
+   "asmr",
+   "dark",
+   "libre",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 977,
+  "hi_share": 0.001,
+  "source": "the-libre-sample-pack/fx/others/asmr transient 1 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/asmr-transient-3-teaboi_others",
+  "kind": "tick",
+  "file": "packs/libre/asmr-transient-3-teaboi_others.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 0.4,
+  "peak_db": -3.0,
+  "tags": [
+   "asmr",
+   "dark",
+   "libre",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1057,
+  "hi_share": 0.005,
+  "source": "the-libre-sample-pack/fx/others/asmr transient 3 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/asmr-transient-9-teaboi_others",
+  "kind": "tick",
+  "file": "packs/libre/asmr-transient-9-teaboi_others.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 0.295,
+  "peak_db": -3.0,
+  "tags": [
+   "asmr",
+   "libre",
+   "mid-tone",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1800,
+  "hi_share": 0.007,
+  "source": "the-libre-sample-pack/fx/others/asmr transient 9 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/ch-1-teaboi_hi-hats",
+  "kind": "tick",
+  "file": "packs/libre/ch-1-teaboi_hi-hats.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 0.041,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "hat",
+   "libre"
+  ],
+  "anchor": "start",
+  "centroid_hz": 9938,
+  "hi_share": 1.0,
+  "source": "the-libre-sample-pack/drums/one shot/hi hats/ch 1 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/ch-4-teaboi_hi-hats",
+  "kind": "tick",
+  "file": "packs/libre/ch-4-teaboi_hi-hats.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 0.031,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "hat",
+   "libre"
+  ],
+  "anchor": "start",
+  "centroid_hz": 9745,
+  "hi_share": 1.0,
+  "source": "the-libre-sample-pack/drums/one shot/hi hats/ch 4 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/ch-9-teaboi_hi-hats",
+  "kind": "tick",
+  "file": "packs/libre/ch-9-teaboi_hi-hats.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 0.062,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "hat",
+   "libre"
+  ],
+  "anchor": "start",
+  "centroid_hz": 4733,
+  "hi_share": 1.0,
+  "source": "the-libre-sample-pack/drums/one shot/hi hats/ch 9 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/impact-1-teaboi_downlifters",
+  "kind": "impact",
+  "file": "packs/libre/impact-1-teaboi_downlifters.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 3.5,
+  "peak_db": -3.0,
+  "tags": [
+   "libre",
+   "long",
+   "mid-tone",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2106,
+  "hi_share": 0.205,
+  "source": "the-libre-sample-pack/fx/downlifters/impact 1 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/impact-2-teaboi_downlifters",
+  "kind": "impact",
+  "file": "packs/libre/impact-2-teaboi_downlifters.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 3.5,
+  "peak_db": -3.0,
+  "tags": [
+   "libre",
+   "long",
+   "mid-tone",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2204,
+  "hi_share": 0.236,
+  "source": "the-libre-sample-pack/fx/downlifters/impact 2 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/impact-4-teaboi_downlifters",
+  "kind": "impact",
+  "file": "packs/libre/impact-4-teaboi_downlifters.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 3.5,
+  "peak_db": -3.0,
+  "tags": [
+   "libre",
+   "long",
+   "mid-tone",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1258,
+  "hi_share": 0.152,
+  "source": "the-libre-sample-pack/fx/downlifters/impact 4 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/impact-5-teaboi_downlifters",
+  "kind": "impact",
+  "file": "packs/libre/impact-5-teaboi_downlifters.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 2.922,
+  "peak_db": -3.0,
+  "tags": [
+   "libre",
+   "long",
+   "mid-tone"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3029,
+  "hi_share": 0.999,
+  "source": "the-libre-sample-pack/fx/downlifters/impact 5 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/long-sweep-1-teaboi_uplifters",
+  "kind": "riser",
+  "file": "packs/libre/long-sweep-1-teaboi_uplifters.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 4.5,
+  "peak_db": -3.0,
+  "tags": [
+   "4s",
+   "bright",
+   "libre",
+   "long"
+  ],
+  "anchor": "end",
+  "centroid_hz": 7191,
+  "hi_share": 0.995,
+  "source": "the-libre-sample-pack/fx/uplifters/long sweep 1 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/long-sweep-3-teaboi_uplifters",
+  "kind": "riser",
+  "file": "packs/libre/long-sweep-3-teaboi_uplifters.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 3.217,
+  "peak_db": -3.0,
+  "tags": [
+   "3s",
+   "bright",
+   "libre",
+   "long"
+  ],
+  "anchor": "end",
+  "centroid_hz": 7634,
+  "hi_share": 0.999,
+  "source": "the-libre-sample-pack/fx/uplifters/long sweep 3 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/long-sweep-6-teaboi_uplifters",
+  "kind": "riser",
+  "file": "packs/libre/long-sweep-6-teaboi_uplifters.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 4.45,
+  "peak_db": -3.0,
+  "tags": [
+   "4s",
+   "bright",
+   "libre",
+   "long"
+  ],
+  "anchor": "end",
+  "centroid_hz": 9541,
+  "hi_share": 0.998,
+  "source": "the-libre-sample-pack/fx/uplifters/long sweep 6 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/long-sweep-8-teaboi_uplifters",
+  "kind": "riser",
+  "file": "packs/libre/long-sweep-8-teaboi_uplifters.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 4.5,
+  "peak_db": -3.0,
+  "tags": [
+   "4s",
+   "dark",
+   "libre",
+   "long"
+  ],
+  "anchor": "end",
+  "centroid_hz": 1028,
+  "hi_share": 1.0,
+  "source": "the-libre-sample-pack/fx/uplifters/long sweep 8 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/metal-crash-pixus_downlifters",
+  "kind": "impact",
+  "file": "packs/libre/metal-crash-pixus_downlifters.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 3.5,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "libre",
+   "long",
+   "metal"
+  ],
+  "anchor": "start",
+  "centroid_hz": 8553,
+  "hi_share": 1.0,
+  "source": "the-libre-sample-pack/fx/downlifters/Metal-Crash@Pixus.wav"
+ },
+ {
+  "id": "libre/rim-1-teaboi_rimshots",
+  "kind": "click",
+  "file": "packs/libre/rim-1-teaboi_rimshots.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 0.19,
+  "peak_db": -3.0,
+  "tags": [
+   "libre",
+   "mid-tone",
+   "rim"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3444,
+  "hi_share": 0.624,
+  "source": "the-libre-sample-pack/drums/one shot/rimshots/rim 1 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/rim-3-teaboi_rimshots",
+  "kind": "click",
+  "file": "packs/libre/rim-3-teaboi_rimshots.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 0.203,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "libre",
+   "rim"
+  ],
+  "anchor": "start",
+  "centroid_hz": 4607,
+  "hi_share": 0.915,
+  "source": "the-libre-sample-pack/drums/one shot/rimshots/rim 3 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/short-sweep-1-teaboi_uplifters",
+  "kind": "riser",
+  "file": "packs/libre/short-sweep-1-teaboi_uplifters.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 1.586,
+  "peak_db": -3.0,
+  "tags": [
+   "2s",
+   "bright",
+   "libre",
+   "long"
+  ],
+  "anchor": "end",
+  "centroid_hz": 6745,
+  "hi_share": 0.993,
+  "source": "the-libre-sample-pack/fx/uplifters/short sweep 1 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/short-sweep-3-teaboi_uplifters",
+  "kind": "riser",
+  "file": "packs/libre/short-sweep-3-teaboi_uplifters.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 4.497,
+  "peak_db": -3.0,
+  "tags": [
+   "4s",
+   "bright",
+   "libre",
+   "long"
+  ],
+  "anchor": "end",
+  "centroid_hz": 5123,
+  "hi_share": 0.99,
+  "source": "the-libre-sample-pack/fx/uplifters/short sweep 3 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/short-sweep-4-teaboi_uplifters",
+  "kind": "riser",
+  "file": "packs/libre/short-sweep-4-teaboi_uplifters.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 3.553,
+  "peak_db": -3.0,
+  "tags": [
+   "4s",
+   "libre",
+   "long",
+   "mid-tone"
+  ],
+  "anchor": "end",
+  "centroid_hz": 2214,
+  "hi_share": 0.996,
+  "source": "the-libre-sample-pack/fx/uplifters/short sweep 4 @TeaBoi.wav"
+ },
+ {
+  "id": "libre/sub-drop-a-teaboi_downlifters",
+  "kind": "drop",
+  "file": "packs/libre/sub-drop-a-teaboi_downlifters.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 2.5,
+  "peak_db": -3.0,
+  "tags": [
+   "dark",
+   "libre",
+   "long",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 145,
+  "hi_share": 0.0,
+  "source": "the-libre-sample-pack/fx/downlifters/sub drop a @TeaBoi.wav"
+ },
+ {
+  "id": "libre/sub-drop-c-teaboi_downlifters",
+  "kind": "drop",
+  "file": "packs/libre/sub-drop-c-teaboi_downlifters.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 2.5,
+  "peak_db": -3.0,
+  "tags": [
+   "dark",
+   "libre",
+   "long",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 170,
+  "hi_share": 0.0,
+  "source": "the-libre-sample-pack/fx/downlifters/sub drop c @TeaBoi.wav"
+ },
+ {
+  "id": "libre/sub-drop-d-teaboi_downlifters",
+  "kind": "drop",
+  "file": "packs/libre/sub-drop-d-teaboi_downlifters.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 2.5,
+  "peak_db": -3.0,
+  "tags": [
+   "dark",
+   "libre",
+   "long",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 191,
+  "hi_share": 0.0,
+  "source": "the-libre-sample-pack/fx/downlifters/sub drop d @TeaBoi.wav"
+ },
+ {
+  "id": "libre/sweepup-8bit-unikub_uplifters",
+  "kind": "riser",
+  "file": "packs/libre/sweepup-8bit-unikub_uplifters.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 4.5,
+  "peak_db": -3.0,
+  "tags": [
+   "4s",
+   "dark",
+   "libre",
+   "long",
+   "retro"
+  ],
+  "anchor": "end",
+  "centroid_hz": 1122,
+  "hi_share": 0.716,
+  "source": "the-libre-sample-pack/fx/uplifters/sweepup 8bit @unikub.wav"
+ },
+ {
+  "id": "libre/tonalimpact-b-unikub_downlifters",
+  "kind": "impact",
+  "file": "packs/libre/tonalimpact-b-unikub_downlifters.wav",
+  "pack": "libre",
+  "licence": "CC0",
+  "seconds": 3.5,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "libre",
+   "long",
+   "tonal"
+  ],
+  "anchor": "start",
+  "centroid_hz": 5062,
+  "hi_share": 1.0,
+  "source": "the-libre-sample-pack/fx/downlifters/tonalimpact - B @unikub.wav"
+ },
+ {
+  "id": "plink/access-denied_s0",
+  "kind": "error",
+  "file": "packs/plink/access-denied_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.342,
+  "peak_db": -3.0,
+  "tags": [
+   "digital",
+   "plink",
+   "scifi",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1891,
+  "hi_share": 0.148,
+  "source": "plinkfx access-denied (Keycard rejected: low double buzz with a crackle) seed 0"
+ },
+ {
+  "id": "plink/access-granted_s0",
+  "kind": "success",
+  "file": "packs/plink/access-granted_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.201,
+  "peak_db": -3.0,
+  "tags": [
+   "digital",
+   "plink",
+   "scifi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2025,
+  "hi_share": 1.0,
+  "source": "plinkfx access-granted (Keycard accepted: two bright beeps) seed 0"
+ },
+ {
+  "id": "plink/achievement_s0",
+  "kind": "success",
+  "file": "packs/plink/achievement_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 1.192,
+  "peak_db": -3.0,
+  "tags": [
+   "jingle",
+   "plink",
+   "resolve"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2115,
+  "hi_share": 1.0,
+  "source": "plinkfx achievement (Achievement unlocked) seed 0"
+ },
+ {
+  "id": "plink/alarm_s0",
+  "kind": "error",
+  "file": "packs/plink/alarm_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.625,
+  "peak_db": -3.0,
+  "tags": [
+   "alert",
+   "long",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1821,
+  "hi_share": 1.0,
+  "source": "plinkfx alarm (Two-tone alarm, loops cleanly if repeated) seed 0"
+ },
+ {
+  "id": "plink/bonk_s0",
+  "kind": "thump",
+  "file": "packs/plink/bonk_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.116,
+  "peak_db": -3.0,
+  "tags": [
+   "hit",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 595,
+  "hi_share": 0.949,
+  "source": "plinkfx bonk (Cartoon bonk on the head) seed 0"
+ },
+ {
+  "id": "plink/boost_s0",
+  "kind": "whoosh",
+  "file": "packs/plink/boost_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.725,
+  "peak_db": -3.0,
+  "tags": [
+   "long",
+   "plink",
+   "vehicle"
+  ],
+  "anchor": "start",
+  "centroid_hz": 4999,
+  "hi_share": 0.992,
+  "source": "plinkfx boost (Nitro / turbo boost: whoosh with a rising jet whine) seed 0"
+ },
+ {
+  "id": "plink/bubble_s0",
+  "kind": "pop",
+  "file": "packs/plink/bubble_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.284,
+  "peak_db": -3.0,
+  "tags": [
+   "mid",
+   "plink",
+   "world"
+  ],
+  "anchor": "start",
+  "centroid_hz": 738,
+  "hi_share": 1.0,
+  "source": "plinkfx bubble (Bubbles rising) seed 0"
+ },
+ {
+  "id": "plink/button_s0",
+  "kind": "click",
+  "file": "packs/plink/button_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.105,
+  "peak_db": -3.0,
+  "tags": [
+   "mechanic",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1421,
+  "hi_share": 0.435,
+  "source": "plinkfx button (Press a mechanical floor button) seed 0"
+ },
+ {
+  "id": "plink/buzzer-wrong_s0",
+  "kind": "error",
+  "file": "packs/plink/buzzer-wrong_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.534,
+  "peak_db": -3.0,
+  "tags": [
+   "alert",
+   "plink",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1121,
+  "hi_share": 0.085,
+  "source": "plinkfx buzzer-wrong (Quiz-show wrong-answer buzzer) seed 0"
+ },
+ {
+  "id": "plink/card-deal_s0",
+  "kind": "rustle",
+  "file": "packs/plink/card-deal_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.12,
+  "peak_db": -3.0,
+  "tags": [
+   "card",
+   "plink",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 6408,
+  "hi_share": 0.878,
+  "source": "plinkfx card-deal (Deal a card across the table: swish and slap) seed 0"
+ },
+ {
+  "id": "plink/card-shuffle_s0",
+  "kind": "rustle",
+  "file": "packs/plink/card-shuffle_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.36,
+  "peak_db": -3.0,
+  "tags": [
+   "card",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 5209,
+  "hi_share": 0.996,
+  "source": "plinkfx card-shuffle (Riffle shuffle: a fast burst of card ticks) seed 0"
+ },
+ {
+  "id": "plink/charge-up_s0",
+  "kind": "riser",
+  "file": "packs/plink/charge-up_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.973,
+  "peak_db": -3.0,
+  "tags": [
+   "1s",
+   "plink",
+   "powerup"
+  ],
+  "anchor": "end",
+  "centroid_hz": 2135,
+  "hi_share": 0.699,
+  "source": "plinkfx charge-up (Charging a shot, rising tension) seed 0"
+ },
+ {
+  "id": "plink/click-hard_s0",
+  "kind": "click",
+  "file": "packs/plink/click-hard_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.032,
+  "peak_db": -3.0,
+  "tags": [
+   "hard",
+   "plink",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2873,
+  "hi_share": 0.999,
+  "source": "plinkfx click-hard (Firm mechanical click) seed 0"
+ },
+ {
+  "id": "plink/click-soft_s0",
+  "kind": "click",
+  "file": "packs/plink/click-soft_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.051,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "soft",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1389,
+  "hi_share": 1.0,
+  "source": "plinkfx click-soft (Rounded, quiet click for lists and tabs) seed 0"
+ },
+ {
+  "id": "plink/click_s0",
+  "kind": "click",
+  "file": "packs/plink/click_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.069,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1895,
+  "hi_share": 1.0,
+  "source": "plinkfx click (Neutral button click) seed 0"
+ },
+ {
+  "id": "plink/coin-double_s0",
+  "kind": "ding",
+  "file": "packs/plink/coin-double_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.71,
+  "peak_db": -3.0,
+  "tags": [
+   "pickup",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3165,
+  "hi_share": 0.991,
+  "source": "plinkfx coin-double (Two coins in quick succession) seed 0"
+ },
+ {
+  "id": "plink/coin-soft_s0",
+  "kind": "ding",
+  "file": "packs/plink/coin-soft_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.689,
+  "peak_db": -3.0,
+  "tags": [
+   "pickup",
+   "plink",
+   "soft"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2646,
+  "hi_share": 1.0,
+  "source": "plinkfx coin-soft (Rounder coin for cosy games) seed 0"
+ },
+ {
+  "id": "plink/coin_s0",
+  "kind": "ding",
+  "file": "packs/plink/coin_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.622,
+  "peak_db": -3.0,
+  "tags": [
+   "pickup",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2984,
+  "hi_share": 0.989,
+  "source": "plinkfx coin (The classic two-note coin, with a little shimmer) seed 0"
+ },
+ {
+  "id": "plink/combo-chain_s0",
+  "kind": "sparkle",
+  "file": "packs/plink/combo-chain_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.528,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "puzzle"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3156,
+  "hi_share": 1.0,
+  "source": "plinkfx combo-chain (Cascade combo: each step a little higher (pitch it per chain)) seed 0"
+ },
+ {
+  "id": "plink/confirm_s0",
+  "kind": "success",
+  "file": "packs/plink/confirm_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.719,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1943,
+  "hi_share": 1.0,
+  "source": "plinkfx confirm (Bright major arpeggio, 'OK') seed 0"
+ },
+ {
+  "id": "plink/countdown_s0",
+  "kind": "tick",
+  "file": "packs/plink/countdown_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.166,
+  "peak_db": -3.0,
+  "tags": [
+   "alert",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1046,
+  "hi_share": 1.0,
+  "source": "plinkfx countdown (Countdown tick: 3, 2, 1) seed 0"
+ },
+ {
+  "id": "plink/dash_s0",
+  "kind": "swish",
+  "file": "packs/plink/dash_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.184,
+  "peak_db": -3.0,
+  "tags": [
+   "fast",
+   "plink",
+   "world"
+  ],
+  "anchor": "start",
+  "centroid_hz": 5413,
+  "hi_share": 0.999,
+  "source": "plinkfx dash (Quick dash with a burst) seed 0"
+ },
+ {
+  "id": "plink/deny_s0",
+  "kind": "error",
+  "file": "packs/plink/deny_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.117,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "sub",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 510,
+  "hi_share": 0.136,
+  "source": "plinkfx deny (Short dull thunk for disabled buttons) seed 0"
+ },
+ {
+  "id": "plink/dig_s0",
+  "kind": "rustle",
+  "file": "packs/plink/dig_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.239,
+  "peak_db": -3.0,
+  "tags": [
+   "farm",
+   "grit",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 4858,
+  "hi_share": 0.931,
+  "source": "plinkfx dig (Shovel into soil) seed 0"
+ },
+ {
+  "id": "plink/dispel_s0",
+  "kind": "shimmer",
+  "file": "packs/plink/dispel_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 1.174,
+  "peak_db": -3.0,
+  "tags": [
+   "magic",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 7199,
+  "hi_share": 1.0,
+  "source": "plinkfx dispel (Dispel: shimmer that falls away) seed 0"
+ },
+ {
+  "id": "plink/enchant_s0",
+  "kind": "shimmer",
+  "file": "packs/plink/enchant_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 1.379,
+  "peak_db": -3.0,
+  "tags": [
+   "magic",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2744,
+  "hi_share": 1.0,
+  "source": "plinkfx enchant (Enchant an item: bells in a row) seed 0"
+ },
+ {
+  "id": "plink/error_s0",
+  "kind": "error",
+  "file": "packs/plink/error_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.251,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "sub",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 676,
+  "hi_share": 0.198,
+  "source": "plinkfx error (Two low buzzes, 'not allowed') seed 0"
+ },
+ {
+  "id": "plink/explosion-big_s0",
+  "kind": "impact",
+  "file": "packs/plink/explosion-big_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 2.815,
+  "peak_db": -3.0,
+  "tags": [
+   "big",
+   "explosion",
+   "long",
+   "plink",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 504,
+  "hi_share": 0.121,
+  "source": "plinkfx explosion-big (Huge blast with a long rolling tail) seed 0"
+ },
+ {
+  "id": "plink/explosion-small_s0",
+  "kind": "impact",
+  "file": "packs/plink/explosion-small_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.835,
+  "peak_db": -3.0,
+  "tags": [
+   "explosion",
+   "plink",
+   "small",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 948,
+  "hi_share": 0.213,
+  "source": "plinkfx explosion-small (Small pop of an explosion, grenades, barrels) seed 0"
+ },
+ {
+  "id": "plink/explosion_s0",
+  "kind": "impact",
+  "file": "packs/plink/explosion_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 1.252,
+  "peak_db": -3.0,
+  "tags": [
+   "big",
+   "explosion",
+   "plink",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 954,
+  "hi_share": 0.134,
+  "source": "plinkfx explosion (Mid-size explosion: crack, rumble, tail) seed 0"
+ },
+ {
+  "id": "plink/fall-whistle_s0",
+  "kind": "drop",
+  "file": "packs/plink/fall-whistle_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.917,
+  "peak_db": -3.0,
+  "tags": [
+   "jump",
+   "long",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1521,
+  "hi_share": 1.0,
+  "source": "plinkfx fall-whistle (Cartoon falling whistle) seed 0"
+ },
+ {
+  "id": "plink/force-field_s0",
+  "kind": "bed",
+  "file": "packs/plink/force-field_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 3.0,
+  "peak_db": -14.0,
+  "tags": [
+   "loop",
+   "plink",
+   "sub",
+   "tech",
+   "world"
+  ],
+  "anchor": "start",
+  "centroid_hz": 973,
+  "hi_share": 0.008,
+  "source": "plinkfx force-field (Force field or reactor hum, seamless loop) seed 0"
+ },
+ {
+  "id": "plink/game-over_s0",
+  "kind": "error",
+  "file": "packs/plink/game-over_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 2.142,
+  "peak_db": -3.0,
+  "tags": [
+   "jingle",
+   "long",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1059,
+  "hi_share": 0.728,
+  "source": "plinkfx game-over (Game over: slow sad descent) seed 0"
+ },
+ {
+  "id": "plink/gem_s0",
+  "kind": "sparkle",
+  "file": "packs/plink/gem_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.859,
+  "peak_db": -3.0,
+  "tags": [
+   "pickup",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 5564,
+  "hi_share": 1.0,
+  "source": "plinkfx gem (Glassy bell for gems and crystals) seed 0"
+ },
+ {
+  "id": "plink/glitch_s0",
+  "kind": "glitch",
+  "file": "packs/plink/glitch_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.159,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "scifi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 5544,
+  "hi_share": 0.961,
+  "source": "plinkfx glitch (Digital glitch: stuttering crushed burst) seed 0"
+ },
+ {
+  "id": "plink/heal_s0",
+  "kind": "shimmer",
+  "file": "packs/plink/heal_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 1.756,
+  "peak_db": -3.0,
+  "tags": [
+   "long",
+   "plink",
+   "powerup"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1791,
+  "hi_share": 1.0,
+  "source": "plinkfx heal (Healing: soft rising chime with shimmer) seed 0"
+ },
+ {
+  "id": "plink/hit-heavy_s0",
+  "kind": "impact",
+  "file": "packs/plink/hit-heavy_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.948,
+  "peak_db": -3.0,
+  "tags": [
+   "big",
+   "hit",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1221,
+  "hi_share": 0.319,
+  "source": "plinkfx hit-heavy (Heavy blow with crunch and low end) seed 0"
+ },
+ {
+  "id": "plink/hit-light_s0",
+  "kind": "thump",
+  "file": "packs/plink/hit-light_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.11,
+  "peak_db": -3.0,
+  "tags": [
+   "hit",
+   "plink",
+   "soft"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2889,
+  "hi_share": 0.877,
+  "source": "plinkfx hit-light (Light jab or tap) seed 0"
+ },
+ {
+  "id": "plink/hit_s0",
+  "kind": "impact",
+  "file": "packs/plink/hit_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.664,
+  "peak_db": -3.0,
+  "tags": [
+   "hit",
+   "plink",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 619,
+  "hi_share": 0.027,
+  "source": "plinkfx hit (Solid all-round hit: click, body, thump) seed 0"
+ },
+ {
+  "id": "plink/hover_s0",
+  "kind": "tick",
+  "file": "packs/plink/hover_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.023,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "soft",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2608,
+  "hi_share": 1.0,
+  "source": "plinkfx hover (Faint tick when the cursor enters a button) seed 0"
+ },
+ {
+  "id": "plink/implosion_s0",
+  "kind": "drop",
+  "file": "packs/plink/implosion_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 1.268,
+  "peak_db": -3.0,
+  "tags": [
+   "explosion",
+   "long",
+   "plink",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 797,
+  "hi_share": 0.041,
+  "source": "plinkfx implosion (Reverse-feel suck-in then thump) seed 0"
+ },
+ {
+  "id": "plink/ka-ching_s0",
+  "kind": "ding",
+  "file": "packs/plink/ka-ching_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.761,
+  "peak_db": -3.0,
+  "tags": [
+   "pickup",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 9837,
+  "hi_share": 1.0,
+  "source": "plinkfx ka-ching (Cash register for shops and purchases) seed 0"
+ },
+ {
+  "id": "plink/kick_s0",
+  "kind": "thump",
+  "file": "packs/plink/kick_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.237,
+  "peak_db": -3.0,
+  "tags": [
+   "hit",
+   "plink",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 873,
+  "hi_share": 0.02,
+  "source": "plinkfx kick (Kick: low thump with a cloth snap) seed 0"
+ },
+ {
+  "id": "plink/land-heavy_s0",
+  "kind": "thump",
+  "file": "packs/plink/land-heavy_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.615,
+  "peak_db": -3.0,
+  "tags": [
+   "jump",
+   "plink",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 919,
+  "hi_share": 0.181,
+  "source": "plinkfx land-heavy (Heavy landing with a thud) seed 0"
+ },
+ {
+  "id": "plink/leaf-rustle_s0",
+  "kind": "rustle",
+  "file": "packs/plink/leaf-rustle_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.394,
+  "peak_db": -3.0,
+  "tags": [
+   "nature",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 5394,
+  "hi_share": 0.997,
+  "source": "plinkfx leaf-rustle (Leaves rustling in a bush) seed 0"
+ },
+ {
+  "id": "plink/level-up_s0",
+  "kind": "success",
+  "file": "packs/plink/level-up_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 1.385,
+  "peak_db": -3.0,
+  "tags": [
+   "long",
+   "plink",
+   "powerup"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2520,
+  "hi_share": 1.0,
+  "source": "plinkfx level-up (Level up: chord, sparkle and hold) seed 0"
+ },
+ {
+  "id": "plink/magic-missile_s0",
+  "kind": "swish",
+  "file": "packs/plink/magic-missile_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.363,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "magic",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1758,
+  "hi_share": 1.0,
+  "source": "plinkfx magic-missile (Homing magic bolt) seed 0"
+ },
+ {
+  "id": "plink/match_s0",
+  "kind": "success",
+  "file": "packs/plink/match_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.676,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "puzzle"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2493,
+  "hi_share": 1.0,
+  "source": "plinkfx match (Three in a row: bright glassy pop) seed 0"
+ },
+ {
+  "id": "plink/message_s0",
+  "kind": "notify",
+  "file": "packs/plink/message_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.66,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1375,
+  "hi_share": 1.0,
+  "source": "plinkfx message (Chat message arrives) seed 0"
+ },
+ {
+  "id": "plink/notify_s0",
+  "kind": "notify",
+  "file": "packs/plink/notify_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.972,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 4745,
+  "hi_share": 1.0,
+  "source": "plinkfx notify (Two-tone bell notification) seed 0"
+ },
+ {
+  "id": "plink/page-turn_s0",
+  "kind": "rustle",
+  "file": "packs/plink/page-turn_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.217,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 6633,
+  "hi_share": 0.999,
+  "source": "plinkfx page-turn (Turn a book or tutorial page) seed 0"
+ },
+ {
+  "id": "plink/pickup-item_s0",
+  "kind": "pop",
+  "file": "packs/plink/pickup-item_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.141,
+  "peak_db": -3.0,
+  "tags": [
+   "high",
+   "pickup",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2187,
+  "hi_share": 0.955,
+  "source": "plinkfx pickup-item (Grab an item: a short slide up) seed 0"
+ },
+ {
+  "id": "plink/plink_s0",
+  "kind": "ding",
+  "file": "packs/plink/plink_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.76,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1893,
+  "hi_share": 1.0,
+  "source": "plinkfx plink (The plinkfx signature: one drop of sound) seed 0"
+ },
+ {
+  "id": "plink/pop-down_s0",
+  "kind": "pop",
+  "file": "packs/plink/pop-down_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.072,
+  "peak_db": -3.0,
+  "tags": [
+   "low",
+   "plink",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 558,
+  "hi_share": 1.0,
+  "source": "plinkfx pop-down (Downward pop, for things disappearing) seed 0"
+ },
+ {
+  "id": "plink/pop_s0",
+  "kind": "pop",
+  "file": "packs/plink/pop_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.064,
+  "peak_db": -3.0,
+  "tags": [
+   "mid",
+   "plink",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 832,
+  "hi_share": 1.0,
+  "source": "plinkfx pop (Upward pop, for things appearing) seed 0"
+ },
+ {
+  "id": "plink/power-down_s0",
+  "kind": "drop",
+  "file": "packs/plink/power-down_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.376,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "powerup",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1522,
+  "hi_share": 0.938,
+  "source": "plinkfx power-down (Lose a power: arpeggio falling) seed 0"
+ },
+ {
+  "id": "plink/powerup_s0",
+  "kind": "success",
+  "file": "packs/plink/powerup_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.394,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "powerup"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2092,
+  "hi_share": 1.0,
+  "source": "plinkfx powerup (Classic power-up: fast arpeggio climbing two octaves) seed 0"
+ },
+ {
+  "id": "plink/punch_s0",
+  "kind": "impact",
+  "file": "packs/plink/punch_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.648,
+  "peak_db": -3.0,
+  "tags": [
+   "hit",
+   "plink",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1052,
+  "hi_share": 0.022,
+  "source": "plinkfx punch (Cartoon punch, meaty) seed 0"
+ },
+ {
+  "id": "plink/puzzle-solved_s0",
+  "kind": "success",
+  "file": "packs/plink/puzzle-solved_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 1.042,
+  "peak_db": -3.0,
+  "tags": [
+   "jingle",
+   "plink",
+   "resolve"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2192,
+  "hi_share": 1.0,
+  "source": "plinkfx puzzle-solved (Puzzle solved: clear 'ta-da') seed 0"
+ },
+ {
+  "id": "plink/quest-new_s0",
+  "kind": "notify",
+  "file": "packs/plink/quest-new_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 1.299,
+  "peak_db": -3.0,
+  "tags": [
+   "alert",
+   "long",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1506,
+  "hi_share": 1.0,
+  "source": "plinkfx quest-new (New quest or objective) seed 0"
+ },
+ {
+  "id": "plink/radar-ping_s0",
+  "kind": "notify",
+  "file": "packs/plink/radar-ping_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 2.245,
+  "peak_db": -3.0,
+  "tags": [
+   "alert",
+   "long",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1526,
+  "hi_share": 1.0,
+  "source": "plinkfx radar-ping (Sonar ping) seed 0"
+ },
+ {
+  "id": "plink/rain-loop_s0",
+  "kind": "bed",
+  "file": "packs/plink/rain-loop_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 3.0,
+  "peak_db": -14.0,
+  "tags": [
+   "air",
+   "loop",
+   "nature",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 5148,
+  "hi_share": 0.921,
+  "source": "plinkfx rain-loop (Steady rain, seamless loop) seed 0"
+ },
+ {
+  "id": "plink/robot-chatter_s0",
+  "kind": "glitch",
+  "file": "packs/plink/robot-chatter_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.382,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "scifi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1522,
+  "hi_share": 1.0,
+  "source": "plinkfx robot-chatter (Cute robot beeps and boops) seed 0"
+ },
+ {
+  "id": "plink/select_s0",
+  "kind": "click",
+  "file": "packs/plink/select_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.101,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3392,
+  "hi_share": 0.625,
+  "source": "plinkfx select (Retro menu cursor move) seed 0"
+ },
+ {
+  "id": "plink/shield-off_s0",
+  "kind": "drop",
+  "file": "packs/plink/shield-off_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.397,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "powerup",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1719,
+  "hi_share": 0.501,
+  "source": "plinkfx shield-off (Shield drops or breaks down) seed 0"
+ },
+ {
+  "id": "plink/shield-on_s0",
+  "kind": "shimmer",
+  "file": "packs/plink/shield-on_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.89,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "powerup"
+  ],
+  "anchor": "start",
+  "centroid_hz": 830,
+  "hi_share": 0.65,
+  "source": "plinkfx shield-on (Energy shield raises) seed 0"
+ },
+ {
+  "id": "plink/shutdown_s0",
+  "kind": "drop",
+  "file": "packs/plink/shutdown_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.816,
+  "peak_db": -3.0,
+  "tags": [
+   "long",
+   "plink",
+   "scifi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 886,
+  "hi_share": 0.454,
+  "source": "plinkfx shutdown (System shutdown: whine falls and cuts) seed 0"
+ },
+ {
+  "id": "plink/slide_s0",
+  "kind": "rustle",
+  "file": "packs/plink/slide_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.366,
+  "peak_db": -3.0,
+  "tags": [
+   "ground",
+   "jump",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 5106,
+  "hi_share": 0.943,
+  "source": "plinkfx slide (Slide along the ground) seed 0"
+ },
+ {
+  "id": "plink/sparkle_s0",
+  "kind": "sparkle",
+  "file": "packs/plink/sparkle_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.726,
+  "peak_db": -3.0,
+  "tags": [
+   "magic",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 8141,
+  "hi_share": 1.0,
+  "source": "plinkfx sparkle (Twinkling sparkle) seed 0"
+ },
+ {
+  "id": "plink/speed-up_s0",
+  "kind": "whoosh",
+  "file": "packs/plink/speed-up_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.3,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "powerup",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2390,
+  "hi_share": 0.996,
+  "source": "plinkfx speed-up (Speed boost: fast whirring rise) seed 0"
+ },
+ {
+  "id": "plink/spell-cast_s0",
+  "kind": "shimmer",
+  "file": "packs/plink/spell-cast_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 1.379,
+  "peak_db": -3.0,
+  "tags": [
+   "long",
+   "magic",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1737,
+  "hi_share": 0.993,
+  "source": "plinkfx spell-cast (Generic spell: swell and release) seed 0"
+ },
+ {
+  "id": "plink/star_s0",
+  "kind": "sparkle",
+  "file": "packs/plink/star_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.697,
+  "peak_db": -3.0,
+  "tags": [
+   "pickup",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 4818,
+  "hi_share": 1.0,
+  "source": "plinkfx star (Collect a star: sparkling run upward) seed 0"
+ },
+ {
+  "id": "plink/static-burst_s0",
+  "kind": "glitch",
+  "file": "packs/plink/static-burst_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.333,
+  "peak_db": -3.0,
+  "tags": [
+   "horror",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 5711,
+  "hi_share": 0.68,
+  "source": "plinkfx static-burst (TV / radio static burst, for haunted screens) seed 0"
+ },
+ {
+  "id": "plink/stomp_s0",
+  "kind": "thump",
+  "file": "packs/plink/stomp_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.139,
+  "peak_db": -3.0,
+  "tags": [
+   "hit",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1589,
+  "hi_share": 0.842,
+  "source": "plinkfx stomp (Stomp on an enemy: squashy thump that springs up) seed 0"
+ },
+ {
+  "id": "plink/success_s0",
+  "kind": "success",
+  "file": "packs/plink/success_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.695,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1547,
+  "hi_share": 1.0,
+  "source": "plinkfx success (Task done: clean rising check-mark chime) seed 0"
+ },
+ {
+  "id": "plink/swing_s0",
+  "kind": "swish",
+  "file": "packs/plink/swing_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.309,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "world"
+  ],
+  "anchor": "start",
+  "centroid_hz": 5165,
+  "hi_share": 1.0,
+  "source": "plinkfx swing (Sword or stick swing) seed 0"
+ },
+ {
+  "id": "plink/swipe_s0",
+  "kind": "swish",
+  "file": "packs/plink/swipe_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.135,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 5434,
+  "hi_share": 0.996,
+  "source": "plinkfx swipe (Quick airy swipe between pages) seed 0"
+ },
+ {
+  "id": "plink/teleport_s0",
+  "kind": "whoosh",
+  "file": "packs/plink/teleport_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.607,
+  "peak_db": -3.0,
+  "tags": [
+   "long",
+   "magic",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1495,
+  "hi_share": 0.997,
+  "source": "plinkfx teleport (Teleport: fast warble upward) seed 0"
+ },
+ {
+  "id": "plink/thud_s0",
+  "kind": "thump",
+  "file": "packs/plink/thud_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.215,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "sub",
+   "world"
+  ],
+  "anchor": "start",
+  "centroid_hz": 633,
+  "hi_share": 0.212,
+  "source": "plinkfx thud (Generic body or crate falling) seed 0"
+ },
+ {
+  "id": "plink/tick_s0",
+  "kind": "tick",
+  "file": "packs/plink/tick_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.033,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3589,
+  "hi_share": 1.0,
+  "source": "plinkfx tick (Tiny tick for sliders and scroll steps) seed 0"
+ },
+ {
+  "id": "plink/timer-done_s0",
+  "kind": "notify",
+  "file": "packs/plink/timer-done_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.544,
+  "peak_db": -3.0,
+  "tags": [
+   "alert",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 4743,
+  "hi_share": 1.0,
+  "source": "plinkfx timer-done (Kitchen timer done: rapid bell trill) seed 0"
+ },
+ {
+  "id": "plink/toggle-off_s0",
+  "kind": "toggle",
+  "file": "packs/plink/toggle-off_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.104,
+  "peak_db": -3.0,
+  "tags": [
+   "off",
+   "plink",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1733,
+  "hi_share": 1.0,
+  "source": "plinkfx toggle-off (Switch off: two falling notes) seed 0"
+ },
+ {
+  "id": "plink/toggle-on_s0",
+  "kind": "toggle",
+  "file": "packs/plink/toggle-on_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.103,
+  "peak_db": -3.0,
+  "tags": [
+   "on",
+   "plink",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1636,
+  "hi_share": 1.0,
+  "source": "plinkfx toggle-on (Switch on: two rising notes) seed 0"
+ },
+ {
+  "id": "plink/toss_s0",
+  "kind": "rustle",
+  "file": "packs/plink/toss_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.312,
+  "peak_db": -3.0,
+  "tags": [
+   "air",
+   "plink",
+   "world"
+  ],
+  "anchor": "start",
+  "centroid_hz": 4571,
+  "hi_share": 0.998,
+  "source": "plinkfx toss (Throw something) seed 0"
+ },
+ {
+  "id": "plink/type_s0",
+  "kind": "type",
+  "file": "packs/plink/type_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.028,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "ui"
+  ],
+  "anchor": "start",
+  "centroid_hz": 5503,
+  "hi_share": 1.0,
+  "source": "plinkfx type (Keyboard tick for text that types itself) seed 0"
+ },
+ {
+  "id": "plink/victory_s0",
+  "kind": "success",
+  "file": "packs/plink/victory_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 1.468,
+  "peak_db": -3.0,
+  "tags": [
+   "jingle",
+   "long",
+   "plink",
+   "resolve"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1601,
+  "hi_share": 1.0,
+  "source": "plinkfx victory (Victory fanfare) seed 0"
+ },
+ {
+  "id": "plink/whoosh_s0",
+  "kind": "whoosh",
+  "file": "packs/plink/whoosh_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.43,
+  "peak_db": -3.0,
+  "tags": [
+   "plink",
+   "short",
+   "world"
+  ],
+  "anchor": "start",
+  "centroid_hz": 4607,
+  "hi_share": 0.962,
+  "source": "plinkfx whoosh (Medium whoosh for dashes and swings) seed 0"
+ },
+ {
+  "id": "plink/wind-loop_s0",
+  "kind": "bed",
+  "file": "packs/plink/wind-loop_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 3.0,
+  "peak_db": -14.0,
+  "tags": [
+   "air",
+   "loop",
+   "nature",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1877,
+  "hi_share": 0.736,
+  "source": "plinkfx wind-loop (Wind blowing with slow gusts, seamless loop) seed 0"
+ },
+ {
+  "id": "plink/xp-orb_s0",
+  "kind": "sparkle",
+  "file": "packs/plink/xp-orb_s0.wav",
+  "pack": "plink",
+  "licence": "CC0",
+  "seconds": 0.366,
+  "peak_db": -3.0,
+  "tags": [
+   "pickup",
+   "plink"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1833,
+  "hi_share": 1.0,
+  "source": "plinkfx xp-orb (Experience orb, small and bright) seed 0"
+ },
+ {
+  "id": "sonicpi/ambi-dark-woosh_samples",
+  "kind": "whoosh",
+  "file": "packs/sonicpi/ambi-dark-woosh_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 2.5,
+  "peak_db": -3.0,
+  "tags": [
+   "dark",
+   "long",
+   "sonicpi",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 749,
+  "hi_share": 0.154,
+  "source": "sonic-pi-samples/etc/samples/ambi_dark_woosh.flac"
+ },
+ {
+  "id": "sonicpi/ambi-glass-hum_samples",
+  "kind": "shimmer",
+  "file": "packs/sonicpi/ambi-glass-hum_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 3.0,
+  "peak_db": -3.0,
+  "tags": [
+   "dark",
+   "glass",
+   "long",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 697,
+  "hi_share": 0.353,
+  "source": "sonic-pi-samples/etc/samples/ambi_glass_hum.flac"
+ },
+ {
+  "id": "sonicpi/ambi-glass-rub_samples",
+  "kind": "shimmer",
+  "file": "packs/sonicpi/ambi-glass-rub_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 3.0,
+  "peak_db": -3.0,
+  "tags": [
+   "glass",
+   "long",
+   "mid-tone",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1450,
+  "hi_share": 1.0,
+  "source": "sonic-pi-samples/etc/samples/ambi_glass_rub.flac"
+ },
+ {
+  "id": "sonicpi/ambi-swoosh_samples",
+  "kind": "whoosh",
+  "file": "packs/sonicpi/ambi-swoosh_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 1.844,
+  "peak_db": -3.0,
+  "tags": [
+   "dark",
+   "long",
+   "sonicpi",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 398,
+  "hi_share": 0.2,
+  "source": "sonic-pi-samples/etc/samples/ambi_swoosh.flac"
+ },
+ {
+  "id": "sonicpi/bass-drop-c_samples",
+  "kind": "drop",
+  "file": "packs/sonicpi/bass-drop-c_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 2.359,
+  "peak_db": -3.0,
+  "tags": [
+   "long",
+   "mid-tone",
+   "sonicpi",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2480,
+  "hi_share": 0.339,
+  "source": "sonic-pi-samples/etc/samples/bass_drop_c.flac"
+ },
+ {
+  "id": "sonicpi/elec-bell_samples",
+  "kind": "ding",
+  "file": "packs/sonicpi/elec-bell_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.278,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "short",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1318,
+  "hi_share": 0.983,
+  "source": "sonic-pi-samples/etc/samples/elec_bell.flac"
+ },
+ {
+  "id": "sonicpi/elec-blip_samples",
+  "kind": "pop",
+  "file": "packs/sonicpi/elec-blip_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.158,
+  "peak_db": -3.0,
+  "tags": [
+   "mid",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 4014,
+  "hi_share": 0.972,
+  "source": "sonic-pi-samples/etc/samples/elec_blip.flac"
+ },
+ {
+  "id": "sonicpi/elec-blup_samples",
+  "kind": "pop",
+  "file": "packs/sonicpi/elec-blup_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.6,
+  "peak_db": -3.0,
+  "tags": [
+   "mid",
+   "sonicpi",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 356,
+  "hi_share": 0.189,
+  "source": "sonic-pi-samples/etc/samples/elec_blup.flac"
+ },
+ {
+  "id": "sonicpi/elec-chime_samples",
+  "kind": "ding",
+  "file": "packs/sonicpi/elec-chime_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 2.0,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "long",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 5613,
+  "hi_share": 1.0,
+  "source": "sonic-pi-samples/etc/samples/elec_chime.flac"
+ },
+ {
+  "id": "sonicpi/elec-plip_samples",
+  "kind": "pop",
+  "file": "packs/sonicpi/elec-plip_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.199,
+  "peak_db": -3.0,
+  "tags": [
+   "high",
+   "sonicpi",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 634,
+  "hi_share": 0.034,
+  "source": "sonic-pi-samples/etc/samples/elec_plip.flac"
+ },
+ {
+  "id": "sonicpi/elec-pop_samples",
+  "kind": "pop",
+  "file": "packs/sonicpi/elec-pop_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.087,
+  "peak_db": -3.0,
+  "tags": [
+   "mid",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1071,
+  "hi_share": 0.95,
+  "source": "sonic-pi-samples/etc/samples/elec_pop.flac"
+ },
+ {
+  "id": "sonicpi/elec-soft-kick_samples",
+  "kind": "thump",
+  "file": "packs/sonicpi/elec-soft-kick_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.136,
+  "peak_db": -3.0,
+  "tags": [
+   "dark",
+   "soft",
+   "sonicpi",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 366,
+  "hi_share": 0.076,
+  "source": "sonic-pi-samples/etc/samples/elec_soft_kick.flac"
+ },
+ {
+  "id": "sonicpi/elec-tick_samples",
+  "kind": "tick",
+  "file": "packs/sonicpi/elec-tick_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.019,
+  "peak_db": -3.0,
+  "tags": [
+   "dark",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1158,
+  "hi_share": 0.999,
+  "source": "sonic-pi-samples/etc/samples/elec_tick.flac"
+ },
+ {
+  "id": "sonicpi/glitch-perc1_samples",
+  "kind": "glitch",
+  "file": "packs/sonicpi/glitch-perc1_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 1.185,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "sonicpi",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3161,
+  "hi_share": 0.186,
+  "source": "sonic-pi-samples/etc/samples/glitch_perc1.flac"
+ },
+ {
+  "id": "sonicpi/glitch-perc3_samples",
+  "kind": "glitch",
+  "file": "packs/sonicpi/glitch-perc3_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.971,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1677,
+  "hi_share": 0.946,
+  "source": "sonic-pi-samples/etc/samples/glitch_perc3.flac"
+ },
+ {
+  "id": "sonicpi/glitch-perc5_samples",
+  "kind": "glitch",
+  "file": "packs/sonicpi/glitch-perc5_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.779,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 4636,
+  "hi_share": 0.948,
+  "source": "sonic-pi-samples/etc/samples/glitch_perc5.flac"
+ },
+ {
+  "id": "sonicpi/glitch-robot1_samples",
+  "kind": "glitch",
+  "file": "packs/sonicpi/glitch-robot1_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.999,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "robot",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 8327,
+  "hi_share": 0.934,
+  "source": "sonic-pi-samples/etc/samples/glitch_robot1.flac"
+ },
+ {
+  "id": "sonicpi/glitch-robot2_samples",
+  "kind": "glitch",
+  "file": "packs/sonicpi/glitch-robot2_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.906,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "robot",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 7805,
+  "hi_share": 0.968,
+  "source": "sonic-pi-samples/etc/samples/glitch_robot2.flac"
+ },
+ {
+  "id": "sonicpi/loop-ambi-drone_samples",
+  "kind": "bed",
+  "file": "packs/sonicpi/loop-ambi-drone_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 3.788,
+  "peak_db": -14.0,
+  "tags": [
+   "dark",
+   "loop",
+   "low",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 578,
+  "hi_share": 0.99,
+  "source": "sonic-pi-samples/etc/samples/ambi_drone.flac (looped with a 0.5 s crossfade)"
+ },
+ {
+  "id": "sonicpi/loop-tbd-pad-2_samples",
+  "kind": "bed",
+  "file": "packs/sonicpi/loop-tbd-pad-2_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 2.583,
+  "peak_db": -14.0,
+  "tags": [
+   "dark",
+   "loop",
+   "pad",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1007,
+  "hi_share": 0.645,
+  "source": "sonic-pi-samples/etc/samples/tbd_pad_2.flac (looped with a 0.5 s crossfade)"
+ },
+ {
+  "id": "sonicpi/loop-tbd-pad-4_samples",
+  "kind": "bed",
+  "file": "packs/sonicpi/loop-tbd-pad-4_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 1.852,
+  "peak_db": -14.0,
+  "tags": [
+   "dark",
+   "loop",
+   "pad",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 822,
+  "hi_share": 0.895,
+  "source": "sonic-pi-samples/etc/samples/tbd_pad_4.flac (looped with a 0.5 s crossfade)"
+ },
+ {
+  "id": "sonicpi/misc-cineboom_samples",
+  "kind": "impact",
+  "file": "packs/sonicpi/misc-cineboom_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 3.5,
+  "peak_db": -3.0,
+  "tags": [
+   "big",
+   "mid-tone",
+   "sonicpi",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2555,
+  "hi_share": 0.238,
+  "source": "sonic-pi-samples/etc/samples/misc_cineboom.flac"
+ },
+ {
+  "id": "sonicpi/perc-bell2_samples",
+  "kind": "ding",
+  "file": "packs/sonicpi/perc-bell2_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 2.0,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "long",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 4527,
+  "hi_share": 0.937,
+  "source": "sonic-pi-samples/etc/samples/perc_bell2.flac"
+ },
+ {
+  "id": "sonicpi/perc-bell_samples",
+  "kind": "ding",
+  "file": "packs/sonicpi/perc-bell_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 2.0,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "long",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 6097,
+  "hi_share": 0.998,
+  "source": "sonic-pi-samples/etc/samples/perc_bell.flac"
+ },
+ {
+  "id": "sonicpi/perc-impact1_samples",
+  "kind": "impact",
+  "file": "packs/sonicpi/perc-impact1_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.988,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "short",
+   "sonicpi",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2704,
+  "hi_share": 0.087,
+  "source": "sonic-pi-samples/etc/samples/perc_impact1.flac"
+ },
+ {
+  "id": "sonicpi/perc-impact2_samples",
+  "kind": "impact",
+  "file": "packs/sonicpi/perc-impact2_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.751,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "short",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2940,
+  "hi_share": 0.926,
+  "source": "sonic-pi-samples/etc/samples/perc_impact2.flac"
+ },
+ {
+  "id": "sonicpi/perc-snap_samples",
+  "kind": "click",
+  "file": "packs/sonicpi/perc-snap_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.301,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "snap",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 5415,
+  "hi_share": 0.926,
+  "source": "sonic-pi-samples/etc/samples/perc_snap.flac"
+ },
+ {
+  "id": "sonicpi/perc-swash_samples",
+  "kind": "whoosh",
+  "file": "packs/sonicpi/perc-swash_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.319,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "short",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1960,
+  "hi_share": 0.814,
+  "source": "sonic-pi-samples/etc/samples/perc_swash.flac"
+ },
+ {
+  "id": "sonicpi/perc-swoosh_samples",
+  "kind": "whoosh",
+  "file": "packs/sonicpi/perc-swoosh_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.281,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "short",
+   "sonicpi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 4348,
+  "hi_share": 0.959,
+  "source": "sonic-pi-samples/etc/samples/perc_swoosh.flac"
+ },
+ {
+  "id": "sonicpi/reversed-drum-cymbal-hard_samples",
+  "kind": "swell",
+  "file": "packs/sonicpi/reversed-drum-cymbal-hard_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 1.638,
+  "peak_db": -3.0,
+  "tags": [
+   "2s",
+   "bright",
+   "cymbal",
+   "long",
+   "reversed",
+   "sonicpi"
+  ],
+  "anchor": "end",
+  "centroid_hz": 6824,
+  "hi_share": 0.999,
+  "source": "sonic-pi-samples/etc/samples/drum_cymbal_hard.flac (played backwards)"
+ },
+ {
+  "id": "sonicpi/reversed-drum-cymbal-open_samples",
+  "kind": "swell",
+  "file": "packs/sonicpi/reversed-drum-cymbal-open_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 1.751,
+  "peak_db": -3.0,
+  "tags": [
+   "2s",
+   "bright",
+   "cymbal",
+   "long",
+   "reversed",
+   "sonicpi"
+  ],
+  "anchor": "end",
+  "centroid_hz": 8754,
+  "hi_share": 1.0,
+  "source": "sonic-pi-samples/etc/samples/drum_cymbal_open.flac (played backwards)"
+ },
+ {
+  "id": "sonicpi/reversed-drum-cymbal-soft_samples",
+  "kind": "swell",
+  "file": "packs/sonicpi/reversed-drum-cymbal-soft_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.949,
+  "peak_db": -3.0,
+  "tags": [
+   "1s",
+   "bright",
+   "cymbal",
+   "reversed",
+   "short",
+   "sonicpi"
+  ],
+  "anchor": "end",
+  "centroid_hz": 7542,
+  "hi_share": 1.0,
+  "source": "sonic-pi-samples/etc/samples/drum_cymbal_soft.flac (played backwards)"
+ },
+ {
+  "id": "sonicpi/reversed-drum-splash-hard_samples",
+  "kind": "swell",
+  "file": "packs/sonicpi/reversed-drum-splash-hard_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 2.376,
+  "peak_db": -3.0,
+  "tags": [
+   "2s",
+   "bright",
+   "cymbal",
+   "long",
+   "reversed",
+   "sonicpi"
+  ],
+  "anchor": "end",
+  "centroid_hz": 8032,
+  "hi_share": 1.0,
+  "source": "sonic-pi-samples/etc/samples/drum_splash_hard.flac (played backwards)"
+ },
+ {
+  "id": "sonicpi/reversed-drum-splash-soft_samples",
+  "kind": "swell",
+  "file": "packs/sonicpi/reversed-drum-splash-soft_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 1.857,
+  "peak_db": -3.0,
+  "tags": [
+   "2s",
+   "bright",
+   "cymbal",
+   "long",
+   "reversed",
+   "sonicpi"
+  ],
+  "anchor": "end",
+  "centroid_hz": 8076,
+  "hi_share": 1.0,
+  "source": "sonic-pi-samples/etc/samples/drum_splash_soft.flac (played backwards)"
+ },
+ {
+  "id": "sonicpi/reversed-elec-cymbal_samples",
+  "kind": "swell",
+  "file": "packs/sonicpi/reversed-elec-cymbal_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.563,
+  "peak_db": -3.0,
+  "tags": [
+   "1s",
+   "bright",
+   "cymbal",
+   "reversed",
+   "short",
+   "sonicpi"
+  ],
+  "anchor": "end",
+  "centroid_hz": 6708,
+  "hi_share": 1.0,
+  "source": "sonic-pi-samples/etc/samples/elec_cymbal.flac (played backwards)"
+ },
+ {
+  "id": "sonicpi/vinyl-backspin_samples",
+  "kind": "scratch",
+  "file": "packs/sonicpi/vinyl-backspin_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 1.059,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "sonicpi",
+   "vinyl"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3864,
+  "hi_share": 0.437,
+  "source": "sonic-pi-samples/etc/samples/vinyl_backspin.flac"
+ },
+ {
+  "id": "sonicpi/vinyl-rewind_samples",
+  "kind": "scratch",
+  "file": "packs/sonicpi/vinyl-rewind_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 2.5,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "sonicpi",
+   "vinyl"
+  ],
+  "anchor": "start",
+  "centroid_hz": 9646,
+  "hi_share": 0.872,
+  "source": "sonic-pi-samples/etc/samples/vinyl_rewind.flac"
+ },
+ {
+  "id": "sonicpi/vinyl-scratch_samples",
+  "kind": "scratch",
+  "file": "packs/sonicpi/vinyl-scratch_samples.wav",
+  "pack": "sonicpi",
+  "licence": "CC0",
+  "seconds": 0.272,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "sonicpi",
+   "vinyl"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2703,
+  "hi_share": 0.365,
+  "source": "sonic-pi-samples/etc/samples/vinyl_scratch.flac"
+ },
+ {
+  "id": "ui/badge_glass",
+  "kind": "ding",
+  "file": "packs/ui/badge_glass.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.95,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "glass",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3714,
+  "hi_share": 1.0,
+  "source": "uisfx glass/badge"
+ },
+ {
+  "id": "ui/badge_organic",
+  "kind": "ding",
+  "file": "packs/ui/badge_organic.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.81,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "organic",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2331,
+  "hi_share": 1.0,
+  "source": "uisfx organic/badge"
+ },
+ {
+  "id": "ui/blocked_glass",
+  "kind": "error",
+  "file": "packs/ui/blocked_glass.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.57,
+  "peak_db": -3.0,
+  "tags": [
+   "glass",
+   "mid-tone",
+   "short",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1789,
+  "hi_share": 0.091,
+  "source": "uisfx glass/blocked"
+ },
+ {
+  "id": "ui/bonus_organic",
+  "kind": "sparkle",
+  "file": "packs/ui/bonus_organic.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.919,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "organic",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2323,
+  "hi_share": 1.0,
+  "source": "uisfx organic/bonus"
+ },
+ {
+  "id": "ui/complete_cinematic",
+  "kind": "success",
+  "file": "packs/ui/complete_cinematic.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 1.08,
+  "peak_db": -3.0,
+  "tags": [
+   "cinematic",
+   "long",
+   "mid-tone",
+   "resolve"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1758,
+  "hi_share": 0.946,
+  "source": "uisfx cinematic/complete"
+ },
+ {
+  "id": "ui/complete_dreamy",
+  "kind": "success",
+  "file": "packs/ui/complete_dreamy.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 1.185,
+  "peak_db": -3.0,
+  "tags": [
+   "dark",
+   "dreamy",
+   "long",
+   "resolve"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1061,
+  "hi_share": 1.0,
+  "source": "uisfx dreamy/complete"
+ },
+ {
+  "id": "ui/error_mechanical",
+  "kind": "error",
+  "file": "packs/ui/error_mechanical.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.315,
+  "peak_db": -3.0,
+  "tags": [
+   "mechanical",
+   "mid-tone",
+   "short",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3122,
+  "hi_share": 0.056,
+  "source": "uisfx mechanical/error"
+ },
+ {
+  "id": "ui/error_scifi",
+  "kind": "error",
+  "file": "packs/ui/error_scifi.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.409,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "scifi",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1446,
+  "hi_share": 0.998,
+  "source": "uisfx scifi/error"
+ },
+ {
+  "id": "ui/error_soft",
+  "kind": "error",
+  "file": "packs/ui/error_soft.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.676,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "short",
+   "soft"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2212,
+  "hi_share": 0.872,
+  "source": "uisfx soft/error"
+ },
+ {
+  "id": "ui/hover_glass",
+  "kind": "tick",
+  "file": "packs/ui/hover_glass.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.278,
+  "peak_db": -3.0,
+  "tags": [
+   "glass",
+   "mid-tone"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2122,
+  "hi_share": 1.0,
+  "source": "uisfx glass/hover"
+ },
+ {
+  "id": "ui/hover_mechanical",
+  "kind": "tick",
+  "file": "packs/ui/hover_mechanical.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.092,
+  "peak_db": -3.0,
+  "tags": [
+   "mechanical",
+   "mid-tone"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2822,
+  "hi_share": 0.985,
+  "source": "uisfx mechanical/hover"
+ },
+ {
+  "id": "ui/hover_minimal",
+  "kind": "tick",
+  "file": "packs/ui/hover_minimal.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.067,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "minimal"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1481,
+  "hi_share": 1.0,
+  "source": "uisfx minimal/hover"
+ },
+ {
+  "id": "ui/mention_dreamy",
+  "kind": "notify",
+  "file": "packs/ui/mention_dreamy.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.935,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "dreamy",
+   "mid-tone",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1546,
+  "hi_share": 1.0,
+  "source": "uisfx dreamy/mention"
+ },
+ {
+  "id": "ui/notification_glass",
+  "kind": "notify",
+  "file": "packs/ui/notification_glass.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.724,
+  "peak_db": -3.0,
+  "tags": [
+   "glass",
+   "mid-tone",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2242,
+  "hi_share": 1.0,
+  "source": "uisfx glass/notification"
+ },
+ {
+  "id": "ui/notification_soft",
+  "kind": "notify",
+  "file": "packs/ui/notification_soft.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.622,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "short",
+   "soft"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1959,
+  "hi_share": 1.0,
+  "source": "uisfx soft/notification"
+ },
+ {
+  "id": "ui/notification_studio",
+  "kind": "notify",
+  "file": "packs/ui/notification_studio.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.358,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "short",
+   "studio"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1823,
+  "hi_share": 1.0,
+  "source": "uisfx studio/notification"
+ },
+ {
+  "id": "ui/press_mechanical",
+  "kind": "click",
+  "file": "packs/ui/press_mechanical.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.163,
+  "peak_db": -3.0,
+  "tags": [
+   "mechanical",
+   "mid-tone",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3504,
+  "hi_share": 0.106,
+  "source": "uisfx mechanical/press"
+ },
+ {
+  "id": "ui/press_minimal",
+  "kind": "click",
+  "file": "packs/ui/press_minimal.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.099,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "minimal"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2190,
+  "hi_share": 1.0,
+  "source": "uisfx minimal/press"
+ },
+ {
+  "id": "ui/press_soft",
+  "kind": "click",
+  "file": "packs/ui/press_soft.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.204,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "soft"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2010,
+  "hi_share": 0.993,
+  "source": "uisfx soft/press"
+ },
+ {
+  "id": "ui/progress-step_scifi",
+  "kind": "tick",
+  "file": "packs/ui/progress-step_scifi.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.195,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "scifi",
+   "step"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1393,
+  "hi_share": 1.0,
+  "source": "uisfx scifi/progress-step"
+ },
+ {
+  "id": "ui/progress-step_zen",
+  "kind": "tick",
+  "file": "packs/ui/progress-step_zen.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.1,
+  "peak_db": -3.0,
+  "tags": [
+   "dark",
+   "step",
+   "zen"
+  ],
+  "anchor": "start",
+  "centroid_hz": 659,
+  "hi_share": 1.0,
+  "source": "uisfx zen/progress-step"
+ },
+ {
+  "id": "ui/reaction_glass",
+  "kind": "pop",
+  "file": "packs/ui/reaction_glass.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.558,
+  "peak_db": -3.0,
+  "tags": [
+   "glass",
+   "high"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2890,
+  "hi_share": 1.0,
+  "source": "uisfx glass/reaction"
+ },
+ {
+  "id": "ui/reaction_rubber",
+  "kind": "pop",
+  "file": "packs/ui/reaction_rubber.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.283,
+  "peak_db": -3.0,
+  "tags": [
+   "high",
+   "rubber"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2317,
+  "hi_share": 1.0,
+  "source": "uisfx rubber/reaction"
+ },
+ {
+  "id": "ui/reaction_soft",
+  "kind": "pop",
+  "file": "packs/ui/reaction_soft.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.462,
+  "peak_db": -3.0,
+  "tags": [
+   "high",
+   "soft"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2543,
+  "hi_share": 1.0,
+  "source": "uisfx soft/reaction"
+ },
+ {
+  "id": "ui/reward_dreamy",
+  "kind": "sparkle",
+  "file": "packs/ui/reward_dreamy.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.856,
+  "peak_db": -3.0,
+  "tags": [
+   "dreamy",
+   "mid-tone",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2351,
+  "hi_share": 1.0,
+  "source": "uisfx dreamy/reward"
+ },
+ {
+  "id": "ui/reward_glass",
+  "kind": "sparkle",
+  "file": "packs/ui/reward_glass.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.772,
+  "peak_db": -3.0,
+  "tags": [
+   "glass",
+   "mid-tone",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3204,
+  "hi_share": 1.0,
+  "source": "uisfx glass/reward"
+ },
+ {
+  "id": "ui/snap_minimal",
+  "kind": "click",
+  "file": "packs/ui/snap_minimal.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.094,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "minimal",
+   "snap"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3121,
+  "hi_share": 1.0,
+  "source": "uisfx minimal/snap"
+ },
+ {
+  "id": "ui/snap_organic",
+  "kind": "click",
+  "file": "packs/ui/snap_organic.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.227,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "organic",
+   "snap"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3856,
+  "hi_share": 1.0,
+  "source": "uisfx organic/snap"
+ },
+ {
+  "id": "ui/success_glass",
+  "kind": "success",
+  "file": "packs/ui/success_glass.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.9,
+  "peak_db": -3.0,
+  "tags": [
+   "glass",
+   "mid-tone",
+   "short"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1618,
+  "hi_share": 1.0,
+  "source": "uisfx glass/success"
+ },
+ {
+  "id": "ui/success_soft",
+  "kind": "success",
+  "file": "packs/ui/success_soft.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.817,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "short",
+   "soft"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1399,
+  "hi_share": 1.0,
+  "source": "uisfx soft/success"
+ },
+ {
+  "id": "ui/success_studio",
+  "kind": "success",
+  "file": "packs/ui/success_studio.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.476,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "short",
+   "studio"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1506,
+  "hi_share": 1.0,
+  "source": "uisfx studio/success"
+ },
+ {
+  "id": "ui/swipe_glass",
+  "kind": "swish",
+  "file": "packs/ui/swipe_glass.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.467,
+  "peak_db": -3.0,
+  "tags": [
+   "glass",
+   "mid-tone"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2239,
+  "hi_share": 1.0,
+  "source": "uisfx glass/swipe"
+ },
+ {
+  "id": "ui/swipe_minimal",
+  "kind": "swish",
+  "file": "packs/ui/swipe_minimal.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.217,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "minimal"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3365,
+  "hi_share": 1.0,
+  "source": "uisfx minimal/swipe"
+ },
+ {
+  "id": "ui/swipe_soft",
+  "kind": "swish",
+  "file": "packs/ui/swipe_soft.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.377,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "soft"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3176,
+  "hi_share": 1.0,
+  "source": "uisfx soft/swipe"
+ },
+ {
+  "id": "ui/toggle-off_minimal",
+  "kind": "toggle",
+  "file": "packs/ui/toggle-off_minimal.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.187,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "minimal",
+   "off"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1540,
+  "hi_share": 0.999,
+  "source": "uisfx minimal/toggle-off"
+ },
+ {
+  "id": "ui/toggle-off_soft",
+  "kind": "toggle",
+  "file": "packs/ui/toggle-off_soft.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.343,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "off",
+   "soft"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1902,
+  "hi_share": 1.0,
+  "source": "uisfx soft/toggle-off"
+ },
+ {
+  "id": "ui/toggle-on_minimal",
+  "kind": "toggle",
+  "file": "packs/ui/toggle-on_minimal.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.199,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "minimal",
+   "on"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1792,
+  "hi_share": 1.0,
+  "source": "uisfx minimal/toggle-on"
+ },
+ {
+  "id": "ui/toggle-on_soft",
+  "kind": "toggle",
+  "file": "packs/ui/toggle-on_soft.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.364,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "on",
+   "soft"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2260,
+  "hi_share": 1.0,
+  "source": "uisfx soft/toggle-on"
+ },
+ {
+  "id": "ui/typing_mechanical",
+  "kind": "type",
+  "file": "packs/ui/typing_mechanical.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.087,
+  "peak_db": -3.0,
+  "tags": [
+   "bright",
+   "mechanical",
+   "sub"
+  ],
+  "anchor": "start",
+  "centroid_hz": 6765,
+  "hi_share": 0.046,
+  "source": "uisfx mechanical/typing"
+ },
+ {
+  "id": "ui/typing_minimal",
+  "kind": "type",
+  "file": "packs/ui/typing_minimal.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.019,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "minimal"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1761,
+  "hi_share": 1.0,
+  "source": "uisfx minimal/typing"
+ },
+ {
+  "id": "ui/typing_organic",
+  "kind": "type",
+  "file": "packs/ui/typing_organic.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.058,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "organic"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1916,
+  "hi_share": 1.0,
+  "source": "uisfx organic/typing"
+ },
+ {
+  "id": "ui/typing_scifi",
+  "kind": "type",
+  "file": "packs/ui/typing_scifi.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.047,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "scifi"
+  ],
+  "anchor": "start",
+  "centroid_hz": 2430,
+  "hi_share": 0.997,
+  "source": "uisfx scifi/typing"
+ },
+ {
+  "id": "ui/typing_soft",
+  "kind": "type",
+  "file": "packs/ui/typing_soft.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.068,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "soft"
+  ],
+  "anchor": "start",
+  "centroid_hz": 1666,
+  "hi_share": 0.999,
+  "source": "uisfx soft/typing"
+ },
+ {
+  "id": "ui/typing_studio",
+  "kind": "type",
+  "file": "packs/ui/typing_studio.wav",
+  "pack": "ui",
+  "licence": "CC0",
+  "seconds": 0.049,
+  "peak_db": -3.0,
+  "tags": [
+   "mid-tone",
+   "studio"
+  ],
+  "anchor": "start",
+  "centroid_hz": 3400,
+  "hi_share": 0.996,
+  "source": "uisfx studio/typing"
+ }
+]

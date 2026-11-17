@@ -1,0 +1,874 @@
+{
+ "version": 1,
+ "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+ "families": [
+  {
+   "family": "Baloo Bhaijaan 2",
+   "folder": "Baloo Bhaijaan 2",
+   "files": [
+    {
+     "file": "BalooBhaijaan2[wght].ttf",
+     "weight": [
+      400,
+      800
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    400,
+    800
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "display",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Blaka",
+   "folder": "Blaka",
+   "files": [
+    {
+     "file": "Blaka-Regular.ttf",
+     "weight": [
+      400,
+      400
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": false,
+   "weightRange": [
+    400,
+    400
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "display",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "El Messiri",
+   "folder": "El Messiri",
+   "files": [
+    {
+     "file": "ElMessiri[wght].ttf",
+     "weight": [
+      400,
+      700
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    400,
+    700
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "display",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Jomhuria",
+   "folder": "Jomhuria",
+   "files": [
+    {
+     "file": "Jomhuria-Regular.ttf",
+     "weight": [
+      400,
+      400
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": false,
+   "weightRange": [
+    400,
+    400
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "display",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Lalezar",
+   "folder": "Lalezar",
+   "files": [
+    {
+     "file": "Lalezar-Regular.ttf",
+     "weight": [
+      400,
+      400
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": false,
+   "weightRange": [
+    400,
+    400
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "display",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Lemonada",
+   "folder": "Lemonada",
+   "files": [
+    {
+     "file": "Lemonada[wght].ttf",
+     "weight": [
+      300,
+      700
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    300,
+    700
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "display",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Marhey",
+   "folder": "Marhey",
+   "files": [
+    {
+     "file": "Marhey[wght].ttf",
+     "weight": [
+      300,
+      700
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    300,
+    700
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "display",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Qahiri",
+   "folder": "Qahiri",
+   "files": [
+    {
+     "file": "Qahiri-Regular.ttf",
+     "weight": [
+      400,
+      400
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": false,
+   "weightRange": [
+    400,
+    400
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "display",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Rakkas",
+   "folder": "Rakkas",
+   "files": [
+    {
+     "file": "Rakkas-Regular.ttf",
+     "weight": [
+      400,
+      400
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": false,
+   "weightRange": [
+    400,
+    400
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "display",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Playpen Sans Arabic",
+   "folder": "Playpen Sans Arabic",
+   "files": [
+    {
+     "file": "PlaypenSansArabic[wght].ttf",
+     "weight": [
+      100,
+      800
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    100,
+    800
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "hand",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Kufam",
+   "folder": "Kufam",
+   "files": [
+    {
+     "file": "Kufam-Italic[wght].ttf",
+     "weight": [
+      400,
+      900
+     ],
+     "style": "italic"
+    },
+    {
+     "file": "Kufam[wght].ttf",
+     "weight": [
+      400,
+      900
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    400,
+    900
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "kufi",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Noto Kufi Arabic",
+   "folder": "Noto Kufi Arabic",
+   "files": [
+    {
+     "file": "NotoKufiArabic[wght].ttf",
+     "weight": [
+      100,
+      900
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    100,
+    900
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "kufi",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Reem Kufi",
+   "folder": "Reem Kufi",
+   "files": [
+    {
+     "file": "ReemKufi[wght].ttf",
+     "weight": [
+      400,
+      700
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    400,
+    700
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "kufi",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "JetBrains Mono",
+   "folder": "JetBrains Mono",
+   "files": [
+    {
+     "file": "JetBrainsMono-Italic[wght].ttf",
+     "weight": [
+      100,
+      800
+     ],
+     "style": "italic"
+    },
+    {
+     "file": "JetBrainsMono[wght].ttf",
+     "weight": [
+      100,
+      800
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    100,
+    800
+   ],
+   "arabic": false,
+   "latin": true,
+   "category": "mono",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Amiri",
+   "folder": "Amiri",
+   "files": [
+    {
+     "file": "Amiri-Bold.ttf",
+     "weight": [
+      700,
+      700
+     ],
+     "style": "normal"
+    },
+    {
+     "file": "Amiri-BoldItalic.ttf",
+     "weight": [
+      700,
+      700
+     ],
+     "style": "italic"
+    },
+    {
+     "file": "Amiri-Italic.ttf",
+     "weight": [
+      400,
+      400
+     ],
+     "style": "italic"
+    },
+    {
+     "file": "Amiri-Regular.ttf",
+     "weight": [
+      400,
+      400
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": false,
+   "weightRange": [
+    400,
+    700
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "naskh",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Noto Naskh Arabic",
+   "folder": "Noto Naskh Arabic",
+   "files": [
+    {
+     "file": "NotoNaskhArabic[wght].ttf",
+     "weight": [
+      400,
+      700
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    400,
+    700
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "naskh",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Handjet",
+   "folder": "Handjet",
+   "files": [
+    {
+     "file": "Handjet[ELGR,ELSH,wght].ttf",
+     "weight": [
+      100,
+      900
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    100,
+    900
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "pixel",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Aref Ruqaa",
+   "folder": "Aref Ruqaa",
+   "files": [
+    {
+     "file": "ArefRuqaa-Bold.ttf",
+     "weight": [
+      700,
+      700
+     ],
+     "style": "normal"
+    },
+    {
+     "file": "ArefRuqaa-Regular.ttf",
+     "weight": [
+      400,
+      400
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": false,
+   "weightRange": [
+    400,
+    700
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "ruqaa",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Alexandria",
+   "folder": "Alexandria",
+   "files": [
+    {
+     "file": "Alexandria[wght].ttf",
+     "weight": [
+      100,
+      900
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    100,
+    900
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "sans",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Almarai",
+   "folder": "Almarai",
+   "files": [
+    {
+     "file": "Almarai-Bold.ttf",
+     "weight": [
+      700,
+      700
+     ],
+     "style": "normal"
+    },
+    {
+     "file": "Almarai-ExtraBold.ttf",
+     "weight": [
+      800,
+      800
+     ],
+     "style": "normal"
+    },
+    {
+     "file": "Almarai-Light.ttf",
+     "weight": [
+      300,
+      300
+     ],
+     "style": "normal"
+    },
+    {
+     "file": "Almarai-Regular.ttf",
+     "weight": [
+      400,
+      400
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": false,
+   "weightRange": [
+    300,
+    800
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "sans",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Beiruti",
+   "folder": "Beiruti",
+   "files": [
+    {
+     "file": "Beiruti[wght].ttf",
+     "weight": [
+      200,
+      900
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    200,
+    900
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "sans",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Cairo",
+   "folder": "Cairo",
+   "files": [
+    {
+     "file": "Cairo[slnt,wght].ttf",
+     "weight": [
+      200,
+      1000
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    200,
+    1000
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "sans",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Changa",
+   "folder": "Changa",
+   "files": [
+    {
+     "file": "Changa[wght].ttf",
+     "weight": [
+      200,
+      800
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    200,
+    800
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "sans",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "IBM Plex Sans Arabic",
+   "folder": "IBM Plex Sans Arabic",
+   "files": [
+    {
+     "file": "IBMPlexSansArabic-Bold.ttf",
+     "weight": [
+      700,
+      700
+     ],
+     "style": "normal"
+    },
+    {
+     "file": "IBMPlexSansArabic-ExtraLight.ttf",
+     "weight": [
+      200,
+      200
+     ],
+     "style": "normal"
+    },
+    {
+     "file": "IBMPlexSansArabic-Light.ttf",
+     "weight": [
+      300,
+      300
+     ],
+     "style": "normal"
+    },
+    {
+     "file": "IBMPlexSansArabic-Medium.ttf",
+     "weight": [
+      500,
+      500
+     ],
+     "style": "normal"
+    },
+    {
+     "file": "IBMPlexSansArabic-Regular.ttf",
+     "weight": [
+      400,
+      400
+     ],
+     "style": "normal"
+    },
+    {
+     "file": "IBMPlexSansArabic-SemiBold.ttf",
+     "weight": [
+      600,
+      600
+     ],
+     "style": "normal"
+    },
+    {
+     "file": "IBMPlexSansArabic-Thin.ttf",
+     "weight": [
+      100,
+      100
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": false,
+   "weightRange": [
+    100,
+    700
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "sans",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Noto Sans Arabic",
+   "folder": "Noto Sans Arabic",
+   "files": [
+    {
+     "file": "NotoSansArabic[wdth,wght].ttf",
+     "weight": [
+      100,
+      900
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    100,
+    900
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "sans",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Readex Pro",
+   "folder": "Readex Pro",
+   "files": [
+    {
+     "file": "ReadexPro[HEXP,wght].ttf",
+     "weight": [
+      160,
+      700
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    160,
+    700
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "sans",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Tajawal",
+   "folder": "Tajawal",
+   "files": [
+    {
+     "file": "Tajawal-Black.ttf",
+     "weight": [
+      900,
+      900
+     ],
+     "style": "normal"
+    },
+    {
+     "file": "Tajawal-Bold.ttf",
+     "weight": [
+      700,
+      700
+     ],
+     "style": "normal"
+    },
+    {
+     "file": "Tajawal-ExtraBold.ttf",
+     "weight": [
+      800,
+      800
+     ],
+     "style": "normal"
+    },
+    {
+     "file": "Tajawal-ExtraLight.ttf",
+     "weight": [
+      275,
+      275
+     ],
+     "style": "normal"
+    },
+    {
+     "file": "Tajawal-Light.ttf",
+     "weight": [
+      300,
+      300
+     ],
+     "style": "normal"
+    },
+    {
+     "file": "Tajawal-Medium.ttf",
+     "weight": [
+      500,
+      500
+     ],
+     "style": "normal"
+    },
+    {
+     "file": "Tajawal-Regular.ttf",
+     "weight": [
+      400,
+      400
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": false,
+   "weightRange": [
+    275,
+    900
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "sans",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  },
+  {
+   "family": "Vazirmatn",
+   "folder": "Vazirmatn",
+   "files": [
+    {
+     "file": "Vazirmatn[wght].ttf",
+     "weight": [
+      100,
+      900
+     ],
+     "style": "normal"
+    }
+   ],
+   "variable": true,
+   "weightRange": [
+    100,
+    900
+   ],
+   "arabic": true,
+   "latin": true,
+   "category": "sans",
+   "sample": "أَبجد هوَّز حُطّي · 123 · Tiraz",
+   "license": "OFL-1.1",
+   "hasOFL": true
+  }
+ ]
+}

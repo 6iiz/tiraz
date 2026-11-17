@@ -1,0 +1,9 @@
+{
+  "name": "Tiraz tools",
+  "colors": { "bg": "#101114", "text": "#EDEDED", "accent": "#C6F432" },
+  "fonts": {
+    "display": { "family": "Noto Sans Arabic", "file": "/assets/fonts/Noto Sans Arabic/NotoSansArabic[wdth,wght].ttf", "weight": "100 900" },
+    "mono": { "family": "JetBrains Mono", "file": "/assets/fonts/JetBrains Mono/JetBrainsMono[wght].ttf", "weight": "100 800" }
+  },
+  "logo": { "path": "M32 32H224V224H32ZM64 64V192H192V64Z", "box": 256, "rule": "evenodd" }
+}
