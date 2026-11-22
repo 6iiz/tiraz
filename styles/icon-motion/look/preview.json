@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.6, "at": -0.8, "cut": true, "says": { "lead": "كل صباح بنفس الإيقاع", "text": "قهوتك *على الموعد* دايمًا" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 12, "label": "دقيقة من الطلب للفنجان" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.2, "says": { "title": "وكل شي إله رمز", "items": ["الحبة", "الطحنة", "*الفنجان*", "الطاولة"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 2.8, "says": { "label": "صار الطابور", "was": "طويل", "now": "سريع" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.5 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.0, 1.2, 3.6, 6.2, 8.9, 10.6, 13.6]
+}

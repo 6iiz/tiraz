@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.6, "at": -0.8, "cut": true, "says": { "lead": "كل ليلة على المسرح الصغير", "text": "الحكاية بتبلّش من *ضو واحد* خلف الستارة" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 7, "label": "دمى بتتحرك بعصي رفيعة" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.2, "says": { "title": "وعلى الستارة بيطلع", "items": ["القصر", "الفارس", "*التنين الأحمر*", "القمر"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 2.8, "says": { "label": "من وراها كانت", "was": "عتمة", "now": "حكاية" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.42 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.0, 1.3, 3.9, 7.3, 9.8, 13.6]
+}

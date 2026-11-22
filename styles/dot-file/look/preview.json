@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.8, "at": -0.8, "says": { "lead": "ملف رقم واحد", "text": "القهوة هون *ما بتبرد*" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 3.0, "says": { "value": 340, "label": "فنجان بيطلع كل يوم" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.4, "says": { "title": "الأدلة", "items": ["حبوب محمّصة اليوم", "ماء *مفلتر*", "إيد بتعرف شغلها"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.0, "says": { "label": "الحكم", "was": "قهوة عادية", "now": "قهوة الزاوية" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.4 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.3, 1.9, 4.4, 7.2, 10.0, 13.2]
+}

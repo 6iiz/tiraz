@@ -49,7 +49,7 @@ Some rules in `guides/` were adapted from MIT and Apache-2.0 licensed guides by 
 
 ## What the kit does not include
 
-No look, scene, ending, background or site template: those are written for each brand, in that brand's own folder, and belong to that brand. No 3D scenes (three.js is the library alone) and no Blender files. No music.
+No brand's look, and no site template. The styles in `styles/` carry no colour, typeface, logo or words of their own: each is drawn entirely from the customer's brand and copied into that brand's folder when chosen. The five 3D styles are drawn in the browser with three.js (`engine/three3d.js`); there are no Blender files. No music.
 
 ## The author's mark
 

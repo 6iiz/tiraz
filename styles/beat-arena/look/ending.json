@@ -1,0 +1,1 @@
+{ "duration": 3.6, "sfx": [ { "kind": "impact", "t": 0.15, "gain": -8 }, { "kind": "pop", "t": 0.5, "gain": -11, "tag": "mid" }, { "kind": "click", "t": 0.85, "gain": -12 }, { "kind": "pop", "t": 1.2, "gain": -11, "tag": "high" }, { "kind": "success", "t": 1.3, "gain": -13 } ] }

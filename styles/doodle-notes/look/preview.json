@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.8, "at": -0.8, "cut": true, "says": { "lead": "ليش شركتك", "text": "بتشبه *مية* شركة غيرها؟" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.9, "says": { "value": 1, "label": "صفحة بتجمع *كل* الفكرة" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.2, "says": { "title": "ملاحظات الجلسة", "items": ["السؤال", "الفكرة", "*الخطة*", "الموعد"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.1, "says": { "label": "من بعد الجلسة", "was": "فوضى", "now": "خطة" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.45 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.1, 1.9, 4.3, 7.0, 8.9, 10.1, 11.3, 13.4]
+}

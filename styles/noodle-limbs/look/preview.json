@@ -1,0 +1,13 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.8, "at": -0.8, "cut": true, "says": { "lead": "ليش شركتك", "text": "بتشبه *مية* شركة غيرها؟" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 12, "label": "رسمة بالثانية، وكلها *بالحبر*" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.2, "says": { "title": "وعلى المسرح بيرقص كل شي", "items": ["الكرسي", "*لون واحد* بيحكي عنك", "الإبريق", "الباب"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.0, "says": { "label": "بلّشت من", "was": "قالِب", "now": "نظام" } } },
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 3.0, "says": { "lead": "وهاد اللي بتعطيك ياه أدوات طِراز", "text": "*مجّانية*، ومفتوحة المصدر" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.4 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.0, 1.5, 4.2, 6.4, 8.35, 8.5, 9.2, 11.6, 13.4, 15.5]
+}

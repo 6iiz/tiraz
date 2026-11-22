@@ -55,7 +55,7 @@ The guides give the craft. These rules are not negotiable:
 
 ## 3. Plan the beats, then the scenes
 
-Write the beats first (`structure.md`): for each, what the viewer sees, the one thing that happens, how long it lasts, and its sound. Then give each beat a scene:
+A ready shape may help: `<kit>/arrangements/` holds five (system, before-after, steps, proof, question; its `README.md` says how one becomes a spec). Offer the customer the one that fits their idea, or build the beats yourself. Write the beats first (`structure.md`): for each, what the viewer sees, the one thing that happens, how long it lasts, and its sound. Then give each beat a scene:
 
 | The beat needs | Use |
 |---|---|

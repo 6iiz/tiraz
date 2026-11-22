@@ -1,0 +1,126 @@
+{
+ "line": [
+  {
+   "kind": "whoosh",
+   "t": 0.0,
+   "gain": -14,
+   "tag": "short"
+  },
+  {
+   "kind": "thump",
+   "t": 0.1,
+   "gain": -9
+  },
+  {
+   "kind": "swish",
+   "t": 0.28,
+   "gain": -14
+  }
+ ],
+ "compare": [
+  {
+   "kind": "click",
+   "t": 0.1,
+   "gain": -14
+  },
+  {
+   "kind": "thump",
+   "t": 0.27,
+   "gain": -11
+  },
+  {
+   "kind": "scratch",
+   "t": 0.65,
+   "gain": -12
+  },
+  {
+   "kind": "whoosh",
+   "t": 0.98,
+   "gain": -15,
+   "tag": "short"
+  },
+  {
+   "kind": "impact",
+   "t": 1.1,
+   "gain": -8
+  }
+ ],
+ "list": [
+  {
+   "kind": "thump",
+   "t": 0.1,
+   "gain": -10
+  },
+  {
+   "kind": "swish",
+   "t": 0.3,
+   "gain": -13,
+   "item": 0,
+   "variant": 0
+  },
+  {
+   "kind": "swish",
+   "t": 0.62,
+   "gain": -13,
+   "item": 1,
+   "variant": 1
+  },
+  {
+   "kind": "swish",
+   "t": 0.94,
+   "gain": -13,
+   "item": 2,
+   "variant": 2
+  },
+  {
+   "kind": "swish",
+   "t": 1.26,
+   "gain": -13,
+   "item": 3,
+   "variant": 0
+  },
+  {
+   "kind": "swish",
+   "t": 1.58,
+   "gain": -13,
+   "item": 4,
+   "variant": 1
+  }
+ ],
+ "count": [
+  {
+   "kind": "whoosh",
+   "t": 0.0,
+   "gain": -14,
+   "tag": "short"
+  },
+  {
+   "kind": "thump",
+   "t": 0.1,
+   "gain": -10
+  },
+  {
+   "kind": "tick",
+   "t": 0.6,
+   "gain": -16
+  },
+  {
+   "kind": "tick",
+   "t": 1.0,
+   "gain": -16
+  },
+  {
+   "kind": "impact",
+   "t": 1.4,
+   "gain": -9
+  }
+ ],
+ "joint": [
+  {
+   "kind": "whoosh",
+   "t": 0.05,
+   "gain": -14,
+   "tag": "short"
+  }
+ ]
+}

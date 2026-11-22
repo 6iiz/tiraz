@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.8, "at": -0.8, "says": { "lead": "خطة الموسم", "text": "كل فرع بيفتح *بموعده*" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 3.0, "says": { "value": 12, "label": "فرع جديد قبل الصيف" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.6, "says": { "title": "المراحل", "items": ["نختار الموقع", "نجهّز *المحمصة*", "نفتح الباب"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.4, "says": { "label": "القرار", "was": "كشك صغير", "now": "مقهى كامل" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.4 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.3, 1.9, 4.5, 7.6, 10.6, 14.0]
+}

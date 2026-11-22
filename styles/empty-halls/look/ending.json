@@ -1,0 +1,1 @@
+{ "duration": 3.6, "sfx": [ { "kind": "riser", "t": 0.0, "gain": -22, "tag": "1s" }, { "kind": "shimmer", "t": 1.2, "gain": -16 }, { "kind": "click", "t": 1.85, "gain": -14 }, { "kind": "click", "t": 2.3, "gain": -15 } ] }

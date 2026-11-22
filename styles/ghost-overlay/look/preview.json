@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.8, "at": -0.8, "cut": true, "says": { "lead": "كل فنجان عندنا", "text": "فيه *ريحة بلاد* كاملة" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 3.0, "says": { "value": 40, "label": "سنة ونحنا نحمّص *على مهل*" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.4, "says": { "title": "ومن هناك بيجي كل شي", "items": ["الحبّة", "النار", "*الصبر*", "الفنجان"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.0, "says": { "label": "صار المكان", "was": "دكّان", "now": "بيت القهوة" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.45 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.0, 1.6, 3.6, 6.4, 9.6, 10.6, 13.2]
+}

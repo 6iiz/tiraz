@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.6, "at": -0.8, "cut": true, "says": { "lead": "كل صبح بيطلع من عنا", "text": "فنجان *على مهلك* لكل الحارة" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 18, "label": "طلب *بيوصل* قبل الساعة تسعة" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.2, "says": { "title": "بالطريق لعنا", "items": ["الفرن", "المكتبة", "*الساحة الكبيرة*", "الزاوية"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 2.8, "says": { "label": "صار المشوار", "was": "عشر دقايق", "now": "خطوتين" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.45 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.05, 4.0, 6.5, 9.3, 11.2, 13.5]
+}

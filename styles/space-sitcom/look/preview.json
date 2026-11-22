@@ -1,0 +1,13 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.8, "at": -0.8, "cut": true, "says": { "lead": "ليش شركتك", "text": "بتشبه *مية* شركة غيرها؟" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.9, "says": { "value": 42, "label": "بوابة فتحناها، وكلها *لشغلة* صغيرة" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.3, "says": { "title": "شو طلع من البوابة", "items": ["مكنسة", "*لون واحد* بيحكي عنك", "سندويشة", "قطة"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.2, "says": { "label": "لأنها بلّشت من", "was": "قالِب", "now": "نظام" } } },
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 3.0, "says": { "lead": "وهاد اللي بتعطيك ياه أدوات طِراز", "text": "*مجّانية*، ومفتوحة المصدر" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.5 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.0, 1.6, 4.0, 6.6, 8.6, 9.3, 10.3, 12.0, 14.0, 16.5]
+}

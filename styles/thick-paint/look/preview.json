@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.8, "at": -0.8, "cut": true, "says": { "lead": "ليش شركتك", "text": "بتشبه *مية* شركة غيرها؟" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 3.0, "says": { "value": 12, "label": "طبقة دهان قبل ما تجهز اللوحة" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.4, "says": { "title": "كل ضربة إلها مكان", "items": ["الأرضية", "الضوء", "*اللون*", "التفاصيل"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.2, "says": { "label": "بلّشت من", "was": "قالِب", "now": "لوحة" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.5 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.05, 1.4, 3.2, 4.1, 6.2, 7.9, 8.9, 10.6, 12.2, 14.5]
+}

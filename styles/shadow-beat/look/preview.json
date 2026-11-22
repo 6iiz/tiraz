@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.6, "at": -0.8, "cut": true, "says": { "lead": "على آخر ضو بالنهار، ومع أول نسمة بحر", "text": "قهوتك *على المغيب* أطيب" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 40, "label": "طاولة على البحر، وكلها بتطلّ عالشمس" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.2, "says": { "title": "على الغروب", "items": ["قهوة باردة", "*كيكة التمر* بالحليب", "عصير ليمون", "شاي بالنعنع"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 2.9, "says": { "label": "المسا صار", "was": "زحمة", "now": "هدوء" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.4 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.0, 0.9, 3.9, 6.9, 9.2, 13.2]
+}

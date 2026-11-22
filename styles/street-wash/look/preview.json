@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.8, "at": -0.8, "cut": true, "says": { "lead": "مرسوم ع الرصيف", "text": "خط، وبعدين *لون* فوقه" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 3.0, "says": { "value": 12, "label": "دقيقة، والصفحة جاهزة" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.4, "says": { "title": "وعليها بيركب كل شي", "items": ["اللوغو", "الخط", "*الشارع*", "الريل"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.0, "says": { "label": "بلّشت من", "was": "صورة", "now": "حكاية" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.5 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.05, 1.6, 4.2, 7.3, 10.3, 14.2]
+}

@@ -1,0 +1,7 @@
+{
+  "line": [ { "kind": "pop", "t": 0.19, "gain": -13, "tag": "mid" }, { "kind": "pop", "t": 0.45, "gain": -13, "tag": "high" }, { "kind": "shimmer", "t": 0.7, "gain": -17 } ],
+  "count": [ { "kind": "pop", "t": 0.18, "gain": -15, "tag": "low" }, { "kind": "pop", "t": 0.58, "gain": -15, "tag": "mid" }, { "kind": "pop", "t": 0.98, "gain": -15, "tag": "mid" }, { "kind": "thump", "t": 1.38, "gain": -9 }, { "kind": "shimmer", "t": 1.42, "gain": -16 } ],
+  "list": [ { "kind": "pop", "t": 0.39, "gain": -14, "tag": "low", "item": 0 }, { "kind": "pop", "t": 0.84, "gain": -14, "tag": "mid", "item": 1 }, { "kind": "pop", "t": 1.29, "gain": -14, "tag": "mid", "item": 2 }, { "kind": "pop", "t": 1.74, "gain": -14, "tag": "high", "item": 3 }, { "kind": "pop", "t": 2.19, "gain": -14, "tag": "high", "item": 4 } ],
+  "compare": [ { "kind": "tick", "t": 0.19, "gain": -17 }, { "kind": "pop", "t": 0.34, "gain": -14, "tag": "low" }, { "kind": "scratch", "t": 0.85, "gain": -13 }, { "kind": "pop", "t": 1.54, "gain": -10, "tag": "high" }, { "kind": "shimmer", "t": 1.6, "gain": -16 } ],
+  "joint": [ { "kind": "swish", "t": 0.05, "gain": -16 } ]
+}

@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.6, "at": -0.8, "cut": true, "says": { "lead": "كل مغامرة بتبلّش", "text": "بخطوة *صغيرة* على الطريق" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 120, "label": "زبون رجع هالشهر" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.2, "says": { "title": "شو بتلاقي عنا", "items": ["قهوة مختصة", "حلو البيت", "*جلسة هادية*", "كتب"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 2.8, "says": { "label": "بلّشنا من", "was": "كشك", "now": "مقهى" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.4 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.3, 1.9, 4.4, 6.9, 9.2, 11.0, 13.9]
+}

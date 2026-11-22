@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.6, "at": -0.8, "cut": true, "says": { "lead": "قبل ما تختار فنجانك جرّب تعرف شو جوّاه", "text": "كل حبّة *إلها قصة* وطريق" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 5, "label": "طبقات بكل كوب، وكل وحدة إلها *دور*" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.4, "says": { "title": "وهيك بتتركّب", "items": ["الحبّة", "الطحنة", "*مي سخنة* على مهل", "الفنجان"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 2.8, "says": { "label": "غيّرنا قطعة وحدة", "was": "فلتر ورق", "now": "فلتر نحاس" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.4 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.0, 1.7, 4.0, 6.9, 9.2, 13.4]
+}

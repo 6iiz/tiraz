@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.8, "at": -0.8, "says": { "lead": "في زاوية الحي", "text": "قهوة *تحكي* بلا كلام" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 3.0, "says": { "value": 40, "label": "سنة والفنجان نفسه" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.4, "says": { "title": "على الطاولة", "items": ["قهوة مُرّة", "كعك *دافئ*", "وجريدة الصباح"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.0, "says": { "label": "كان الطريق", "was": "طويل", "now": "خطوتين" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.5 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.1, 1.2, 3.6, 4.6, 7.4, 8.8, 10.4, 13.6]
+}

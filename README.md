@@ -4,19 +4,19 @@
 
 مخرج فني يعمل داخل Claude Code: يصمّم لهويتك شكلاً خاصاً بها من الصفر، ثم يصنع به مقاطع الريلز وموقعك، على جهازك أنت.
 
-**لا قوالب جاهزة.** لا خلفية ولا خاتمة ولا مشهد ولا موقع مُعدّ مسبقاً ليوضع عليه شعارك. ما يحتويه طِراز هو الطريقة: كيف تُفهم الهوية، وكيف يولد لها شكل، وكيف تُكتب الجملة الافتتاحية، وكيف يتحرّك النص العربي، وكيف يُفحص كل شيء قبل أن تراه.
+**طريقتان للشكل.** إمّا شكل يُصمَّم لك من الصفر، وإمّا أسلوب تختاره من 114 أسلوبًا جاهزة. والأسلوب الجاهز ليس قالباً يوضع عليه شعارك: يُرسم كله بألوانك وخطّك وشعارك، ولا يحمل لوناً ولا اسماً من عنده، وتُنسخ منه نسخة إلى مجلدك تصير لك وحدك. وما يحتويه طِراز فوق ذلك هو الطريقة: كيف تُفهم الهوية، وكيف يولد لها شكل، وكيف تُكتب الجملة الافتتاحية، وكيف يتحرّك النص العربي، وكيف يُفحص كل شيء قبل أن تراه.
 
 الطِّراز في العربية هو الأسلوب والنمط. وكان قديماً شريطَ الكتابة المنسوج في القماش، يذكر أين صُنع ولمن.
 
 **أنشأه طلال** · [xtalal.com](https://xtalal.com)
 
-A director for Claude Code: it designs a look for your brand from scratch and makes your reels and your site in it, on your own machine. It ships no templates. [English summary](#english) at the end.
+A director for Claude Code: it designs a look for your brand from scratch, or draws one of 114 ready styles (five of them in 3D) entirely in your colours, font and logo, and makes your reels and your site in it, on your own machine. [English summary](#english) at the end.
 
 [نماذج](#نماذج) · [التثبيت](#التثبيت) · [بالتفصيل](#بالتفصيل) · [ماذا يحتوي](#ماذا-يحتوي) · [حدود هذه النسخة](#حدود-هذه-النسخة-10)
 
 ## لماذا طِراز
 
-- **شكل يُصمَّم لك، لا قالب يُعبَّأ.** ترى ثلاثة اتجاهات في صور حقيقية قبل أن يُبنى شيء، وما تختاره يُكتب شيفرةً في مجلدك ويبقى لك.
+- **شكل يُصمَّم لك، لا قالب يُعبَّأ.** ترى ثلاثة اتجاهات في صور حقيقية قبل أن يُبنى شيء، أو ثلاثة أساليب من المكتبة مرسومة على هويتك أنت، وما تختاره يُكتب شيفرةً في مجلدك ويبقى لك.
 - **العربية أولاً.** حروف لا تتفكّك، وكلمة لا تنكسر على سطرين، ورقم يقف حيث كتبته، واتجاه من اليمين في كل شيء.
 - **لا رقم بلا مصدر.** كل سعر وعدد ومدة يُقارَن بجدول حقائقك، وما ليس فيه يُرفض قبل أن يخرج العمل.
 - **يُفحص قبل أن تراه.** الريل يُقاس ملفاً وصوتاً ونصاً. والصفحة تُفتح في المتصفح وتُمرَّر كما يمرّرها زائرها، ثم يقرؤها قارئ لا يعرف ما قُصد بها.
@@ -29,7 +29,7 @@ A director for Claude Code: it designs a look for your brand from scratch and ma
 | | الخطوة | ما ينتج عنها |
 |---|---|---|
 | 1 | **التهيئة** | مقابلة قصيرة، يليها مجلد هويتك: الألوان والخط والشعار واللهجة والجمهور وجدول الحقائق المسموح ذكرها |
-| 2 | **الشكل** | يدرس Claude شعارك ومنتجك وذوقك، ثم يعرض عليك **ثلاثة اتجاهات في صور حقيقية** تحمل الكلام نفسه. تختار واحداً، فيُبنى شيفرةً في مجلدك: خلفيتك وحركتك وخاتمتك |
+| 2 | **الشكل** | يدرس Claude شعارك ومنتجك وذوقك، ثم يعرض عليك **ثلاثة اتجاهات في صور حقيقية** تحمل الكلام نفسه. تختار واحداً، فيُبنى شيفرةً في مجلدك: خلفيتك وحركتك وخاتمتك. أو، أسرع، تختار أسلوباً من مكتبة الأساليب العشرة مرسوماً بألوانك |
 | 3 | **الريل** | جملة افتتاحية، وسطور، ومشاهد بشكلك أنت، وصوت، وفحص. ما ينقص من المشاهد يُكتب لك ويبقى عندك للريل التالي |
 | 4 | **الموقع** | صفحة عربية بالشكل نفسه، ملفاتٍ عادية تستضيفها حيث تشاء |
 
@@ -106,13 +106,14 @@ claude --plugin-dir .
 - الرقم الذي يعدّ يُرسم في خانات متساوية فلا يهتزّ، ويقف على الرقم المكتوب بالضبط، بفواصله وبنظام أرقامه.
 - في الصفحات: اتجاه الصفحة ولغتها معلنان، ورقم الهاتف والكلمات اللاتينية جزر من اليسار إلى اليمين داخل السطر العربي، ونظام أرقام واحد في الصفحة كلها، والعملة بعد المبلغ.
 
-### الشكل يُصمَّم ولا يُختار
+### الشكل يُصمَّم، أو يُختار ويُرسم لك
 
 - يبدأ من موادّك أنت: الشعار، والمنتج، وأجوبتك في المقابلة، وما تحبّه وما تنفر منه من أعمال غيرك مع السبب.
 - الاتجاهات الثلاثة تختلف في **الفكرة** لا في اللون، وتُعرض إطاراتٍ حقيقية تحمل الكلام نفسه لتقارن بينها بعينك.
 - اختباران قبل أن يُعرض عليك شيء: لو غُطّي الشعار، أما زال العمل لك؟ ولو وُضع مكانه شعار منافسك، أما زال يصلح؟ (يجب ألّا يصلح.)
 - ما تختاره يُبنى شيفرةً في `tiraz/brand/look/`: الأرضية، وطريقة الحركة، والخاتمة، وأرقام الشكل (المقاسات والمدد ومنحنيات الحركة)، ووصفه بالكلمات مع ما يُفعل دائماً وما لا يُفعل أبداً.
 - كل ملاحظة تقولها تُكتب بتاريخها وبكلماتك في `rules.md`، وتغلب أي قاعدة في طِراز.
+- **أو من المكتبة، وهو أسرع:** في `styles/` 114 أسلوبًا، منها خمسة ثلاثية الأبعاد (حروف معدن، زجاج وضو، صلصال، مدينة الحروف، الشبكة المجسّمة)، ومن الطباعة والورق (سويسري، ريزو، حفر على الخشب، أوكيو-إي) إلى الشاشات (طرفية قديمة، هولوغرام، رادار) والرسم اليدوي (طباشير، ألوان مائية، فلوماستر) والكرتون والبكسل والمجسّمات (`styles/index.json` يعدّها بسطر لكل واحد). يرسم Claude الثلاثة الأنسب لك على هويتك أنت قبل أن تراها، وما تختاره يُنسخ إلى مجلدك ويصير لك، تعدّله كما تشاء. وكل أسلوب يعمل مع أي ترتيب من الترتيبات الخمسة في `arrangements/` (نظام واستثناء، قبل وبعد، خطوات، رقم يثبت، سؤال وجواب).
 
 ### الريل
 
@@ -258,6 +259,7 @@ node web/test_kit.mjs            آليات الصفحات: المشهد وصو�
 | | |
 |---|---|
 | **التوجيه** | ثلاث مهارات يقرؤها Claude: التهيئة، والريل، والموقع |
+| **الأساليب** | 114 أسلوبًا جاهزًا، خمسة منها ثلاثية الأبعاد، تُرسم كلها بألوانك وخطّك وشعارك، وخمسة ترتيبات للقصة تعمل مع أي أسلوب |
 | **الخبرة** | عشرة أدلّة: تصميم الشكل، وبناء المشاهد، والجملة الافتتاحية، والبنية، والنص العربي، والترجمة المصاحبة للصوت، والصوت، والحركة، والمراجعة، والموقع. كل قاعدة مذكور بجانبها مصدرها |
 | **الآليات** | تصيير دقيق بالإطار، ونص عربي لا ينكسر ولا تتفكّك حروفه (HarfBuzz)، وأرقام تعدّ وتقف على الرقم بالضبط، و279 انتقالاً، وترجمة موقّتة على الكلمة، ومزج صوت عند <span dir="ltr">-14 LUFS</span> |
 | **الصوت** | يطلب الريل نوع الصوت، مثل <span dir="ltr">pop</span> و<span dir="ltr">whoosh</span>، لا اسم ملف. أصواتك أنت تُستعمل أولاً، وإن لم تكن لديك أصوات ففي طِراز 241 صوتاً مجانياً (CC0) |
@@ -278,6 +280,8 @@ assets/      الخطوط والأيقونات
 tools/       الفحوصات، وبناء الريل بأمر واحد
 web/         فاحص المواقع، وآليات الصفحات (المشهد والتمرير)
 vendor/      مكتبات من آخرين: HarfBuzz و Flubber والانتقالات و three.js
+styles/      114 أسلوبًا جاهزًا (خمسة ثلاثية الأبعاد)، ومعاينتها (try.py) ونسخها لمجلدك (install.py)
+arrangements/ خمسة ترتيبات للقصة
 licenses/    نصوص التراخيص
 ```
 
@@ -322,13 +326,13 @@ licenses/    نصوص التراخيص
 
 ## English
 
-Tiraz (طِراز, "style": historically the band of woven writing on a textile that named where it was made and for whom) is a Claude Code plugin that acts as a director. It has no look of its own: no background, no ending, no scene and no site template to drop a logo into. For each brand, Claude studies the logo, the product and the owner's taste, shows three directions as real rendered frames, and builds the chosen one as code in the brand's own folder. Every reel and the site are then made in that look.
+Tiraz (طِراز, "style": historically the band of woven writing on a textile that named where it was made and for whom) is a Claude Code plugin that acts as a director. It has no look of its own to drop a logo into. For each brand, Claude either studies the logo, the product and the owner's taste, shows three directions as real rendered frames, and builds the chosen one as code in the brand's own folder; or, faster, renders the three best-fitting of ten ready styles on the brand itself and installs the chosen one as the brand's own copy. A style carries no colour, face or name of its own: it is drawn entirely from the brand. Every reel and the site are then made in that look.
 
 Made by Talal: [xtalal.com](https://xtalal.com) · [Instagram @1nby](https://www.instagram.com/1nby/) · [TikTok @1nby](https://www.tiktok.com/@1nby).
 
 ### Why
 
-- **A look designed for you, not a template filled in.** Three directions as real frames before anything is built; the one you choose is written as code in your project and stays yours.
+- **A look designed for you, not a template filled in.** Three directions, or three library styles drawn on your own brand, as real frames before anything is built; the one you choose is written as code in your project and stays yours.
 - **Arabic first.** Letters that stay joined, words that never break across lines, numbers that stay where you wrote them, right to left throughout.
 - **No number without a source.** Every price, count and duration is held against your table of facts, and what is not in it is refused before the work leaves.
 - **Checked before you see it.** A reel is measured as a file, as sound and as text. A page is opened in a browser and scrolled the way its visitor scrolls it, then read by a reader who was never told what it was meant to say.

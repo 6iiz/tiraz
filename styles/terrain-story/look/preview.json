@@ -1,0 +1,13 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.6, "at": -0.8, "cut": true, "says": { "lead": "ليش شركتك", "text": "بتشبه *مية* شركة غيرها؟" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 3.0, "says": { "value": 6, "label": "أعمدة، ولون واحد بيحكي عنك" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.4, "says": { "title": "وعليها بيركب كل شي", "items": ["اللوغو", "الخط", "*لون واحد* بيحكي عنك", "الريل"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.4, "says": { "label": "بلّشت من", "was": "قالِب", "now": "نظام" } } },
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.8, "says": { "lead": "وهاد اللي بتعطيك ياه أدوات المصمم المستقل كلها", "text": "*مجّانية كاملة*، ومفتوحة المصدر" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.45 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.0, 3.6, 6.9, 8.8, 9.4, 10.6, 12.2, 13.6, 16.8]
+}

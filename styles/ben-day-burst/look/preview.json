@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.8, "at": -0.8, "cut": true, "says": { "lead": "وهاد اللي بتعطيك ياه أدوات القهوة", "text": "*قهوة طازة* كل صباح" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 40, "label": "فنجان بالساعة، والآلة ما بتوقف" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.4, "says": { "title": "كل قطعة بمكانها", "items": ["الحبوب", "الطحنة", "*لون واحد* بيحكي عنك", "الفنجان"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.0, "says": { "label": "بلّشنا من", "was": "فوضى", "now": "آلة" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.4 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.05, 1.5, 3.6, 5.6, 7.0, 10.0, 13.6]
+}

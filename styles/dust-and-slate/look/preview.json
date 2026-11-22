@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.8, "at": -0.8, "cut": true, "says": { "lead": "ليش شركتك", "text": "بتشبه *مية* شركة غيرها؟" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 3, "label": "أسطر على السبورة بتكفي لتفهم الفكرة" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.2, "says": { "title": "درس اليوم", "items": ["الفكرة", "المثال", "*الخلاصة*", "السؤال"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.0, "says": { "label": "كنا نقول", "was": "صعبة", "now": "واضحة" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.45 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.1, 1.9, 4.4, 6.9, 8.6, 9.8, 13.2]
+}

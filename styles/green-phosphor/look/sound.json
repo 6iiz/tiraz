@@ -1,0 +1,133 @@
+{
+ "line": [
+  {
+   "kind": "type",
+   "t": 0.0,
+   "gain": -17
+  },
+  {
+   "kind": "type",
+   "t": 0.3,
+   "gain": -18
+  },
+  {
+   "kind": "type",
+   "t": 0.6,
+   "gain": -17
+  },
+  {
+   "kind": "type",
+   "t": 0.9,
+   "gain": -18
+  },
+  {
+   "kind": "click",
+   "t": 1.2,
+   "gain": -12
+  }
+ ],
+ "count": [
+  {
+   "kind": "tick",
+   "t": 0.3,
+   "gain": -17
+  },
+  {
+   "kind": "tick",
+   "t": 0.6,
+   "gain": -17
+  },
+  {
+   "kind": "tick",
+   "t": 0.95,
+   "gain": -17
+  },
+  {
+   "kind": "ding",
+   "t": 1.5,
+   "gain": -10
+  },
+  {
+   "kind": "type",
+   "t": 1.7,
+   "gain": -17
+  },
+  {
+   "kind": "type",
+   "t": 2.0,
+   "gain": -17
+  }
+ ],
+ "list": [
+  {
+   "kind": "type",
+   "t": 0.0,
+   "gain": -17,
+   "item": 0
+  },
+  {
+   "kind": "type",
+   "t": 0.27,
+   "gain": -16,
+   "item": 0
+  },
+  {
+   "kind": "type",
+   "t": 0.69,
+   "gain": -16,
+   "item": 1
+  },
+  {
+   "kind": "type",
+   "t": 1.11,
+   "gain": -16,
+   "item": 2
+  },
+  {
+   "kind": "type",
+   "t": 1.53,
+   "gain": -16,
+   "item": 3
+  },
+  {
+   "kind": "type",
+   "t": 1.95,
+   "gain": -16,
+   "item": 4
+  }
+ ],
+ "compare": [
+  {
+   "kind": "type",
+   "t": 0.15,
+   "gain": -17
+  },
+  {
+   "kind": "type",
+   "t": 0.45,
+   "gain": -17
+  },
+  {
+   "kind": "glitch",
+   "t": 0.9,
+   "gain": -15
+  },
+  {
+   "kind": "type",
+   "t": 1.3,
+   "gain": -16
+  },
+  {
+   "kind": "click",
+   "t": 1.45,
+   "gain": -11
+  }
+ ],
+ "joint": [
+  {
+   "kind": "glitch",
+   "t": 0.0,
+   "gain": -17
+  }
+ ]
+}

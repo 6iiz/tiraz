@@ -1,0 +1,1 @@
+{ "duration": 3.6, "sfx": [ { "kind": "click", "t": 0.05, "gain": -12 }, { "kind": "shimmer", "t": 0.3, "gain": -14 }, { "kind": "sparkle", "t": 1.0, "gain": -14 }, { "kind": "click", "t": 0.95, "gain": -12 }, { "kind": "type", "t": 1.25, "gain": -16 }, { "kind": "type", "t": 1.7, "gain": -16 }, { "kind": "success", "t": 2.05, "gain": -10, "tag": "resolve" } ] }

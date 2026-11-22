@@ -1,0 +1,1 @@
+{ "duration": 3.5, "sfx": [ { "kind": "impact", "t": 0.05, "gain": -8 }, { "kind": "pop", "t": 0.58, "gain": -9 }, { "kind": "pop", "t": 1.02, "gain": -11, "variant": 1 }, { "kind": "pop", "t": 1.47, "gain": -12 }, { "kind": "sparkle", "t": 1.85, "gain": -16 } ] }

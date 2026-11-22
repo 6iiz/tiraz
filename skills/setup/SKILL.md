@@ -10,7 +10,7 @@ You are setting up Tiraz for one customer. At the end they have a brand folder t
 **The kit root** is two folders above this file (it holds `engine/`, `tools/`, `guides/`, `assets/`). Call it `<kit>`.
 **The customer's files** live in their own project, never inside the kit: `<project>/tiraz/brand/`. `<project>` is the folder this session works in; confirm it with the customer once.
 
-**The kit has no look of its own.** There is no template to fill. What the customer's content looks like is designed here, from their materials and their taste, and belongs to them. Never start from `tools/fixtures/` (a plain test card that exists only to test the kit), from a picture of someone else's result, or from another brand's folder.
+**The kit has no look of its own.** There is no template to fill. What the customer's content looks like is designed here, from their materials and their taste, or is a style from `<kit>/styles/` that they chose, drawn entirely in their colours, face and logo and installed as their own copy; either way it belongs to them. Never start from `tools/fixtures/` (a plain test card that exists only to test the kit), from a picture of someone else's result, or from another brand's folder.
 
 Speak to the customer in their language. With Arabic speakers use clear simple Arabic and switch to their dialect once you hear it. One step at a time. Summarise tool output in a sentence; never paste JSON at them.
 
@@ -72,7 +72,18 @@ Run `python <kit>/tools/brand_check.py <project>/tiraz/brand --preview`. Fix eve
 
 ## 4. The look
 
-This is the part that makes their content theirs. Follow `<kit>/guides/look.md` step by step, and read `<kit>/guides/scenes.md`, `<kit>/guides/motion.md` and `<kit>/guides/arabic-text.md` before writing code.
+This is the part that makes their content theirs. There are two roads; ask them which they want, in one message, and recommend one from what you learned:
+
+- **A style from the library** (faster): 114 finished styles (five of them 3D, `"kind": "3d"`) in `<kit>/styles/` (`index.json` lists them with a line each; `style.md` in each folder says what it suits). Each is drawn entirely with their colours, font and logo.
+- **A look designed from scratch** (steps 1–7 below): three directions made for them alone.
+
+**The library road.**
+1. From what they told you, pick the three styles that fit them best and render each on their own brand: `python <kit>/styles/try.py <style> --brand <project>/tiraz/brand` (stills and a sheet in `<kit>/out/styles/<style>/reel/stills/`). Open every sheet and look before they do: a style that fights their colours (for example a light-ground style with a weak light colour) is dropped and replaced.
+2. Show the three sheets with one sentence each from its `style.md`, say which you recommend and why. They may also ask for any other style in `index.json`.
+3. Install their choice: `python <kit>/styles/install.py <style> <project>/tiraz/brand`. It copies the look into their folder as their own, with the style's rules as `look/look.md`. Write their choice in their words in `rules.md`.
+4. Continue at step 6 (check) and step 7 (approval) below. Every later change goes into their copy; the library is never edited for one customer.
+
+**The from-scratch road.** Follow `<kit>/guides/look.md` step by step, and read `<kit>/guides/scenes.md`, `<kit>/guides/motion.md` and `<kit>/guides/arabic-text.md` before writing code.
 
 1. **Evidence.** Fill the inventory in `look.md` section 1 from their logo, product, typeface, colours, voice and references. Write it into `look/notes.md`.
 2. **Three directions.** One sentence each, different in kind and not in colour (`look.md` section 2). Put your first idea aside. Run the two tests on each: cover the logo, swap in a competitor.
@@ -96,7 +107,7 @@ This is the part that makes their content theirs. Follow `<kit>/guides/look.md` 
 ## What this skill never does
 
 - It does not publish, post or send anything anywhere.
-- It does not use a ready-made look: not the test card, not a picture of another brand's result, not something made for another brand.
+- It does not use a ready-made look: not the test card, not a picture of another brand's result, not something made for another brand. The one exception is a style from `<kit>/styles/` that the customer chose, installed as their own copy.
 - It does not redraw the customer's logo, and it does not copy another brand's logo, font or look into their folder.
 - It does not write into the kit folder.
 - It does not state a price, promise or number that is not in `facts.md`.

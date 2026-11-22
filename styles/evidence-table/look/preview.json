@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.8, "at": -0.8, "says": { "lead": "كل قصة ولها دليل", "text": "وقصتنا *محفوظة* بالأرشيف" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 3.0, "says": { "value": 1962, "label": "سنة أول فنجان قدّمناه" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.6, "says": { "title": "من الملف", "items": ["الوصفة الأولى", "صورة *الافتتاح*", "دفتر الزبائن"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.2, "says": { "label": "تغيّر المكان", "was": "دكان صغير", "now": "بيت القهوة" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.4 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.3, 1.9, 4.6, 7.6, 10.4, 13.6]
+}

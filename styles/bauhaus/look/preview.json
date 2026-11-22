@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.6, "at": -0.8, "says": { "lead": "ثلاث أشكال بس", "text": "بتبني *هوية* كاملة" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 3, "label": "دائرة ومربع ومثلث" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.2, "says": { "title": "ومنها بيطلع", "items": ["اللوغو", "اللافتة", "*الموقع*", "الريل"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 2.8, "says": { "label": "من", "was": "زخرفة زيادة", "now": "شكل واضح" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.4 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.3, 1.6, 4.0, 7.0, 9.3, 12.4]
+}

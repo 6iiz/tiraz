@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.6, "at": -0.8, "says": { "lead": "خط ورا خط", "text": "بتنبني *الصورة* كلها" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 3, "label": "طبقات خطوط، وبعدها اللون" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.4, "says": { "title": "وعلى اللوح بينحفر", "items": ["المحيط", "التظليل", "*التلوين*", "التوقيع"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.0, "says": { "label": "بعد الحفر", "was": "رسمة سريعة", "now": "لوحة بتدوم" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.5 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.3, 2.2, 4.3, 7.1, 9.8, 13.6]
+}

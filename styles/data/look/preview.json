@@ -1,0 +1,133 @@
+{
+ "scenes": [
+  {
+   "scene": "/brand/look/parts/line.js",
+   "spec": {
+    "duration": 2.6,
+    "at": -0.8,
+    "says": {
+     "lead": "قبل ما تقرّر",
+     "text": "خلّي *الأرقام* تحكي عنك"
+    }
+   }
+  },
+  {
+   "scene": "/brand/look/parts/count.js",
+   "spec": {
+    "duration": 3.0,
+    "says": {
+     "value": 87,
+     "suffix": "%",
+     "label": "من زبائننا رجعوا خلال شهر"
+    },
+    "sfx": [
+     {
+      "kind": "tick",
+      "t": 0.4,
+      "gain": -16
+     },
+     {
+      "kind": "tick",
+      "t": 0.8,
+      "gain": -16
+     },
+     {
+      "kind": "tick",
+      "t": 1.2,
+      "gain": -16
+     },
+     {
+      "kind": "ding",
+      "t": 1.6,
+      "gain": -10
+     }
+    ]
+   }
+  },
+  {
+   "scene": "/brand/look/parts/list.js",
+   "spec": {
+    "duration": 3.4,
+    "says": {
+     "title": "الأكثر طلبًا هذا الشهر",
+     "items": [
+      "*قهوة مختصة*",
+      "لاتيه",
+      "كابتشينو",
+      "شاي كرك"
+     ]
+    },
+    "sfx": [
+     {
+      "kind": "tick",
+      "t": 0.25,
+      "gain": -14
+     },
+     {
+      "kind": "tick",
+      "t": 0.6,
+      "gain": -14
+     },
+     {
+      "kind": "tick",
+      "t": 0.95,
+      "gain": -14
+     },
+     {
+      "kind": "tick",
+      "t": 1.3,
+      "gain": -14
+     }
+    ]
+   }
+  },
+  {
+   "scene": "/brand/look/parts/compare.js",
+   "spec": {
+    "duration": 3.2,
+    "says": {
+     "label": "وقت الانتظار",
+     "was": 9,
+     "now": 3,
+     "unit": "دقيقة"
+    },
+    "sfx": [
+     {
+      "kind": "swish",
+      "t": 0.3,
+      "gain": -15
+     },
+     {
+      "kind": "drop",
+      "t": 0.9,
+      "gain": -12
+     },
+     {
+      "kind": "toggle",
+      "t": 1.6,
+      "gain": -13
+     }
+    ]
+   }
+  },
+  {
+   "scene": "/brand/look/ending.js",
+   "specUrl": "/brand/look/ending.json"
+  }
+ ],
+ "transition": {
+  "joint": "/brand/look/joint.js",
+  "duration": 0.4
+ },
+ "over": {
+  "scene": "/brand/look/mark.js"
+ },
+ "stills": [
+  0.05,
+  1.4,
+  4.1,
+  7.1,
+  10.0,
+  13.2
+ ]
+}

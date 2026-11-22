@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.8, "at": -0.8, "cut": true, "says": { "lead": "شوف هون منيح", "text": "الفرق كان *بثانية وحدة* بس" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 3.0, "says": { "value": 12, "label": "متر *فاضية* ما حدا غطّاها" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.4, "says": { "title": "شو صار بالظبط", "items": ["الركضة", "التمريرة", "*المساحة*", "اللمسة"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.0, "says": { "label": "قبل التحليل", "was": "حظ", "now": "خطة" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.4 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.0, 1.5, 3.6, 6.4, 9.0, 9.6, 13.4]
+}

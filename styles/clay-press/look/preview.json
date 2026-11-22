@@ -1,0 +1,71 @@
+{
+ "scenes": [
+  {
+   "scene": "/brand/look/parts/line.js",
+   "spec": {
+    "duration": 2.6,
+    "at": -0.8,
+    "cut": true,
+    "says": {
+     "lead": "ليش شركتك",
+     "text": "بتشبه *مية* شركة غيرها؟"
+    }
+   }
+  },
+  {
+   "scene": "/brand/look/parts/count.js",
+   "spec": {
+    "duration": 2.8,
+    "says": {
+     "value": 120,
+     "label": "فنجان كل يوم، من إيدينا لإيدك"
+    }
+   }
+  },
+  {
+   "scene": "/brand/look/parts/list.js",
+   "spec": {
+    "duration": 3.2,
+    "says": {
+     "title": "وعليها بيركب كل شي",
+     "items": [
+      "اللوغو",
+      "الخط",
+      "*الموقع*",
+      "الريل"
+     ]
+    }
+   }
+  },
+  {
+   "scene": "/brand/look/parts/compare.js",
+   "spec": {
+    "duration": 2.8,
+    "says": {
+     "label": "بلّشت من",
+     "was": "قالِب",
+     "now": "نظام"
+    }
+   }
+  },
+  {
+   "scene": "/brand/look/ending.js",
+   "specUrl": "/brand/look/ending.json"
+  }
+ ],
+ "transition": {
+  "joint": "/brand/look/joint.js",
+  "duration": 0.375
+ },
+ "over": {
+  "scene": "/brand/look/mark.js"
+ },
+ "stills": [
+  0.0,
+  3.6,
+  6.5,
+  8.45,
+  8.65,
+  13.6
+ ]
+}

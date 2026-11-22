@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.6, "at": -0.8, "cut": true, "says": { "lead": "من حبّة البن لفنجانك الصبح", "text": "في *رحلة طويلة* ما بتشوفها" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 1200, "label": "كيلومتر بتقطعها الحبّة لتوصلك" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.2, "says": { "title": "محطاتها", "items": ["المزرعة", "المحمصة", "*المطحنة الصغيرة*", "فنجانك"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 2.8, "says": { "label": "كل هالمسافة بتصير", "was": "حبّة", "now": "قهوة الصبح" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.45 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.05, 1.6, 3.6, 6.5, 9.3, 12.4]
+}

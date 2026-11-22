@@ -1,0 +1,1 @@
+{"duration": 3.6, "sfx": [{"kind": "type", "t": 0.15, "gain": -16}, {"kind": "type", "t": 0.45, "gain": -17}, {"kind": "type", "t": 0.75, "gain": -16}, {"kind": "ding", "t": 0.85, "gain": -11}, {"kind": "type", "t": 1.0, "gain": -15}, {"kind": "type", "t": 1.35, "gain": -16}, {"kind": "type", "t": 1.7, "gain": -16}, {"kind": "click", "t": 2.15, "gain": -12}]}

@@ -1,0 +1,1 @@
+{ "duration": 3.6, "sfx": [ { "kind": "scratch", "t": 0.1, "gain": -16 }, { "kind": "rustle", "t": 0.6, "gain": -14 }, { "kind": "scratch", "t": 1.15, "gain": -15 }, { "kind": "click", "t": 1.75, "gain": -11 }, { "kind": "type", "t": 2.0, "gain": -18 }, { "kind": "scratch", "t": 2.4, "gain": -17 } ] }

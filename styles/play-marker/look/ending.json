@@ -1,0 +1,1 @@
+{ "duration": 3.6, "sfx": [ { "kind": "whoosh", "t": 0.2, "gain": -13, "tag": "short" }, { "kind": "impact", "t": 0.45, "gain": -8 }, { "kind": "swish", "t": 0.75, "gain": -13 }, { "kind": "click", "t": 0.95, "gain": -10 }, { "kind": "swish", "t": 1.25, "gain": -15 }, { "kind": "click", "t": 1.5, "gain": -13 }, { "kind": "scratch", "t": 1.85, "gain": -15 } ] }

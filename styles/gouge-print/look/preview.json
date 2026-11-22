@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.6, "at": -0.8, "says": { "lead": "بالسكين والخشب", "text": "بيطلع *الضو* من العتمة" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 3, "label": "أدوات حفر، ولون واحد بس" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.4, "says": { "title": "وعلى اللوح بينحفر", "items": ["الحرف", "الشمس", "*اللون*", "الحقل"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.0, "says": { "label": "بعد الحفر", "was": "لوح أسود", "now": "طبعة حيّة" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.5 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.3, 2.0, 4.0, 6.9, 9.6, 13.4]
+}

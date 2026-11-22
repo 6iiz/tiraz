@@ -1,0 +1,13 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.6, "at": -0.8, "cut": true, "says": { "lead": "ليش شركتك", "text": "بتشبه *مية* شركة غيرها؟" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 12, "label": "شنطة، وكل وحدة فيها نفس الشي" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.2, "says": { "title": "وعليها بيركب كل شي", "items": ["اللوغو", "الخط", "*لون واحد* بيحكي عنك", "الريل"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 2.8, "says": { "label": "بلّشت من", "was": "قالِب", "now": "نظام" } } },
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.4, "says": { "lead": "وهاد اللي بتعطيك ياه أدوات المقهى كلها", "text": "*مجّانية*، ومفتوحة المصدر" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.35 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.0, 1.9, 4.4, 7.6, 9.6, 12.2, 14.4, 16.4]
+}

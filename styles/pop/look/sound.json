@@ -1,0 +1,123 @@
+{
+ "line": [
+  {
+   "kind": "pop",
+   "t": 0.15,
+   "gain": -11,
+   "tag": "low"
+  },
+  {
+   "kind": "pop",
+   "t": 0.32,
+   "gain": -15,
+   "tag": "high"
+  },
+  {
+   "kind": "click",
+   "t": 0.56,
+   "gain": -10
+  }
+ ],
+ "compare": [
+  {
+   "kind": "pop",
+   "t": 0.15,
+   "gain": -13,
+   "tag": "mid"
+  },
+  {
+   "kind": "pop",
+   "t": 0.32,
+   "gain": -13,
+   "tag": "high"
+  },
+  {
+   "kind": "swish",
+   "t": 0.85,
+   "gain": -13
+  },
+  {
+   "kind": "impact",
+   "t": 1.28,
+   "gain": -9
+  }
+ ],
+ "list": [
+  {
+   "kind": "pop",
+   "t": 0.15,
+   "gain": -13,
+   "tag": "low"
+  },
+  {
+   "kind": "pop",
+   "t": 0.43,
+   "gain": -13,
+   "item": 0,
+   "tag": "mid",
+   "variant": 0
+  },
+  {
+   "kind": "pop",
+   "t": 0.81,
+   "gain": -13,
+   "item": 1,
+   "tag": "mid",
+   "variant": 1
+  },
+  {
+   "kind": "pop",
+   "t": 1.19,
+   "gain": -13,
+   "item": 2,
+   "tag": "mid",
+   "variant": 2
+  },
+  {
+   "kind": "pop",
+   "t": 1.57,
+   "gain": -13,
+   "item": 3,
+   "tag": "mid",
+   "variant": 0
+  },
+  {
+   "kind": "pop",
+   "t": 1.95,
+   "gain": -13,
+   "item": 4,
+   "tag": "mid",
+   "variant": 1
+  }
+ ],
+ "count": [
+  {
+   "kind": "pop",
+   "t": 0.15,
+   "gain": -12,
+   "tag": "low"
+  },
+  {
+   "kind": "tick",
+   "t": 0.6,
+   "gain": -16
+  },
+  {
+   "kind": "tick",
+   "t": 1.0,
+   "gain": -16
+  },
+  {
+   "kind": "impact",
+   "t": 1.45,
+   "gain": -9
+  }
+ ],
+ "joint": [
+  {
+   "kind": "swish",
+   "t": 0.1,
+   "gain": -15
+  }
+ ]
+}

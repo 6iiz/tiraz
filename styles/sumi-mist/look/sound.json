@@ -1,0 +1,7 @@
+{
+  "line": [ { "kind": "rustle", "t": 0.05, "gain": -16 }, { "kind": "swish", "t": 0.5, "gain": -16 }, { "kind": "thump", "t": 1.05, "gain": -12 } ],
+  "count": [ { "kind": "swish", "t": 0.05, "gain": -15 }, { "kind": "rustle", "t": 0.3, "gain": -17 }, { "kind": "tick", "t": 0.7, "gain": -18 }, { "kind": "tick", "t": 1.05, "gain": -18 }, { "kind": "thump", "t": 1.45, "gain": -9 } ],
+  "list": [ { "kind": "rustle", "t": 0.05, "gain": -18 }, { "kind": "tick", "t": 0.25, "gain": -15, "item": 0 }, { "kind": "tick", "t": 0.6, "gain": -15, "item": 1 }, { "kind": "tick", "t": 0.95, "gain": -15, "item": 2 }, { "kind": "tick", "t": 1.3, "gain": -15, "item": 3 }, { "kind": "tick", "t": 1.65, "gain": -15, "item": 4 } ],
+  "compare": [ { "kind": "rustle", "t": 0.2, "gain": -16 }, { "kind": "swish", "t": 0.97, "gain": -11 }, { "kind": "swish", "t": 1.25, "gain": -17 }, { "kind": "thump", "t": 2.0, "gain": -11 } ],
+  "joint": [ { "kind": "rustle", "t": 0.1, "gain": -17 } ]
+}

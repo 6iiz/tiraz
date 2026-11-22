@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.6, "at": -0.8, "says": { "lead": "على ورقة وحدة", "text": "بيتطبع *عالمك* كلّه" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 7, "label": "ألواح خشب، ولوح لكل لون" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.4, "says": { "title": "وعلى الورقة بيلتقوا", "items": ["البحر", "الضباب", "*الختم*", "الإطار"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.0, "says": { "label": "من بعدها", "was": "صورة عادية", "now": "لوحة بتنحكى" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.45 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.3, 2.0, 4.0, 6.9, 9.6, 13.4]
+}

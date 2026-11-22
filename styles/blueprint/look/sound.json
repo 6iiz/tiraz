@@ -1,0 +1,128 @@
+{
+ "line": [
+  {
+   "kind": "tick",
+   "t": 0.2,
+   "gain": -17
+  },
+  {
+   "kind": "scratch",
+   "t": 0.55,
+   "gain": -16
+  },
+  {
+   "kind": "tick",
+   "t": 1.0,
+   "gain": -17
+  },
+  {
+   "kind": "click",
+   "t": 1.45,
+   "gain": -14
+  }
+ ],
+ "compare": [
+  {
+   "kind": "tick",
+   "t": 0.2,
+   "gain": -17
+  },
+  {
+   "kind": "click",
+   "t": 0.4,
+   "gain": -13
+  },
+  {
+   "kind": "scratch",
+   "t": 0.88,
+   "gain": -13
+  },
+  {
+   "kind": "scratch",
+   "t": 1.08,
+   "gain": -15,
+   "variant": 1
+  },
+  {
+   "kind": "click",
+   "t": 1.65,
+   "gain": -9
+  },
+  {
+   "kind": "tick",
+   "t": 1.95,
+   "gain": -16
+  }
+ ],
+ "list": [
+  {
+   "kind": "scratch",
+   "t": 0.1,
+   "gain": -18
+  },
+  {
+   "kind": "tick",
+   "t": 0.65,
+   "gain": -14,
+   "item": 0
+  },
+  {
+   "kind": "tick",
+   "t": 1.05,
+   "gain": -14,
+   "item": 1
+  },
+  {
+   "kind": "tick",
+   "t": 1.45,
+   "gain": -14,
+   "item": 2
+  },
+  {
+   "kind": "tick",
+   "t": 1.85,
+   "gain": -14,
+   "item": 3
+  },
+  {
+   "kind": "tick",
+   "t": 2.25,
+   "gain": -14,
+   "item": 4
+  }
+ ],
+ "count": [
+  {
+   "kind": "scratch",
+   "t": 0.1,
+   "gain": -18
+  },
+  {
+   "kind": "tick",
+   "t": 0.5,
+   "gain": -16
+  },
+  {
+   "kind": "tick",
+   "t": 1.0,
+   "gain": -16
+  },
+  {
+   "kind": "click",
+   "t": 1.5,
+   "gain": -10
+  },
+  {
+   "kind": "tick",
+   "t": 1.8,
+   "gain": -16
+  }
+ ],
+ "joint": [
+  {
+   "kind": "swish",
+   "t": 0.15,
+   "gain": -17
+  }
+ ]
+}

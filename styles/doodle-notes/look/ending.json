@@ -1,0 +1,1 @@
+{ "duration": 3.6, "sfx": [ { "kind": "rustle", "t": 0.05, "gain": -15 }, { "kind": "swish", "t": 0.3, "gain": -15 }, { "kind": "pop", "t": 0.5, "gain": -13, "tag": "low" }, { "kind": "swish", "t": 0.78, "gain": -14 }, { "kind": "thump", "t": 1.05, "gain": -10 }, { "kind": "tick", "t": 1.62, "gain": -16 }, { "kind": "swish", "t": 2.45, "gain": -14 } ] }

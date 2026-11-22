@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 3.0, "at": -0.8, "cut": true, "says": { "lead": "ليش شركتك", "text": "بتشبه *مية* شركة غيرها؟" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 3.0, "says": { "value": 37, "label": "نوع بذور سجّلناها هالموسم" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.8, "says": { "title": "شو لاحظنا بالحقل", "items": ["الجذور", "التربة", "*الضوء*", "المطر"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 3.4, "says": { "label": "بلّشت من", "was": "قالِب", "now": "نظام حي" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.6 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.05, 1.5, 2.7, 4.3, 6.6, 8.0, 10.5, 11.6, 13.4, 14.2]
+}

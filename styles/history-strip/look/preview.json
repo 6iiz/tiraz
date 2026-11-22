@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.6, "at": -0.8, "cut": true, "says": { "lead": "سنة الافتتاح", "text": "الحي كله *اكتشف* القهوة" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 3, "label": "فروع على الخريطة" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.2, "says": { "title": "وصلنا لـ", "items": ["الحي القديم", "السوق", "*الجامعة*", "المحطة"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 2.8, "says": { "label": "وتغيّرت الخريطة", "was": "زاوية", "now": "حارة" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.55 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.0, 3.5, 6.4, 8.9, 11.0, 13.2]
+}

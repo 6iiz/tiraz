@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.6, "at": -0.8, "cut": true, "says": { "lead": "لما بتنطفي أضواء الشارع", "text": "منضل *فاتحين لإلك*" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 24, "label": "ساعة *بدون* ما نسكّر" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.2, "says": { "title": "عنا كل ليلة", "items": ["قهوة", "حلو", "*موسيقى حيّة*", "صحاب"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 2.8, "says": { "label": "صار السهر", "was": "بالبيت", "now": "عنا" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.45 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.05, 4.0, 6.6, 9.3, 11.0, 13.6]
+}

@@ -1,0 +1,1 @@
+{ "duration": 3.6, "sfx": [ { "kind": "tick", "t": 0.0, "gain": -14 }, { "kind": "riser", "t": 0.0, "gain": -20, "tag": "1s" }, { "kind": "impact", "t": 0.9, "gain": -7 }, { "kind": "click", "t": 1.25, "gain": -12 }, { "kind": "tick", "t": 1.9, "gain": -16 }, { "kind": "tick", "t": 2.9, "gain": -16 } ] }

@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    { "scene": "/brand/look/parts/line.js", "spec": { "duration": 2.6, "at": -0.8, "cut": true, "says": { "lead": "افتح الكتاب على أول صفحة", "text": "وكل شي *بيوقف لحاله* قدامك" } } },
+    { "scene": "/brand/look/parts/count.js", "spec": { "duration": 2.8, "says": { "value": 24, "label": "صفحة بتنفتح على عالم صغير" } } },
+    { "scene": "/brand/look/parts/list.js", "spec": { "duration": 3.2, "says": { "title": "بكل صفحة بيطلع", "items": ["شجرة", "بيت صغير", "*قصة جديدة*", "ضحكة"] } } },
+    { "scene": "/brand/look/parts/compare.js", "spec": { "duration": 2.8, "says": { "label": "صارت الحكاية", "was": "ورق مسطّح", "now": "مسرح كامل" } } },
+    { "scene": "/brand/look/ending.js", "specUrl": "/brand/look/ending.json" }
+  ],
+  "transition": { "joint": "/brand/look/joint.js", "duration": 0.45 },
+  "over": { "scene": "/brand/look/mark.js" },
+  "stills": [0.0, 1.4, 4.2, 7.2, 9.0, 13.6]
+}

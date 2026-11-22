@@ -1,0 +1,135 @@
+{
+ "scenes": [
+  {
+   "scene": "/brand/look/parts/line.js",
+   "spec": {
+    "duration": 2.6,
+    "at": -0.8,
+    "says": {
+     "lead": "يا أهل الحي",
+     "text": "قهوتنا *تنادي* عليكم"
+    }
+   }
+  },
+  {
+   "scene": "/brand/look/parts/count.js",
+   "spec": {
+    "duration": 3.0,
+    "says": {
+     "value": 1000,
+     "label": "فنجان كل أسبوع، والعدد يكبر"
+    },
+    "sfx": [
+     {
+      "kind": "whoosh",
+      "t": 0.0,
+      "gain": -12
+     },
+     {
+      "kind": "impact",
+      "t": 0.3,
+      "gain": -9
+     },
+     {
+      "kind": "tick",
+      "t": 0.7,
+      "gain": -16
+     },
+     {
+      "kind": "tick",
+      "t": 1.0,
+      "gain": -16
+     },
+     {
+      "kind": "thump",
+      "t": 1.4,
+      "gain": -10
+     }
+    ]
+   }
+  },
+  {
+   "scene": "/brand/look/parts/list.js",
+   "spec": {
+    "duration": 3.4,
+    "says": {
+     "title": "مطالبنا",
+     "items": [
+      "قهوة طازة كل صباح",
+      "سعر *عادل* للجميع",
+      "خدمة سريعة"
+     ]
+    },
+    "sfx": [
+     {
+      "kind": "thump",
+      "t": 0.1,
+      "gain": -10
+     },
+     {
+      "kind": "swish",
+      "t": 0.25,
+      "gain": -13
+     },
+     {
+      "kind": "swish",
+      "t": 0.57,
+      "gain": -13
+     },
+     {
+      "kind": "swish",
+      "t": 0.89,
+      "gain": -13
+     }
+    ]
+   }
+  },
+  {
+   "scene": "/brand/look/parts/compare.js",
+   "spec": {
+    "duration": 3.2,
+    "says": {
+     "label": "من اليوم",
+     "was": "طابور طويل",
+     "now": "طلبك جاهز"
+    },
+    "sfx": [
+     {
+      "kind": "swish",
+      "t": 0.2,
+      "gain": -13
+     },
+     {
+      "kind": "scratch",
+      "t": 0.65,
+      "gain": -12
+     },
+     {
+      "kind": "impact",
+      "t": 1.1,
+      "gain": -8
+     }
+    ]
+   }
+  },
+  {
+   "scene": "/brand/look/ending.js",
+   "specUrl": "/brand/look/ending.json"
+  }
+ ],
+ "transition": {
+  "joint": "/brand/look/joint.js",
+  "duration": 0.4
+ },
+ "over": {
+  "scene": "/brand/look/mark.js"
+ },
+ "stills": [
+  0.05,
+  1.4,
+  3.9,
+  6.8,
+  9.6,
+  13.2
+ ]
+}
