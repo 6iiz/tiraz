@@ -1,0 +1,157 @@
+{
+ "line": [
+  {
+   "kind": "swish",
+   "t": 0.08,
+   "gain": -17
+  },
+  {
+   "kind": "tick",
+   "t": 0.42,
+   "gain": -15
+  },
+  {
+   "kind": "tick",
+   "t": 0.58,
+   "gain": -15
+  },
+  {
+   "kind": "click",
+   "t": 0.76,
+   "gain": -12
+  },
+  {
+   "kind": "tick",
+   "t": 0.95,
+   "gain": -19
+  }
+ ],
+ "count": [
+  {
+   "kind": "swish",
+   "t": 0.05,
+   "gain": -17
+  },
+  {
+   "kind": "tick",
+   "t": 0.4,
+   "gain": -15
+  },
+  {
+   "kind": "click",
+   "t": 0.62,
+   "gain": -12
+  },
+  {
+   "kind": "tick",
+   "t": 0.89,
+   "gain": -15
+  },
+  {
+   "kind": "tick",
+   "t": 1.24,
+   "gain": -15
+  },
+  {
+   "kind": "tick",
+   "t": 1.59,
+   "gain": -14
+  },
+  {
+   "kind": "impact",
+   "t": 1.94,
+   "gain": -11
+  }
+ ],
+ "list": [
+  {
+   "kind": "swish",
+   "t": 0.05,
+   "gain": -18
+  },
+  {
+   "kind": "click",
+   "t": 0.55,
+   "gain": -13,
+   "item": 0
+  },
+  {
+   "kind": "click",
+   "t": 1.05,
+   "gain": -13,
+   "item": 1
+  },
+  {
+   "kind": "click",
+   "t": 1.55,
+   "gain": -13,
+   "item": 2
+  },
+  {
+   "kind": "click",
+   "t": 2.05,
+   "gain": -13,
+   "item": 3
+  },
+  {
+   "kind": "click",
+   "t": 2.55,
+   "gain": -13,
+   "item": 4
+  }
+ ],
+ "compare": [
+  {
+   "kind": "swish",
+   "t": 0.08,
+   "gain": -17
+  },
+  {
+   "kind": "tick",
+   "t": 0.5,
+   "gain": -15
+  },
+  {
+   "kind": "click",
+   "t": 0.8,
+   "gain": -12
+  },
+  {
+   "kind": "drop",
+   "t": 1.44,
+   "gain": -13
+  },
+  {
+   "kind": "rustle",
+   "t": 1.56,
+   "gain": -16
+  },
+  {
+   "kind": "swish",
+   "t": 1.74,
+   "gain": -15
+  },
+  {
+   "kind": "click",
+   "t": 2.1,
+   "gain": -12
+  },
+  {
+   "kind": "impact",
+   "t": 2.33,
+   "gain": -12
+  }
+ ],
+ "joint": [
+  {
+   "kind": "swish",
+   "t": 0.05,
+   "gain": -17
+  },
+  {
+   "kind": "tick",
+   "t": 0.28,
+   "gain": -20
+  }
+ ]
+}

@@ -52,7 +52,7 @@ export function glass(P, env, kind = 'clear', depth = 40) {
   const tint = kind === 'key' ? P.glow : kind === 'smoke' ? P.dim : P.ink;
   const base = { transmission: 1, thickness: depth, ior: 1.48, metalness: 0, envMap: env, specularIntensity: 1, attenuationColor: new THREE.Color(tint), attenuationDistance: depth * 2.2 };
   const face = new THREE.MeshPhysicalMaterial({ ...base, color: new THREE.Color(mix(tint, '#ffffff', kind === 'key' ? 0.15 : 0.35)), roughness: 0.1,
-    envMapIntensity: 1.1, clearcoat: 1, clearcoatRoughness: 0.12, emissive: new THREE.Color(tint), emissiveIntensity: kind === 'key' ? 0.42 : kind === 'smoke' ? 0.34 : 0.16 });
+    envMapIntensity: 1.1, clearcoat: 1, clearcoatRoughness: 0.12, emissive: new THREE.Color(tint), emissiveIntensity: kind === 'key' ? 0.6 : kind === 'smoke' ? 0.34 : 0.5 });
   const side = new THREE.MeshPhysicalMaterial({ ...base, color: new THREE.Color(mix(tint, '#ffffff', 0.5)), roughness: 0.06, envMapIntensity: 2.2,
     emissive: new THREE.Color(tint), emissiveIntensity: kind === 'key' ? 1.1 : kind === 'smoke' ? 0.6 : 0.95 });
   return [face, side];

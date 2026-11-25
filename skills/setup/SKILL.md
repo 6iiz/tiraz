@@ -74,7 +74,7 @@ Run `python <kit>/tools/brand_check.py <project>/tiraz/brand --preview`. Fix eve
 
 This is the part that makes their content theirs. There are two roads; ask them which they want, in one message, and recommend one from what you learned:
 
-- **A style from the library** (faster): 114 finished styles (five of them 3D, `"kind": "3d"`) in `<kit>/styles/` (`index.json` lists them with a line each; `style.md` in each folder says what it suits). Each is drawn entirely with their colours, font and logo.
+- **A style from the library** (faster): 121 finished styles (twelve of them 3D, `"kind": "3d"`) in `<kit>/styles/` (`index.json` lists them with a line each; `style.md` in each folder says what it suits). Each is drawn entirely with their colours, font and logo.
 - **A look designed from scratch** (steps 1–7 below): three directions made for them alone.
 
 **The library road.**

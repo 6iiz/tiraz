@@ -13,13 +13,16 @@ import { mix, contrast, hasArabic, clamp } from '/engine/kit.js';
 const lum = (h) => contrast(h, '#000000');
 export function palette(brand) {
   const { bg, text, accent } = brand.colors;
-  const dark = lum(bg) <= lum(text) ? bg : text, light = dark === bg ? text : bg;
+  // The table always takes the brand's text colour and the cast letters the background colour, so the two always contrast:
+  // a light identity gives a dark table with light metal (as before); a dark identity gives a light table with dark metal,
+  // instead of light letters on a black table in a black room. `dark` names the table side, `light` the metal side.
+  const dark = text, light = bg;
   return {
     dark, light, accent,
-    table: dark,                                   // the studio table is always the brand's dark colour
-    pool: mix(dark, light, 0.12),                 // where the key light falls on it
-    old: mix(light, dark, 0.42),                   // a dulled metal for what is struck out
-    soft: mix(light, dark, 0.14),                  // lead-ins and labels: the same metal, a step back
+    table: dark,                                   // the studio table: the brand's text colour
+    pool: lum(dark) > lum(light) ? mix(dark, '#FFFFFF', 0.45) : mix(dark, light, 0.20),   // where the key light falls: always brighter
+    old: mix(light, dark, 0.26),                   // a dulled metal for what is struck out
+    soft: mix(light, dark, 0.10),                  // lead-ins and labels: the same metal, a step back
     plate: mix(dark, light, 0.17),                 // stamped plates
     note: mix(light, dark, 0.5),
   };
@@ -43,16 +46,16 @@ export function renderer(W, H) {
 // camera) mirror it; two strips at the sides and one overhead catch the bevels and the walls of the letters.
 function studioEnv(r) {
   const s = new THREE.Scene();
-  s.add(new THREE.Mesh(new THREE.BoxGeometry(200, 200, 200), new THREE.MeshBasicMaterial({ color: new THREE.Color(0.012, 0.012, 0.012), side: THREE.BackSide })));
+  s.add(new THREE.Mesh(new THREE.BoxGeometry(200, 200, 200), new THREE.MeshBasicMaterial({ color: new THREE.Color(0.055, 0.055, 0.055), side: THREE.BackSide })));
   const panel = (w, h, x, y, z, k) => {
     const m = new THREE.Mesh(new THREE.PlaneGeometry(w, h), new THREE.MeshBasicMaterial({ color: new THREE.Color(k, k, k), side: THREE.DoubleSide }));
     m.position.set(x, y, z); m.lookAt(0, 0, 0); s.add(m);
   };
-  panel(70, 22, 0, 30, 80, 1.15);       // the big soft box, upper half (faces looking up the table see it brighter)
-  panel(70, 22, 0, 5, 85, 0.32);       // and its lower half, dimmer: a gradient down each face
-  panel(14, 80, -85, 10, 20, 2.2);     // strip, left
-  panel(14, 80, 85, 10, 20, 1.0);      // strip, right
-  panel(80, 14, 0, 85, 10, 1.6);       // overhead
+  panel(70, 26, 0, 30, 80, 2.60);       // the big soft box, upper half (faces looking up the table see it brighter)
+  panel(70, 26, 0, 5, 85, 1.00);       // and its lower half, dimmer: a gradient down each face
+  panel(18, 86, -85, 10, 20, 3.20);     // strip, left
+  panel(18, 86, 85, 10, 20, 2.00);      // strip, right
+  panel(84, 18, 0, 85, 10, 2.60);       // overhead
   const pm = new THREE.PMREMGenerator(r), tex = pm.fromScene(s, 0.035).texture; pm.dispose();
   return tex;
 }

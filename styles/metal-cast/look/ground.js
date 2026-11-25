@@ -12,7 +12,7 @@ function tableTexture(pal) {
   if (TABLES.has(k)) return TABLES.get(k);
   const n = 1536, cv = document.createElement('canvas'); cv.width = cv.height = n;
   const g = cv.getContext('2d', { willReadFrequently: true });
-  const edge = mix(pal.table, '#000000', 0.38);
+  const edge = mix(pal.table, '#000000', 0.14);
   g.fillStyle = edge; g.fillRect(0, 0, n, n);
   // the plane spans 5000 units; the pool is centred a little above the middle of the frame
   const cx = n / 2, cy = n / 2 - (120 / 5000) * n, r = (2300 / 5000) * n;

@@ -1,0 +1,50 @@
+{
+ "duration": 3.6,
+ "sfx": [
+  {
+   "kind": "swish",
+   "t": 0.15,
+   "gain": -16
+  },
+  {
+   "kind": "tick",
+   "t": 0.5,
+   "gain": -16
+  },
+  {
+   "kind": "tick",
+   "t": 0.75,
+   "gain": -16
+  },
+  {
+   "kind": "thump",
+   "t": 1.05,
+   "gain": -10
+  },
+  {
+   "kind": "swish",
+   "t": 1.2,
+   "gain": -17
+  },
+  {
+   "kind": "click",
+   "t": 1.65,
+   "gain": -12
+  },
+  {
+   "kind": "tick",
+   "t": 1.8,
+   "gain": -17
+  },
+  {
+   "kind": "click",
+   "t": 1.95,
+   "gain": -14
+  },
+  {
+   "kind": "sparkle",
+   "t": 2.15,
+   "gain": -19
+  }
+ ]
+}

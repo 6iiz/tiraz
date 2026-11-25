@@ -50,15 +50,16 @@ export function create({ W, H, brand, look }) {
       transparent: true, alphaMap: fade(), depthWrite: false, fog: false }));
   floor.rotation.x = -Math.PI / 2; floor.position.set(0, -eye, (D - back) / 2); scene.add(floor);
 
-  scene.add(new THREE.AmbientLight(lin(P.ink), 0.15));
+  scene.add(new THREE.AmbientLight(lin(P.ink), 0.4));
   const rim = (x, y, z, k) => { const l = new THREE.DirectionalLight(0xffffff, k); l.position.set(x, y, z); scene.add(l); return l; };
-  rim(-900, 700, -900, 2.4); rim(1000, 400, -700, 1.8); rim(0, 900, 900, 0.6);
+  rim(-900, 700, -900, 2.4); rim(1000, 400, -700, 1.8); rim(0, 900, 900, 1.3);
   const sweepLight = new THREE.PointLight(lin(P.ink), 0, 1600, 0); scene.add(sweepLight);
 
   // light that has passed through glass and lies on the floor in front of it: a soft patch, additive, never darker than the floor
   const blob = (() => { const c = document.createElement('canvas'); c.width = c.height = 256; const x = c.getContext('2d');
     const g = x.createRadialGradient(128, 128, 0, 128, 128, 128); g.addColorStop(0, 'rgba(255,255,255,1)'); g.addColorStop(0.5, 'rgba(255,255,255,0.35)'); g.addColorStop(1, 'rgba(255,255,255,0)');
     x.fillStyle = g; x.fillRect(0, 0, 256, 256); const t = new THREE.CanvasTexture(c); t.colorSpace = THREE.SRGBColorSpace; return t; })();
+  // (kept, unused: a word-shaped patch read as a blurred mirrored word under the text, so every patch is now a plain soft pool)
   // a patch shaped like a word: the word drawn blurred, so the coloured light carries its outline (seen upside down, as cast light is)
   const wordTex = (text, size) => {
     const c = document.createElement('canvas'); c.width = 1024; c.height = 512; const x = c.getContext('2d');
@@ -72,7 +73,7 @@ export function create({ W, H, brand, look }) {
   };
   // patch(colour, sx, width, { text }) -> mesh on the floor, in front of the glass at frame x = sx; set .material.opacity per frame
   const patch = (color, sx, width, { text = null, z = 420, length = 620 } = {}) => {
-    const m = new THREE.Mesh(new THREE.PlaneGeometry(width, length), new THREE.MeshBasicMaterial({ map: text ? wordTex(text) : blob, color: lin(color).multiplyScalar(0.7),
+    const m = new THREE.Mesh(new THREE.PlaneGeometry(width, length), new THREE.MeshBasicMaterial({ map: blob, color: lin(color).multiplyScalar(0.4),
       transparent: true, opacity: 0, blending: THREE.AdditiveBlending, depthWrite: false, fog: false, toneMapped: true }));
     m.rotation.x = -Math.PI / 2; m.position.set(sx - W / 2, -eye + 1, z); m.renderOrder = 2; scene.add(m); return m;
   };
